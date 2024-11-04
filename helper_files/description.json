@@ -1,5 +1,5 @@
 {
-    "stat_coverage_bold.json" : "The proportion of voxels\/vertices that are defined within the segmentation.",
+    "stat-coverage_bold.json" : "The proportion of voxels\/vertices that are defined within the segmentation.",
     "stat-mean_desc-curv_morph.json" : "Cortical curvature metric generated through Nibabies and XCP-D.",
     "stat-mean_desc-sulc_morph.json" : "Cortical sulc metric generated through Nibabies and XCP-D.",
     "stat-mean_desc-thickness_morph.json" : "Cortical thickness metric generated through Nibabies and XCP-D.",
