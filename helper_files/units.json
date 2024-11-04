@@ -1,0 +1,6 @@
+{"stat_coverage_bold.json" : "Coverage (proportion)",
+ "stat-mean_desc-curv_morph.json" : "Mean Curvature (1/millimeter)",
+ "stat-mean_desc-sulc_morph.json" : "Distance (millimeters)",
+ "stat-mean_desc-thickness_morph.json" : "Thickness (millimeters)",
+ "stat-reho_bold.json" : "Regional Homogeneity (Kendall's Coefficient of Concordance)",
+ "desc-aseg_volumes.json" : "Volume (cubic millimeters"}

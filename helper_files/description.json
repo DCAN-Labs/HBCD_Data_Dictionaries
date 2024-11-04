@@ -1,0 +1,10 @@
+{
+    "stat_coverage_bold.json" : "The proportion of voxels\/vertices that are defined within the segmentation.",
+    "stat-mean_desc-curv_morph.json" : "Cortical curvature metric generated through Nibabies and XCP-D.",
+    "stat-mean_desc-sulc_morph.json" : "Cortical sulc metric generated through Nibabies and XCP-D.",
+    "stat-mean_desc-thickness_morph.json" : "Cortical thickness metric generated through Nibabies and XCP-D.",
+    "stat-reho_bold.json" : "ReHo Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
+    "desc-aseg_volumes.json" : "Volumes of different brain regions produced by the BIBSNet tool.",
+    "img_osprey_HERCULES" : "Magnetic Resonance Spectroscopy statistics calculated from the HERCULES processing.",
+    "img_osprey_unedited" : "Magnetic Resonance Spectroscopy statistics calculated from the unedited processing."
+}
