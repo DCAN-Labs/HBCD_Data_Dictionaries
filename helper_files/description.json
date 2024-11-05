@@ -3,7 +3,8 @@
     "stat-mean_desc-curv_morph.json" : "Cortical curvature metric generated through Nibabies and XCP-D.",
     "stat-mean_desc-sulc_morph.json" : "Cortical sulc metric generated through Nibabies and XCP-D.",
     "stat-mean_desc-thickness_morph.json" : "Cortical thickness metric generated through Nibabies and XCP-D.",
-    "stat-reho_bold.json" : "ReHo Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
+    "stat-reho_bold.json" : "Regional Homogeneity (ReHo) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
+    "stat-alff_bold.json" : "Amplitude of Low Frequency Fluctuation (ALFF) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
     "desc-aseg_volumes.json" : "Volumes of different brain regions produced by the BIBSNet tool.",
     "img_osprey_HERCULES" : "Magnetic Resonance Spectroscopy analysis statistics calculated from the HERCULES acquisition.",
     "img_osprey_unedited" : "Magnetic Resonance Spectroscopy analysis statistics calculated from the unedited acquisition."
