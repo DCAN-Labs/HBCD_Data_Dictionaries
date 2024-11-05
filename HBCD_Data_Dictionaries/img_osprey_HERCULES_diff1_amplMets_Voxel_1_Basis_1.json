@@ -1,6 +1,6 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "Magnetic Resonance Spectroscopy statistics calculated from the HERCULES processing.",
+        "Description": "Magnetic Resonance Spectroscopy analysis statistics calculated from the HERCULES acquisition.",
         "TermURL": "https://schorschinho.github.io/osprey/"
     },
     "GABA": {
