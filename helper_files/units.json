@@ -3,4 +3,5 @@
  "stat-mean_desc-sulc_morph.json" : "Distance (millimeters)",
  "stat-mean_desc-thickness_morph.json" : "Thickness (millimeters)",
  "stat-reho_bold.json" : "Regional Homogeneity (Kendall's Coefficient of Concordance)",
+ "stat-alff_bold.json" : "Amplitude of Low Frequency Fluctuations (arbitrary units)",
  "desc-aseg_volumes.json" : "Volume (cubic millimeters)"}
