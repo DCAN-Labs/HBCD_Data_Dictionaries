@@ -1,7 +1,9 @@
 {
     "MeasurementToolMetadata": {
         "Description": "HBCD-MADE Summary Statistics for the Visual Evoked Potential Task",
-        "TermURL": "https://hbcd-made.readthedocs.io/en/latest/expected_outputs.html"
+        "TermURL": "https://hbcd-made.readthedocs.io/en/latest/expected_outputs.html",
+        "Name": "MADE Visual Evoked Potential ERP Stats",
+        "Category": ["EEG"]
     },
     "Condition": {
         "LongName": "eeg_made_task-VEP_ERP-summaryStats_Condition",

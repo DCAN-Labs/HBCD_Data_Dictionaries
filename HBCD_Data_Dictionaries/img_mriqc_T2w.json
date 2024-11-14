@@ -1,9 +1,9 @@
 {
     "MeasurementToolMetadata": {
         "Description": "MRIQC",
-        "TermURL": "n\/a",
-        "Name": "n\/a",
-        "Category": "n\/a"
+        "TermURL": "https://mriqc.readthedocs.io/en/latest/index.html",
+        "Name": "MRIQC IQMs for T2w Images",
+        "Category": ["QC", "Morphometry"]
     },
     "cjv": {
         "LongName": "img_mriqc_T2w_cjv",
