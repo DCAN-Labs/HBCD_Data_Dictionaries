@@ -1,0 +1,8 @@
+{
+    "stat-coverage_bold.json" : "{pipeline} {segmentation} coverage",
+    "stat-mean_desc-curv_morph.json" : "{pipeline} {segmentation} curvature",
+    "stat-mean_desc-sulc_morph.json" : "{pipeline} {segmentation} sulc",
+    "stat-mean_desc-thickness_morph.json" : "{pipeline} {segmentation} thickness",
+    "stat-reho_bold.json" : "{pipeline} {segmentation} Regional Homogeity (ReHo)",
+    "stat-alff_bold.json" : "{pipeline} {segmentation} Amplitude of Low Frequency Fluctuations (ALFF)"
+}
