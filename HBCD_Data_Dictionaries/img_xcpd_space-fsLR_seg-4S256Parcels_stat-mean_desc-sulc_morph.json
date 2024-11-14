@@ -1,7 +1,11 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Cortical sulc metric generated through Nibabies and XCP-D.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html"
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
+        "Name": "XCP-D 4S 256 Region Parc. sulc",
+        "Category": [
+            "Morphometry"
+        ]
     },
     "LH_Vis_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S256Parcels_stat-mean_desc-sulc_morph_LH_Vis_1",

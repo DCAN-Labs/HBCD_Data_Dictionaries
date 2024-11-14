@@ -1,7 +1,12 @@
 {
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html"
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
+        "Name": "XCP-D Gordon Parc. coverage",
+        "Category": [
+            "fMRI",
+            "Morphometry"
+        ]
     },
     "L_Default_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_1",

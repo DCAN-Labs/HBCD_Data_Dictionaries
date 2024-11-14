@@ -3,7 +3,9 @@
         "Description": "Volumes of different brain regions produced by the BIBSNet tool.",
         "TermURL": "https://bibsnet.readthedocs.io/en/stable/",
         "Name": "BIBSNet Segmentation Volumes (T1w)",
-        "Category": ["Morphometry"]
+        "Category": [
+            "Morphometry"
+        ]
     },
     "Left-Cerebral-White-Matter": {
         "LongName": "n/a",

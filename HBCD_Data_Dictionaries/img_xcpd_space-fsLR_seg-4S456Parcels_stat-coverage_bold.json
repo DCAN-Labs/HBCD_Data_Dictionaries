@@ -1,7 +1,12 @@
 {
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html"
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
+        "Name": "XCP-D 4S 456 Region Parc. coverage",
+        "Category": [
+            "fMRI",
+            "Morphometry"
+        ]
     },
     "LH_Vis_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S456Parcels_stat-coverage_bold_LH_Vis_1",

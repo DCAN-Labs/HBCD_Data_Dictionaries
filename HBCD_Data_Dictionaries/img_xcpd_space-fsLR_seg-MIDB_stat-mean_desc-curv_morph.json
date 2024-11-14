@@ -1,7 +1,11 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Cortical curvature metric generated through Nibabies and XCP-D.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html"
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
+        "Name": "XCP-D MIDB Parc. curvature",
+        "Category": [
+            "Morphometry"
+        ]
     },
     "DMN_LABEL_1": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-curv_morph_DMN_LABEL_1",

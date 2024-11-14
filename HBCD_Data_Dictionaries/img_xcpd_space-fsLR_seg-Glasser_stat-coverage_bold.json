@@ -1,7 +1,12 @@
 {
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html"
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
+        "Name": "XCP-D Glasser Parc. coverage",
+        "Category": [
+            "fMRI",
+            "Morphometry"
+        ]
     },
     "Right_V1": {
         "LongName": "img_xcpd_space-fsLR_seg-Glasser_stat-coverage_bold_Right_V1",

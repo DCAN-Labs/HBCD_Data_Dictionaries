@@ -1,7 +1,11 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Cortical thickness metric generated through Nibabies and XCP-D.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html"
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
+        "Name": "XCP-D 4S 1056 Region Parc. thickness",
+        "Category": [
+            "Morphometry"
+        ]
     },
     "LH_Vis_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S1056Parcels_stat-mean_desc-thickness_morph_LH_Vis_1",
