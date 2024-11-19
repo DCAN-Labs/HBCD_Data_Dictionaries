@@ -10,7 +10,7 @@
     },
     "cjv": {
         "LongName": "img_mriqc_T1w_cjv",
-        "label": "n/a",
+        "label": "Coefficient of Joint Variation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -44,7 +44,7 @@
     },
     "cnr": {
         "LongName": "img_mriqc_T1w_cnr",
-        "label": "n/a",
+        "label": "Contrast-to-Noise Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -78,7 +78,7 @@
     },
     "efc": {
         "LongName": "img_mriqc_T1w_efc",
-        "label": "n/a",
+        "label": "Entropy Focus Criterion",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -112,7 +112,7 @@
     },
     "fber": {
         "LongName": "img_mriqc_T1w_fber",
-        "label": "n/a",
+        "label": "Foreground-Background Energy Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -146,7 +146,7 @@
     },
     "fwhm_avg": {
         "LongName": "img_mriqc_T1w_fwhm_avg",
-        "label": "n/a",
+        "label": "Full Width Half Maximum Smoothness",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -180,7 +180,7 @@
     },
     "fwhm_x": {
         "LongName": "img_mriqc_T1w_fwhm_x",
-        "label": "n/a",
+        "label": "Full Width Half Maximum in X Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -214,7 +214,7 @@
     },
     "fwhm_y": {
         "LongName": "img_mriqc_T1w_fwhm_y",
-        "label": "n/a",
+        "label": "Full Width Half Maximum in Y Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -248,7 +248,7 @@
     },
     "fwhm_z": {
         "LongName": "img_mriqc_T1w_fwhm_z",
-        "label": "n/a",
+        "label": "Full Width Half Maximum in Z Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -282,7 +282,7 @@
     },
     "icvs_csf": {
         "LongName": "img_mriqc_T1w_icvs_csf",
-        "label": "n/a",
+        "label": "Intracranial CSF volume fraction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -316,7 +316,7 @@
     },
     "icvs_gm": {
         "LongName": "img_mriqc_T1w_icvs_gm",
-        "label": "n/a",
+        "label": "Intracranial GM volume fraction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -350,7 +350,7 @@
     },
     "icvs_wm": {
         "LongName": "img_mriqc_T1w_icvs_wm",
-        "label": "n/a",
+        "label": "Intracranial WM volume fraction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -384,7 +384,7 @@
     },
     "inu_med": {
         "LongName": "img_mriqc_T1w_inu_med",
-        "label": "n/a",
+        "label": "Intensity non-uniformity median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -418,7 +418,7 @@
     },
     "inu_range": {
         "LongName": "img_mriqc_T1w_inu_range",
-        "label": "n/a",
+        "label": "Intensity non-uniformity range",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
