@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D Myers-Labonte Parc. coverage",
+        "Name": "XCP-D Myers-Labonte Parc. Coverage",
         "Category": [
             "fMRI",
             "Morphometry"
