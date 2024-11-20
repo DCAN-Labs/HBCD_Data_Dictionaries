@@ -4,8 +4,7 @@
         "TermURL": "https://mriqc.readthedocs.io/en/latest/index.html",
         "Name": "MRIQC IQMs for T1w Images",
         "Category": [
-            "QC",
-            "Morphometry"
+            "QC"
         ]
     },
     "cjv": {

@@ -4,5 +4,6 @@
     "stat-mean_desc-sulc_morph.json" : ["Morphometry"],
     "stat-mean_desc-thickness_morph.json" : ["Morphometry"],
     "stat-reho_bold.json" : ["fMRI"],
-    "stat-alff_bold.json" : ["fMRI"]
+    "stat-alff_bold.json" : ["fMRI"],
+    "img_osprey" : ["Spectroscopy"]
 }
