@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "Cortical thickness metric generated through Nibabies and XCP-D.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D 4S 256 Region Parc. Thickness",
+        "Name": "XCP-D 4S-256-Region Parc. Thickness",
         "Category": [
             "Morphometry"
         ]

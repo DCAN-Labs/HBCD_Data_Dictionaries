@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "Cortical sulc metric generated through Nibabies and XCP-D.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D 4S 756 Region Parc. Sulc",
+        "Name": "XCP-D 4S-756-Region Parc. Sulc",
         "Category": [
             "Morphometry"
         ]
