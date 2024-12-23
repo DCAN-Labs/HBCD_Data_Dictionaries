@@ -9,7 +9,7 @@
     },
     "Left-Cerebral-White-Matter": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Cerebral-White-Matter",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -43,7 +43,7 @@
     },
     "Left-Cerebral-Cortex": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Cerebral-Cortex",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -77,7 +77,7 @@
     },
     "Left-Lateral-Ventricle": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Lateral-Ventricle",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -111,7 +111,7 @@
     },
     "Left-Cerebellum-Cortex": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Cerebellum-Cortex",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -145,7 +145,7 @@
     },
     "Left-Thalamus-Proper": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Thalamus-Proper",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -179,7 +179,7 @@
     },
     "Left-Caudate": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Caudate",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -213,7 +213,7 @@
     },
     "Left-Putamen": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Putamen",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -247,7 +247,7 @@
     },
     "Left-Pallidum": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Pallidum",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -281,7 +281,7 @@
     },
     "3rd-Ventricle": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region 3rd-Ventricle",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -315,7 +315,7 @@
     },
     "4th-Ventricle": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region 4th-Ventricle",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -349,7 +349,7 @@
     },
     "Brain-Stem": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Brain-Stem",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -383,7 +383,7 @@
     },
     "Left-Hippocampus": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Hippocampus",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -417,7 +417,7 @@
     },
     "Left-Amygdala": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Amygdala",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -451,7 +451,7 @@
     },
     "Left-Accumbens-area": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-Accumbens-area",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -485,7 +485,7 @@
     },
     "Left-VentralDC": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Left-VentralDC",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -519,7 +519,7 @@
     },
     "Right-Cerebral-White-Matter": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Cerebral-White-Matter",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -553,7 +553,7 @@
     },
     "Right-Cerebral-Cortex": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Cerebral-Cortex",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -587,7 +587,7 @@
     },
     "Right-Lateral-Ventricle": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Lateral-Ventricle",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -621,7 +621,7 @@
     },
     "Right-Cerebellum-Cortex": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Cerebellum-Cortex",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -655,7 +655,7 @@
     },
     "Right-Thalamus-Proper": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Thalamus-Proper",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -689,7 +689,7 @@
     },
     "Right-Caudate": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Caudate",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -723,7 +723,7 @@
     },
     "Right-Putamen": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Putamen",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -757,7 +757,7 @@
     },
     "Right-Pallidum": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Pallidum",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -791,7 +791,7 @@
     },
     "Right-Hippocampus": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Hippocampus",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -825,7 +825,7 @@
     },
     "Right-Amygdala": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Amygdala",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -859,7 +859,7 @@
     },
     "Right-Accumbens-area": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-Accumbens-area",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -893,7 +893,7 @@
     },
     "Right-VentralDC": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Right-VentralDC",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -927,7 +927,7 @@
     },
     "Vermis": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region Vermis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
@@ -961,7 +961,7 @@
     },
     "CSF": {
         "LongName": "n/a",
-        "label": "n/a",
+        "label": "BIBSNet Segmentation Volumes (T1w) for region CSF",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Volume (cubic millimeters)",
