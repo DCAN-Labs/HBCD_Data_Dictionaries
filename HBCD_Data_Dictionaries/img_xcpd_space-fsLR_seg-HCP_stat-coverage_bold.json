@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D HCP Parc. Coverage",
+        "Name": "XCP-D HCP Parc. Coverage Values",
         "Category": [
             "fMRI",
             "Morphometry"
@@ -10,7 +10,7 @@
     },
     "CEREBELLUM_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CEREBELLUM_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region CEREBELLUM_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -44,7 +44,7 @@
     },
     "THALAMUS_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_THALAMUS_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region THALAMUS_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -78,7 +78,7 @@
     },
     "CAUDATE_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CAUDATE_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region CAUDATE_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -112,7 +112,7 @@
     },
     "PUTAMEN_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PUTAMEN_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region PUTAMEN_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -146,7 +146,7 @@
     },
     "PALLIDUM_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PALLIDUM_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region PALLIDUM_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -180,7 +180,7 @@
     },
     "BRAIN_STEM": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_BRAIN_STEM",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region BRAIN_STEM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -214,7 +214,7 @@
     },
     "HIPPOCAMPUS_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_HIPPOCAMPUS_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region HIPPOCAMPUS_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -248,7 +248,7 @@
     },
     "AMYGDALA_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_AMYGDALA_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region AMYGDALA_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -282,7 +282,7 @@
     },
     "ACCUMBENS_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_ACCUMBENS_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region ACCUMBENS_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -316,7 +316,7 @@
     },
     "DIENCEPHALON_VENTRAL_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_DIENCEPHALON_VENTRAL_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region DIENCEPHALON_VENTRAL_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -350,7 +350,7 @@
     },
     "CEREBELLUM_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CEREBELLUM_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region CEREBELLUM_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -384,7 +384,7 @@
     },
     "THALAMUS_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_THALAMUS_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region THALAMUS_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -418,7 +418,7 @@
     },
     "CAUDATE_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CAUDATE_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region CAUDATE_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -452,7 +452,7 @@
     },
     "PUTAMEN_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PUTAMEN_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region PUTAMEN_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -486,7 +486,7 @@
     },
     "PALLIDUM_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PALLIDUM_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region PALLIDUM_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -520,7 +520,7 @@
     },
     "HIPPOCAMPUS_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_HIPPOCAMPUS_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region HIPPOCAMPUS_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -554,7 +554,7 @@
     },
     "AMYGDALA_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_AMYGDALA_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region AMYGDALA_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -588,7 +588,7 @@
     },
     "ACCUMBENS_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_ACCUMBENS_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region ACCUMBENS_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -622,7 +622,7 @@
     },
     "DIENCEPHALON_VENTRAL_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_DIENCEPHALON_VENTRAL_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Coverage Values for region DIENCEPHALON_VENTRAL_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",

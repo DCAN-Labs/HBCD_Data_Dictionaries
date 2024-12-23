@@ -2,14 +2,14 @@
     "MeasurementToolMetadata": {
         "Description": "Amplitude of Low Frequency Fluctuation (ALFF) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF)",
+        "Name": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values",
         "Category": [
             "fMRI"
         ]
     },
     "CEREBELLUM_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_CEREBELLUM_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region CEREBELLUM_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -43,7 +43,7 @@
     },
     "THALAMUS_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_THALAMUS_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region THALAMUS_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -77,7 +77,7 @@
     },
     "CAUDATE_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_CAUDATE_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region CAUDATE_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -111,7 +111,7 @@
     },
     "PUTAMEN_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_PUTAMEN_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region PUTAMEN_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -145,7 +145,7 @@
     },
     "PALLIDUM_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_PALLIDUM_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region PALLIDUM_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -179,7 +179,7 @@
     },
     "BRAIN_STEM": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_BRAIN_STEM",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region BRAIN_STEM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -213,7 +213,7 @@
     },
     "HIPPOCAMPUS_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_HIPPOCAMPUS_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region HIPPOCAMPUS_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -247,7 +247,7 @@
     },
     "AMYGDALA_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_AMYGDALA_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region AMYGDALA_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -281,7 +281,7 @@
     },
     "ACCUMBENS_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_ACCUMBENS_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region ACCUMBENS_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -315,7 +315,7 @@
     },
     "DIENCEPHALON_VENTRAL_LEFT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_DIENCEPHALON_VENTRAL_LEFT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region DIENCEPHALON_VENTRAL_LEFT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -349,7 +349,7 @@
     },
     "CEREBELLUM_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_CEREBELLUM_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region CEREBELLUM_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -383,7 +383,7 @@
     },
     "THALAMUS_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_THALAMUS_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region THALAMUS_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -417,7 +417,7 @@
     },
     "CAUDATE_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_CAUDATE_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region CAUDATE_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -451,7 +451,7 @@
     },
     "PUTAMEN_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_PUTAMEN_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region PUTAMEN_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -485,7 +485,7 @@
     },
     "PALLIDUM_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_PALLIDUM_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region PALLIDUM_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -519,7 +519,7 @@
     },
     "HIPPOCAMPUS_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_HIPPOCAMPUS_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region HIPPOCAMPUS_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -553,7 +553,7 @@
     },
     "AMYGDALA_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_AMYGDALA_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region AMYGDALA_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -587,7 +587,7 @@
     },
     "ACCUMBENS_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_ACCUMBENS_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region ACCUMBENS_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -621,7 +621,7 @@
     },
     "DIENCEPHALON_VENTRAL_RIGHT": {
         "LongName": "img_xcpd_space-fsLR_seg-HCP_stat-alff_bold_DIENCEPHALON_VENTRAL_RIGHT",
-        "label": "n/a",
+        "label": "XCP-D HCP Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region DIENCEPHALON_VENTRAL_RIGHT",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",

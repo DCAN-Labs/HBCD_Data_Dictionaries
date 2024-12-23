@@ -2,14 +2,14 @@
     "MeasurementToolMetadata": {
         "Description": "Regional Homogeneity (ReHo) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D Tian Parc. Regional Homogeity (ReHo)",
+        "Name": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values",
         "Category": [
             "fMRI"
         ]
     },
     "HIP-head-m-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-head-m-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-head-m-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -43,7 +43,7 @@
     },
     "HIP-head-l-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-head-l-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-head-l-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -77,7 +77,7 @@
     },
     "HIP-body-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-body-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-body-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -111,7 +111,7 @@
     },
     "HIP-tail-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-tail-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-tail-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -145,7 +145,7 @@
     },
     "THA-VPm-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VPm-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VPm-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -179,7 +179,7 @@
     },
     "THA-VPl-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VPl-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VPl-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -213,7 +213,7 @@
     },
     "THA-VAi-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VAi-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VAi-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -247,7 +247,7 @@
     },
     "THA-VAs-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VAs-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VAs-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -281,7 +281,7 @@
     },
     "THA-DAm-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-DAm-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-DAm-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -315,7 +315,7 @@
     },
     "THA-DAl-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-DAl-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-DAl-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -349,7 +349,7 @@
     },
     "PUT-VA-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-VA-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-VA-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -383,7 +383,7 @@
     },
     "PUT-DA-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-DA-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-DA-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -417,7 +417,7 @@
     },
     "PUT-VP-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-VP-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-VP-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -451,7 +451,7 @@
     },
     "PUT-DP-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-DP-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-DP-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -485,7 +485,7 @@
     },
     "CAU-VA-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-VA-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-VA-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -519,7 +519,7 @@
     },
     "CAU-DA-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-DA-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-DA-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -553,7 +553,7 @@
     },
     "CAU-body-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-body-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-body-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -587,7 +587,7 @@
     },
     "CAU-tail-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-tail-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-tail-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -621,7 +621,7 @@
     },
     "lAMY-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_lAMY-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region lAMY-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -655,7 +655,7 @@
     },
     "mAMY-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_mAMY-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region mAMY-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -689,7 +689,7 @@
     },
     "THA-DP-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-DP-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-DP-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -723,7 +723,7 @@
     },
     "NAc-shell-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_NAc-shell-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region NAc-shell-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -757,7 +757,7 @@
     },
     "NAc-core-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_NAc-core-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region NAc-core-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -791,7 +791,7 @@
     },
     "pGP-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_pGP-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region pGP-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -825,7 +825,7 @@
     },
     "aGP-rh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_aGP-rh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region aGP-rh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -859,7 +859,7 @@
     },
     "HIP-head-m-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-head-m-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-head-m-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -893,7 +893,7 @@
     },
     "HIP-head-l-l": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-head-l-l",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-head-l-l",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -927,7 +927,7 @@
     },
     "HIP-body-l": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-body-l",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-body-l",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -961,7 +961,7 @@
     },
     "HIP-tail-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_HIP-tail-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region HIP-tail-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -995,7 +995,7 @@
     },
     "THA-VPm-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VPm-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VPm-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1029,7 +1029,7 @@
     },
     "THA-VPl-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VPl-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VPl-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1063,7 +1063,7 @@
     },
     "THA-VAi-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VAi-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VAi-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1097,7 +1097,7 @@
     },
     "THA-VAs-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-VAs-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-VAs-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1131,7 +1131,7 @@
     },
     "THA-DAm-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-DAm-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-DAm-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1165,7 +1165,7 @@
     },
     "THA-DAl-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-DAl-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-DAl-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1199,7 +1199,7 @@
     },
     "PUT-VA-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-VA-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-VA-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1233,7 +1233,7 @@
     },
     "PUT-DA-l": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-DA-l",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-DA-l",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1267,7 +1267,7 @@
     },
     "PUT-VP-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-VP-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-VP-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1301,7 +1301,7 @@
     },
     "PUT-DP-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_PUT-DP-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region PUT-DP-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1335,7 +1335,7 @@
     },
     "CAU-VA-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-VA-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-VA-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1369,7 +1369,7 @@
     },
     "CAU-DA-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-DA-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-DA-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1403,7 +1403,7 @@
     },
     "CAU-body-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-body-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-body-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1437,7 +1437,7 @@
     },
     "CAU-tail-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_CAU-tail-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region CAU-tail-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1471,7 +1471,7 @@
     },
     "lAMY-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_lAMY-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region lAMY-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1505,7 +1505,7 @@
     },
     "mAMY-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_mAMY-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region mAMY-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1539,7 +1539,7 @@
     },
     "THA-DP-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_THA-DP-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region THA-DP-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1573,7 +1573,7 @@
     },
     "NAc-shell-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_NAc-shell-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region NAc-shell-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1607,7 +1607,7 @@
     },
     "NAc-core-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_NAc-core-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region NAc-core-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1641,7 +1641,7 @@
     },
     "pGP-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_pGP-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region pGP-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",
@@ -1675,7 +1675,7 @@
     },
     "aGP-lh": {
         "LongName": "img_xcpd_space-fsLR_seg-Tian_stat-reho_bold_aGP-lh",
-        "label": "n/a",
+        "label": "XCP-D Tian Parc. Regional Homogeity (ReHo) Values for region aGP-lh",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Regional Homogeneity (Kendall's Coefficient of Concordance)",

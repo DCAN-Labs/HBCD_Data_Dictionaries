@@ -2,14 +2,14 @@
     "MeasurementToolMetadata": {
         "Description": "Amplitude of Low Frequency Fluctuation (ALFF) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF)",
+        "Name": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values",
         "Category": [
             "fMRI"
         ]
     },
     "LH_Vis_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -43,7 +43,7 @@
     },
     "LH_Vis_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -77,7 +77,7 @@
     },
     "LH_Vis_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -111,7 +111,7 @@
     },
     "LH_Vis_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -145,7 +145,7 @@
     },
     "LH_Vis_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -179,7 +179,7 @@
     },
     "LH_Vis_6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -213,7 +213,7 @@
     },
     "LH_Vis_7": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_7",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -247,7 +247,7 @@
     },
     "LH_Vis_8": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_8",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -281,7 +281,7 @@
     },
     "LH_Vis_9": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Vis_9",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Vis_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -315,7 +315,7 @@
     },
     "LH_SomMot_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SomMot_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SomMot_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -349,7 +349,7 @@
     },
     "LH_SomMot_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SomMot_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SomMot_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -383,7 +383,7 @@
     },
     "LH_SomMot_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SomMot_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SomMot_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -417,7 +417,7 @@
     },
     "LH_SomMot_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SomMot_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SomMot_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -451,7 +451,7 @@
     },
     "LH_SomMot_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SomMot_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SomMot_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -485,7 +485,7 @@
     },
     "LH_SomMot_6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SomMot_6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SomMot_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -519,7 +519,7 @@
     },
     "LH_DorsAttn_Post_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_Post_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_Post_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -553,7 +553,7 @@
     },
     "LH_DorsAttn_Post_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_Post_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_Post_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -587,7 +587,7 @@
     },
     "LH_DorsAttn_Post_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_Post_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_Post_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -621,7 +621,7 @@
     },
     "LH_DorsAttn_Post_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_Post_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_Post_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -655,7 +655,7 @@
     },
     "LH_DorsAttn_Post_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_Post_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_Post_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -689,7 +689,7 @@
     },
     "LH_DorsAttn_Post_6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_Post_6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_Post_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -723,7 +723,7 @@
     },
     "LH_DorsAttn_FEF_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_FEF_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_FEF_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -757,7 +757,7 @@
     },
     "LH_DorsAttn_PrCv_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_DorsAttn_PrCv_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_DorsAttn_PrCv_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -791,7 +791,7 @@
     },
     "LH_SalVentAttn_ParOper_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_ParOper_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_ParOper_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -825,7 +825,7 @@
     },
     "LH_SalVentAttn_FrOperIns_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_FrOperIns_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_FrOperIns_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -859,7 +859,7 @@
     },
     "LH_SalVentAttn_FrOperIns_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_FrOperIns_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_FrOperIns_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -893,7 +893,7 @@
     },
     "LH_SalVentAttn_PFCl_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_PFCl_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_PFCl_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -927,7 +927,7 @@
     },
     "LH_SalVentAttn_Med_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_Med_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_Med_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -961,7 +961,7 @@
     },
     "LH_SalVentAttn_Med_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_Med_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_Med_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -995,7 +995,7 @@
     },
     "LH_SalVentAttn_Med_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_SalVentAttn_Med_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_SalVentAttn_Med_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1029,7 +1029,7 @@
     },
     "LH_Limbic_OFC_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Limbic_OFC_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Limbic_OFC_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1063,7 +1063,7 @@
     },
     "LH_Limbic_TempPole_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Limbic_TempPole_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Limbic_TempPole_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1097,7 +1097,7 @@
     },
     "LH_Limbic_TempPole_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Limbic_TempPole_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Limbic_TempPole_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1131,7 +1131,7 @@
     },
     "LH_Cont_Par_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Cont_Par_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Cont_Par_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1165,7 +1165,7 @@
     },
     "LH_Cont_PFCl_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Cont_PFCl_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Cont_PFCl_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1199,7 +1199,7 @@
     },
     "LH_Cont_pCun_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Cont_pCun_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Cont_pCun_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1233,7 +1233,7 @@
     },
     "LH_Cont_Cing_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Cont_Cing_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Cont_Cing_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1267,7 +1267,7 @@
     },
     "LH_Default_Par_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_Par_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_Par_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1301,7 +1301,7 @@
     },
     "LH_Default_Par_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_Par_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_Par_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1335,7 +1335,7 @@
     },
     "LH_Default_Temp_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_Temp_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_Temp_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1369,7 +1369,7 @@
     },
     "LH_Default_Temp_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_Temp_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_Temp_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1403,7 +1403,7 @@
     },
     "LH_Default_PFC_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1437,7 +1437,7 @@
     },
     "LH_Default_PFC_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1471,7 +1471,7 @@
     },
     "LH_Default_PFC_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1505,7 +1505,7 @@
     },
     "LH_Default_PFC_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1539,7 +1539,7 @@
     },
     "LH_Default_PFC_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1573,7 +1573,7 @@
     },
     "LH_Default_PFC_6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1607,7 +1607,7 @@
     },
     "LH_Default_PFC_7": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_PFC_7",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_PFC_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1641,7 +1641,7 @@
     },
     "LH_Default_pCunPCC_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_pCunPCC_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_pCunPCC_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1675,7 +1675,7 @@
     },
     "LH_Default_pCunPCC_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Default_pCunPCC_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Default_pCunPCC_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1709,7 +1709,7 @@
     },
     "RH_Vis_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1743,7 +1743,7 @@
     },
     "RH_Vis_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1777,7 +1777,7 @@
     },
     "RH_Vis_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1811,7 +1811,7 @@
     },
     "RH_Vis_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1845,7 +1845,7 @@
     },
     "RH_Vis_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1879,7 +1879,7 @@
     },
     "RH_Vis_6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1913,7 +1913,7 @@
     },
     "RH_Vis_7": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_7",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1947,7 +1947,7 @@
     },
     "RH_Vis_8": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Vis_8",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Vis_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -1981,7 +1981,7 @@
     },
     "RH_SomMot_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2015,7 +2015,7 @@
     },
     "RH_SomMot_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2049,7 +2049,7 @@
     },
     "RH_SomMot_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2083,7 +2083,7 @@
     },
     "RH_SomMot_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2117,7 +2117,7 @@
     },
     "RH_SomMot_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2151,7 +2151,7 @@
     },
     "RH_SomMot_6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2185,7 +2185,7 @@
     },
     "RH_SomMot_7": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_7",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2219,7 +2219,7 @@
     },
     "RH_SomMot_8": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SomMot_8",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SomMot_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2253,7 +2253,7 @@
     },
     "RH_DorsAttn_Post_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_Post_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_Post_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2287,7 +2287,7 @@
     },
     "RH_DorsAttn_Post_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_Post_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_Post_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2321,7 +2321,7 @@
     },
     "RH_DorsAttn_Post_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_Post_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_Post_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2355,7 +2355,7 @@
     },
     "RH_DorsAttn_Post_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_Post_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_Post_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2389,7 +2389,7 @@
     },
     "RH_DorsAttn_Post_5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_Post_5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_Post_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2423,7 +2423,7 @@
     },
     "RH_DorsAttn_FEF_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_FEF_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_FEF_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2457,7 +2457,7 @@
     },
     "RH_DorsAttn_PrCv_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_DorsAttn_PrCv_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_DorsAttn_PrCv_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2491,7 +2491,7 @@
     },
     "RH_SalVentAttn_TempOccPar_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SalVentAttn_TempOccPar_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SalVentAttn_TempOccPar_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2525,7 +2525,7 @@
     },
     "RH_SalVentAttn_TempOccPar_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SalVentAttn_TempOccPar_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SalVentAttn_TempOccPar_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2559,7 +2559,7 @@
     },
     "RH_SalVentAttn_FrOperIns_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SalVentAttn_FrOperIns_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SalVentAttn_FrOperIns_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2593,7 +2593,7 @@
     },
     "RH_SalVentAttn_Med_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SalVentAttn_Med_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SalVentAttn_Med_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2627,7 +2627,7 @@
     },
     "RH_SalVentAttn_Med_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_SalVentAttn_Med_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_SalVentAttn_Med_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2661,7 +2661,7 @@
     },
     "RH_Limbic_OFC_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Limbic_OFC_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Limbic_OFC_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2695,7 +2695,7 @@
     },
     "RH_Limbic_TempPole_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Limbic_TempPole_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Limbic_TempPole_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2729,7 +2729,7 @@
     },
     "RH_Cont_Par_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_Par_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_Par_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2763,7 +2763,7 @@
     },
     "RH_Cont_Par_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_Par_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_Par_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2797,7 +2797,7 @@
     },
     "RH_Cont_PFCl_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_PFCl_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_PFCl_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2831,7 +2831,7 @@
     },
     "RH_Cont_PFCl_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_PFCl_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_PFCl_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2865,7 +2865,7 @@
     },
     "RH_Cont_PFCl_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_PFCl_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_PFCl_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2899,7 +2899,7 @@
     },
     "RH_Cont_PFCl_4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_PFCl_4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_PFCl_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2933,7 +2933,7 @@
     },
     "RH_Cont_pCun_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_pCun_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_pCun_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -2967,7 +2967,7 @@
     },
     "RH_Cont_Cing_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_Cing_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_Cing_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3001,7 +3001,7 @@
     },
     "RH_Cont_PFCmp_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Cont_PFCmp_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Cont_PFCmp_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3035,7 +3035,7 @@
     },
     "RH_Default_Par_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_Par_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_Par_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3069,7 +3069,7 @@
     },
     "RH_Default_Temp_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_Temp_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_Temp_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3103,7 +3103,7 @@
     },
     "RH_Default_Temp_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_Temp_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_Temp_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3137,7 +3137,7 @@
     },
     "RH_Default_Temp_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_Temp_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_Temp_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3171,7 +3171,7 @@
     },
     "RH_Default_PFCv_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_PFCv_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_PFCv_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3205,7 +3205,7 @@
     },
     "RH_Default_PFCv_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_PFCv_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_PFCv_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3239,7 +3239,7 @@
     },
     "RH_Default_PFCdPFCm_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_PFCdPFCm_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_PFCdPFCm_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3273,7 +3273,7 @@
     },
     "RH_Default_PFCdPFCm_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_PFCdPFCm_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_PFCdPFCm_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3307,7 +3307,7 @@
     },
     "RH_Default_PFCdPFCm_3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_PFCdPFCm_3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_PFCdPFCm_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3341,7 +3341,7 @@
     },
     "RH_Default_pCunPCC_1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_pCunPCC_1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_pCunPCC_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3375,7 +3375,7 @@
     },
     "RH_Default_pCunPCC_2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Default_pCunPCC_2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Default_pCunPCC_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3409,7 +3409,7 @@
     },
     "LH-Pu": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Pu",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Pu",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3443,7 +3443,7 @@
     },
     "LH-Ca": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Ca",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Ca",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3477,7 +3477,7 @@
     },
     "LH-NAC": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-NAC",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-NAC",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3511,7 +3511,7 @@
     },
     "LH-EXA": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-EXA",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-EXA",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3545,7 +3545,7 @@
     },
     "LH-GPe": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-GPe",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-GPe",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3579,7 +3579,7 @@
     },
     "LH-GPi": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-GPi",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-GPi",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3613,7 +3613,7 @@
     },
     "LH-SNc_PBP_VTA": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-SNc_PBP_VTA",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-SNc_PBP_VTA",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3647,7 +3647,7 @@
     },
     "LH-RN": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-RN",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-RN",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3681,7 +3681,7 @@
     },
     "LH-SNr": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-SNr",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-SNr",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3715,7 +3715,7 @@
     },
     "LH-VeP": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-VeP",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-VeP",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3749,7 +3749,7 @@
     },
     "LH-HN": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-HN",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-HN",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3783,7 +3783,7 @@
     },
     "LH-HTH": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-HTH",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-HTH",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3817,7 +3817,7 @@
     },
     "LH-MN": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-MN",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-MN",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3851,7 +3851,7 @@
     },
     "LH-STH": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-STH",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-STH",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3885,7 +3885,7 @@
     },
     "RH-Pu": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Pu",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Pu",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3919,7 +3919,7 @@
     },
     "RH-Ca": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Ca",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Ca",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3953,7 +3953,7 @@
     },
     "RH-NAC": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-NAC",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-NAC",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -3987,7 +3987,7 @@
     },
     "RH-EXA": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-EXA",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-EXA",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4021,7 +4021,7 @@
     },
     "RH-GPe": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-GPe",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-GPe",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4055,7 +4055,7 @@
     },
     "RH-GPi": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-GPi",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-GPi",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4089,7 +4089,7 @@
     },
     "RH-SNc_PBP_VTA": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-SNc_PBP_VTA",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-SNc_PBP_VTA",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4123,7 +4123,7 @@
     },
     "RH-RN": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-RN",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-RN",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4157,7 +4157,7 @@
     },
     "RH-SNr": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-SNr",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-SNr",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4191,7 +4191,7 @@
     },
     "RH-VeP": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-VeP",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-VeP",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4225,7 +4225,7 @@
     },
     "RH-HN": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-HN",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-HN",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4259,7 +4259,7 @@
     },
     "RH-HTH": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-HTH",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-HTH",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4293,7 +4293,7 @@
     },
     "RH-MN": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-MN",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-MN",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4327,7 +4327,7 @@
     },
     "RH-STH": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-STH",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-STH",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4361,7 +4361,7 @@
     },
     "LH-Pulvinar": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Pulvinar",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Pulvinar",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4395,7 +4395,7 @@
     },
     "LH-Anterior": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Anterior",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Anterior",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4429,7 +4429,7 @@
     },
     "LH-Medio_Dorsal": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Medio_Dorsal",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Medio_Dorsal",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4463,7 +4463,7 @@
     },
     "LH-Ventral_Latero_Dorsal": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Ventral_Latero_Dorsal",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Ventral_Latero_Dorsal",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4497,7 +4497,7 @@
     },
     "LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4531,7 +4531,7 @@
     },
     "LH-Ventral_Anterior": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Ventral_Anterior",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Ventral_Anterior",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4565,7 +4565,7 @@
     },
     "LH-Ventral_Latero_Ventral": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH-Ventral_Latero_Ventral",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH-Ventral_Latero_Ventral",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4599,7 +4599,7 @@
     },
     "RH-Pulvinar": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Pulvinar",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Pulvinar",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4633,7 +4633,7 @@
     },
     "RH-Anterior": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Anterior",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Anterior",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4667,7 +4667,7 @@
     },
     "RH-Medio_Dorsal": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Medio_Dorsal",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Medio_Dorsal",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4701,7 +4701,7 @@
     },
     "RH-Ventral_Latero_Dorsal": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Ventral_Latero_Dorsal",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Ventral_Latero_Dorsal",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4735,7 +4735,7 @@
     },
     "RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4769,7 +4769,7 @@
     },
     "RH-Ventral_Anterior": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Ventral_Anterior",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Ventral_Anterior",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4803,7 +4803,7 @@
     },
     "RH-Ventral_Latero_Ventral": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH-Ventral_Latero_Ventral",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH-Ventral_Latero_Ventral",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4837,7 +4837,7 @@
     },
     "LH_Hippocampus": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Hippocampus",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Hippocampus",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4871,7 +4871,7 @@
     },
     "LH_Amygdala": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_LH_Amygdala",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region LH_Amygdala",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4905,7 +4905,7 @@
     },
     "RH_Hippocampus": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Hippocampus",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Hippocampus",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4939,7 +4939,7 @@
     },
     "RH_Amygdala": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_RH_Amygdala",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region RH_Amygdala",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -4973,7 +4973,7 @@
     },
     "Cerebellar_Region1": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region1",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5007,7 +5007,7 @@
     },
     "Cerebellar_Region2": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region2",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5041,7 +5041,7 @@
     },
     "Cerebellar_Region3": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region3",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5075,7 +5075,7 @@
     },
     "Cerebellar_Region4": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region4",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5109,7 +5109,7 @@
     },
     "Cerebellar_Region5": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region5",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5143,7 +5143,7 @@
     },
     "Cerebellar_Region6": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region6",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5177,7 +5177,7 @@
     },
     "Cerebellar_Region7": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region7",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5211,7 +5211,7 @@
     },
     "Cerebellar_Region8": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region8",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5245,7 +5245,7 @@
     },
     "Cerebellar_Region9": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region9",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",
@@ -5279,7 +5279,7 @@
     },
     "Cerebellar_Region10": {
         "LongName": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-alff_bold_Cerebellar_Region10",
-        "label": "n/a",
+        "label": "XCP-D 4S-156-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values for region Cerebellar_Region10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Amplitude of Low Frequency Fluctuations (arbitrary units)",

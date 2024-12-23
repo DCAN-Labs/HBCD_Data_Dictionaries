@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D MIDB Parc. Coverage",
+        "Name": "XCP-D MIDB Parc. Coverage Values",
         "Category": [
             "fMRI",
             "Morphometry"
@@ -10,7 +10,7 @@
     },
     "DMN_LABEL_1": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_1",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -44,7 +44,7 @@
     },
     "Vis_LABEL_2": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_2",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Vis_LABEL_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -78,7 +78,7 @@
     },
     "FP_LABEL_3": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_3",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -112,7 +112,7 @@
     },
     "Aud_LABEL_4": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Aud_LABEL_4",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Aud_LABEL_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -146,7 +146,7 @@
     },
     "Tpole_LABEL_5": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_5",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Tpole_LABEL_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -180,7 +180,7 @@
     },
     "PMN_LABEL_6": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_6",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PMN_LABEL_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -214,7 +214,7 @@
     },
     "PON_LABEL_7": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_7",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PON_LABEL_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -248,7 +248,7 @@
     },
     "MTL_LABEL_8": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_8",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region MTL_LABEL_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -282,7 +282,7 @@
     },
     "PON_LABEL_9": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_9",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PON_LABEL_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -316,7 +316,7 @@
     },
     "CO_LABEL_10": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_10",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -350,7 +350,7 @@
     },
     "Sal_LABEL_11": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_11",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Sal_LABEL_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -384,7 +384,7 @@
     },
     "CO_LABEL_12": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_12",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -418,7 +418,7 @@
     },
     "SMd_LABEL_13": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_13",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMd_LABEL_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -452,7 +452,7 @@
     },
     "SMl_LABEL_14": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_14",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMl_LABEL_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -486,7 +486,7 @@
     },
     "DAN_LABEL_15": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_15",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -520,7 +520,7 @@
     },
     "DMN_LABEL_16": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_16",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -554,7 +554,7 @@
     },
     "CO_LABEL_17": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_17",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -588,7 +588,7 @@
     },
     "DMN_LABEL_18": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_18",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -622,7 +622,7 @@
     },
     "VAN_LABEL_19": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_VAN_LABEL_19",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region VAN_LABEL_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -656,7 +656,7 @@
     },
     "CO_LABEL_20": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_20",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -690,7 +690,7 @@
     },
     "CO_LABEL_21": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_21",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -724,7 +724,7 @@
     },
     "Sal_LABEL_22": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_22",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Sal_LABEL_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -758,7 +758,7 @@
     },
     "DAN_LABEL_23": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_23",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -792,7 +792,7 @@
     },
     "PMN_LABEL_24": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_24",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PMN_LABEL_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -826,7 +826,7 @@
     },
     "DAN_LABEL_25": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_25",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -860,7 +860,7 @@
     },
     "DMN_LABEL_26": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_26",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -894,7 +894,7 @@
     },
     "DMN_LABEL_27": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_27",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -928,7 +928,7 @@
     },
     "DMN_LABEL_28": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_28",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -962,7 +962,7 @@
     },
     "Vis_LABEL_29": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_29",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Vis_LABEL_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -996,7 +996,7 @@
     },
     "FP_LABEL_30": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_30",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1030,7 +1030,7 @@
     },
     "Aud_LABEL_31": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Aud_LABEL_31",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Aud_LABEL_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1064,7 +1064,7 @@
     },
     "Tpole_LABEL_32": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_32",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Tpole_LABEL_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1098,7 +1098,7 @@
     },
     "PMN_LABEL_33": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_33",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PMN_LABEL_33",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1132,7 +1132,7 @@
     },
     "PON_LABEL_34": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_34",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PON_LABEL_34",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1166,7 +1166,7 @@
     },
     "MTL_LABEL_35": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_35",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region MTL_LABEL_35",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1200,7 +1200,7 @@
     },
     "CO_LABEL_36": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_36",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_36",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1234,7 +1234,7 @@
     },
     "Sal_LABEL_37": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_37",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Sal_LABEL_37",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1268,7 +1268,7 @@
     },
     "CO_LABEL_38": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_38",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_38",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1302,7 +1302,7 @@
     },
     "SMd_LABEL_39": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_39",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMd_LABEL_39",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1336,7 +1336,7 @@
     },
     "SMl_LABEL_40": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_40",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMl_LABEL_40",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1370,7 +1370,7 @@
     },
     "DAN_LABEL_41": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_41",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_41",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1404,7 +1404,7 @@
     },
     "CO_LABEL_42": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_42",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_42",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1438,7 +1438,7 @@
     },
     "VAN_LABEL_43": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_VAN_LABEL_43",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region VAN_LABEL_43",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1472,7 +1472,7 @@
     },
     "CO_LABEL_44": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_44",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_44",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1506,7 +1506,7 @@
     },
     "CO_LABEL_45": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_45",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_45",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1540,7 +1540,7 @@
     },
     "Sal_LABEL_46": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_46",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Sal_LABEL_46",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1574,7 +1574,7 @@
     },
     "DAN_LABEL_47": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_47",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_47",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1608,7 +1608,7 @@
     },
     "PMN_LABEL_48": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_48",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PMN_LABEL_48",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1642,7 +1642,7 @@
     },
     "DAN_LABEL_49": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_49",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_49",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1676,7 +1676,7 @@
     },
     "DMN_LABEL_50": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_50",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_50",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1710,7 +1710,7 @@
     },
     "FP_LABEL_51": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_51",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_51",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1744,7 +1744,7 @@
     },
     "DMN_LABEL_52": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_52",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_52",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1778,7 +1778,7 @@
     },
     "DMN_LABEL_53": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_53",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_53",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1812,7 +1812,7 @@
     },
     "PON_LABEL_54": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_54",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region PON_LABEL_54",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1846,7 +1846,7 @@
     },
     "DMN_LABEL_55": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_55",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_55",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1880,7 +1880,7 @@
     },
     "Tpole_LABEL_56": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_56",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Tpole_LABEL_56",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1914,7 +1914,7 @@
     },
     "Tpole_LABEL_57": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_57",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Tpole_LABEL_57",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1948,7 +1948,7 @@
     },
     "Sal_LABEL_58": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_58",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Sal_LABEL_58",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1982,7 +1982,7 @@
     },
     "Sal_LABEL_59": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_59",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Sal_LABEL_59",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2016,7 +2016,7 @@
     },
     "SMd_LABEL_60": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_60",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMd_LABEL_60",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2050,7 +2050,7 @@
     },
     "DAN_LABEL_61": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_61",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_61",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2084,7 +2084,7 @@
     },
     "FP_LABEL_62": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_62",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_62",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2118,7 +2118,7 @@
     },
     "DMN_LABEL_63": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_63",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_63",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2152,7 +2152,7 @@
     },
     "FP_LABEL_64": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_64",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_64",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2186,7 +2186,7 @@
     },
     "FP_LABEL_65": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_65",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_65",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2220,7 +2220,7 @@
     },
     "SMd_LABEL_66": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_66",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMd_LABEL_66",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2254,7 +2254,7 @@
     },
     "SMl_LABEL_67": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_67",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMl_LABEL_67",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2288,7 +2288,7 @@
     },
     "SMd_LABEL_68": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_68",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMd_LABEL_68",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2322,7 +2322,7 @@
     },
     "DMN_LABEL_69": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_69",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_69",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2356,7 +2356,7 @@
     },
     "DAN_LABEL_70": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_70",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DAN_LABEL_70",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2390,7 +2390,7 @@
     },
     "DMN_LABEL_71": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_71",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region DMN_LABEL_71",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2424,7 +2424,7 @@
     },
     "FP_LABEL_72": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_72",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region FP_LABEL_72",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2458,7 +2458,7 @@
     },
     "SMd_LABEL_73": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_73",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMd_LABEL_73",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2492,7 +2492,7 @@
     },
     "SMl_LABEL_74": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_74",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region SMl_LABEL_74",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2526,7 +2526,7 @@
     },
     "MTL_LABEL_75": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_75",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region MTL_LABEL_75",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2560,7 +2560,7 @@
     },
     "MTL_LABEL_76": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_76",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region MTL_LABEL_76",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2594,7 +2594,7 @@
     },
     "CO_LABEL_77": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_77",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_77",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2628,7 +2628,7 @@
     },
     "CO_LABEL_78": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_78",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region CO_LABEL_78",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2662,7 +2662,7 @@
     },
     "Vis_LABEL_79": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_79",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Vis_LABEL_79",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2696,7 +2696,7 @@
     },
     "Vis_LABEL_80": {
         "LongName": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_80",
-        "label": "n/a",
+        "label": "XCP-D MIDB Parc. Coverage Values for region Vis_LABEL_80",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",

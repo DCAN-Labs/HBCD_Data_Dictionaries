@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "The proportion of voxels/vertices that are defined within the segmentation.",
         "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
-        "Name": "XCP-D Gordon Parc. Coverage",
+        "Name": "XCP-D Gordon Parc. Coverage Values",
         "Category": [
             "fMRI",
             "Morphometry"
@@ -10,7 +10,7 @@
     },
     "L_Default_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -44,7 +44,7 @@
     },
     "L_SMhand_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -78,7 +78,7 @@
     },
     "L_SMmouth_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMmouth_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMmouth_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -112,7 +112,7 @@
     },
     "L_Default_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -146,7 +146,7 @@
     },
     "L_Visual_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -180,7 +180,7 @@
     },
     "L_Default_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -214,7 +214,7 @@
     },
     "L_FrontoParietal_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -248,7 +248,7 @@
     },
     "L_Visual_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -282,7 +282,7 @@
     },
     "L_FrontoParietal_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -316,7 +316,7 @@
     },
     "L_Auditory_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -350,7 +350,7 @@
     },
     "L_None_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -384,7 +384,7 @@
     },
     "L_MedialParietal_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_MedialParietal_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_MedialParietal_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -418,7 +418,7 @@
     },
     "L_ParietoOccip_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_ParietoOccip_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_ParietoOccip_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -452,7 +452,7 @@
     },
     "L_ParietoOccip_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_ParietoOccip_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_ParietoOccip_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -486,7 +486,7 @@
     },
     "L_Visual_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -520,7 +520,7 @@
     },
     "L_Visual_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -554,7 +554,7 @@
     },
     "L_Visual_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -588,7 +588,7 @@
     },
     "L_None_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -622,7 +622,7 @@
     },
     "L_None_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -656,7 +656,7 @@
     },
     "L_Visual_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -690,7 +690,7 @@
     },
     "L_CinguloOperc_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -724,7 +724,7 @@
     },
     "L_CinguloOperc_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -758,7 +758,7 @@
     },
     "L_VentralAttn_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -792,7 +792,7 @@
     },
     "L_FrontoParietal_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -826,7 +826,7 @@
     },
     "L_Default_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -860,7 +860,7 @@
     },
     "L_Default_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -894,7 +894,7 @@
     },
     "L_CinguloOperc_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -928,7 +928,7 @@
     },
     "L_CinguloOperc_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -962,7 +962,7 @@
     },
     "L_Salience_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Salience_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Salience_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -996,7 +996,7 @@
     },
     "L_SMhand_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1030,7 +1030,7 @@
     },
     "L_SMhand_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1064,7 +1064,7 @@
     },
     "L_SMhand_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1098,7 +1098,7 @@
     },
     "L_SMhand_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1132,7 +1132,7 @@
     },
     "L_CinguloOperc_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1166,7 +1166,7 @@
     },
     "L_SMhand_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1200,7 +1200,7 @@
     },
     "L_SMhand_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1234,7 +1234,7 @@
     },
     "L_SMhand_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1268,7 +1268,7 @@
     },
     "L_SMhand_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1302,7 +1302,7 @@
     },
     "L_SMmouth_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMmouth_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMmouth_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1336,7 +1336,7 @@
     },
     "L_CinguloOperc_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1370,7 +1370,7 @@
     },
     "L_DorsalAttn_1": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_1",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1404,7 +1404,7 @@
     },
     "L_DorsalAttn_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1438,7 +1438,7 @@
     },
     "L_DorsalAttn_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1472,7 +1472,7 @@
     },
     "L_Default_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1506,7 +1506,7 @@
     },
     "L_SMhand_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1540,7 +1540,7 @@
     },
     "L_SMhand_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1574,7 +1574,7 @@
     },
     "L_SMhand_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1608,7 +1608,7 @@
     },
     "L_SMhand_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1642,7 +1642,7 @@
     },
     "L_DorsalAttn_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1676,7 +1676,7 @@
     },
     "L_SMhand_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1710,7 +1710,7 @@
     },
     "L_DorsalAttn_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1744,7 +1744,7 @@
     },
     "L_DorsalAttn_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1778,7 +1778,7 @@
     },
     "L_SMmouth_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMmouth_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMmouth_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1812,7 +1812,7 @@
     },
     "L_SMhand_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1846,7 +1846,7 @@
     },
     "L_DorsalAttn_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1880,7 +1880,7 @@
     },
     "L_SMhand_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1914,7 +1914,7 @@
     },
     "L_SMhand_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1948,7 +1948,7 @@
     },
     "L_SMhand_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMhand_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMhand_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -1982,7 +1982,7 @@
     },
     "L_SMmouth_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_SMmouth_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_SMmouth_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2016,7 +2016,7 @@
     },
     "L_VentralAttn_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2050,7 +2050,7 @@
     },
     "L_VentralAttn_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2084,7 +2084,7 @@
     },
     "L_VentralAttn_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2118,7 +2118,7 @@
     },
     "L_CinguloOperc_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2152,7 +2152,7 @@
     },
     "L_Auditory_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2186,7 +2186,7 @@
     },
     "L_Auditory_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2220,7 +2220,7 @@
     },
     "L_Auditory_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2254,7 +2254,7 @@
     },
     "L_Auditory_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2288,7 +2288,7 @@
     },
     "L_Auditory_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2322,7 +2322,7 @@
     },
     "L_Auditory_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2356,7 +2356,7 @@
     },
     "L_Auditory_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2390,7 +2390,7 @@
     },
     "L_CinguloOperc_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2424,7 +2424,7 @@
     },
     "L_CinguloOperc_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2458,7 +2458,7 @@
     },
     "L_None_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2492,7 +2492,7 @@
     },
     "L_DorsalAttn_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2526,7 +2526,7 @@
     },
     "L_VentralAttn_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2560,7 +2560,7 @@
     },
     "L_CinguloOperc_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2594,7 +2594,7 @@
     },
     "L_Auditory_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2628,7 +2628,7 @@
     },
     "L_FrontoParietal_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2662,7 +2662,7 @@
     },
     "L_VentralAttn_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2696,7 +2696,7 @@
     },
     "L_VentralAttn_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2730,7 +2730,7 @@
     },
     "L_CinguloOperc_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2764,7 +2764,7 @@
     },
     "L_CinguloOperc_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2798,7 +2798,7 @@
     },
     "L_Salience_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Salience_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Salience_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2832,7 +2832,7 @@
     },
     "L_CinguloOperc_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2866,7 +2866,7 @@
     },
     "L_VentralAttn_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2900,7 +2900,7 @@
     },
     "L_VentralAttn_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2934,7 +2934,7 @@
     },
     "L_DorsalAttn_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -2968,7 +2968,7 @@
     },
     "L_DorsalAttn_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3002,7 +3002,7 @@
     },
     "L_MedialParietal_2": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_MedialParietal_2",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_MedialParietal_2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3036,7 +3036,7 @@
     },
     "L_Visual_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3070,7 +3070,7 @@
     },
     "L_DorsalAttn_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3104,7 +3104,7 @@
     },
     "L_DorsalAttn_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3138,7 +3138,7 @@
     },
     "L_MedialParietal_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_MedialParietal_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_MedialParietal_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3172,7 +3172,7 @@
     },
     "L_Default_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3206,7 +3206,7 @@
     },
     "L_DorsalAttn_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3240,7 +3240,7 @@
     },
     "L_FrontoParietal_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3274,7 +3274,7 @@
     },
     "L_Visual_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3308,7 +3308,7 @@
     },
     "L_Visual_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3342,7 +3342,7 @@
     },
     "L_Visual_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3376,7 +3376,7 @@
     },
     "L_DorsalAttn_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3410,7 +3410,7 @@
     },
     "L_CinguloOperc_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3444,7 +3444,7 @@
     },
     "L_Auditory_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3478,7 +3478,7 @@
     },
     "L_CinguloOperc_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3512,7 +3512,7 @@
     },
     "L_Auditory_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3546,7 +3546,7 @@
     },
     "L_CinguloOperc_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3580,7 +3580,7 @@
     },
     "L_DorsalAttn_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3614,7 +3614,7 @@
     },
     "L_DorsalAttn_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3648,7 +3648,7 @@
     },
     "L_FrontoParietal_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3682,7 +3682,7 @@
     },
     "L_FrontoParietal_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3716,7 +3716,7 @@
     },
     "L_DorsalAttn_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3750,7 +3750,7 @@
     },
     "L_CinguloOperc_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3784,7 +3784,7 @@
     },
     "L_CinguloOperc_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3818,7 +3818,7 @@
     },
     "L_DorsalAttn_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3852,7 +3852,7 @@
     },
     "L_Default_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3886,7 +3886,7 @@
     },
     "L_None_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3920,7 +3920,7 @@
     },
     "L_Default_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3954,7 +3954,7 @@
     },
     "L_Default_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -3988,7 +3988,7 @@
     },
     "L_None_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4022,7 +4022,7 @@
     },
     "L_None_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4056,7 +4056,7 @@
     },
     "L_None_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4090,7 +4090,7 @@
     },
     "L_None_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4124,7 +4124,7 @@
     },
     "L_None_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4158,7 +4158,7 @@
     },
     "L_None_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4192,7 +4192,7 @@
     },
     "L_None_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4226,7 +4226,7 @@
     },
     "L_None_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4260,7 +4260,7 @@
     },
     "L_Default_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4294,7 +4294,7 @@
     },
     "L_Default_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4328,7 +4328,7 @@
     },
     "L_None_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4362,7 +4362,7 @@
     },
     "L_None_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4396,7 +4396,7 @@
     },
     "L_ParietoOccip_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_ParietoOccip_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_ParietoOccip_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4430,7 +4430,7 @@
     },
     "L_Visual_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4464,7 +4464,7 @@
     },
     "L_Visual_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4498,7 +4498,7 @@
     },
     "L_None_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4532,7 +4532,7 @@
     },
     "L_None_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4566,7 +4566,7 @@
     },
     "L_None_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4600,7 +4600,7 @@
     },
     "L_Visual_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4634,7 +4634,7 @@
     },
     "L_Visual_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4668,7 +4668,7 @@
     },
     "L_Visual_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4702,7 +4702,7 @@
     },
     "L_Visual_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4736,7 +4736,7 @@
     },
     "L_Visual_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4770,7 +4770,7 @@
     },
     "L_Visual_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Visual_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Visual_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4804,7 +4804,7 @@
     },
     "L_None_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4838,7 +4838,7 @@
     },
     "L_ParietoOccip_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_ParietoOccip_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_ParietoOccip_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4872,7 +4872,7 @@
     },
     "L_None_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4906,7 +4906,7 @@
     },
     "L_Default_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4940,7 +4940,7 @@
     },
     "L_Default_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -4974,7 +4974,7 @@
     },
     "L_CinguloOperc_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5008,7 +5008,7 @@
     },
     "L_FrontoParietal_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5042,7 +5042,7 @@
     },
     "L_FrontoParietal_9": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_FrontoParietal_9",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_FrontoParietal_9",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5076,7 +5076,7 @@
     },
     "L_Default_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5110,7 +5110,7 @@
     },
     "L_Default_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5144,7 +5144,7 @@
     },
     "L_Default_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5178,7 +5178,7 @@
     },
     "L_CinguloOperc_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_CinguloOperc_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_CinguloOperc_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5212,7 +5212,7 @@
     },
     "L_Default_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5246,7 +5246,7 @@
     },
     "L_DorsalAttn_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_DorsalAttn_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_DorsalAttn_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5280,7 +5280,7 @@
     },
     "L_Default_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5314,7 +5314,7 @@
     },
     "L_Default_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Default_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Default_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5348,7 +5348,7 @@
     },
     "L_VentralAttn_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5382,7 +5382,7 @@
     },
     "L_None_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_None_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_None_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5416,7 +5416,7 @@
     },
     "L_Auditory_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_Auditory_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_Auditory_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5450,7 +5450,7 @@
     },
     "L_VentralAttn_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_L_VentralAttn_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region L_VentralAttn_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5484,7 +5484,7 @@
     },
     "R_Default_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5518,7 +5518,7 @@
     },
     "R_SMhand_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5552,7 +5552,7 @@
     },
     "R_SMmouth_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMmouth_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMmouth_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5586,7 +5586,7 @@
     },
     "R_Default_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5620,7 +5620,7 @@
     },
     "R_Visual_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5654,7 +5654,7 @@
     },
     "R_FrontoParietal_10": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_10",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_10",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5688,7 +5688,7 @@
     },
     "R_FrontoParietal_11": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_11",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_11",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5722,7 +5722,7 @@
     },
     "R_Visual_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5756,7 +5756,7 @@
     },
     "R_FrontoParietal_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5790,7 +5790,7 @@
     },
     "R_Auditory_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5824,7 +5824,7 @@
     },
     "R_None_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5858,7 +5858,7 @@
     },
     "R_MedialParietal_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_MedialParietal_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_MedialParietal_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5892,7 +5892,7 @@
     },
     "R_ParietoOccip_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_ParietoOccip_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_ParietoOccip_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5926,7 +5926,7 @@
     },
     "R_Visual_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5960,7 +5960,7 @@
     },
     "R_Visual_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -5994,7 +5994,7 @@
     },
     "R_Visual_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6028,7 +6028,7 @@
     },
     "R_None_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6062,7 +6062,7 @@
     },
     "R_None_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6096,7 +6096,7 @@
     },
     "R_CinguloOperc_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6130,7 +6130,7 @@
     },
     "R_CinguloOperc_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6164,7 +6164,7 @@
     },
     "R_FrontoParietal_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6198,7 +6198,7 @@
     },
     "R_Salience_3": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Salience_3",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Salience_3",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6232,7 +6232,7 @@
     },
     "R_Default_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6266,7 +6266,7 @@
     },
     "R_CinguloOperc_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6300,7 +6300,7 @@
     },
     "R_Default_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6334,7 +6334,7 @@
     },
     "R_CinguloOperc_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6368,7 +6368,7 @@
     },
     "R_CinguloOperc_25": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_25",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6402,7 +6402,7 @@
     },
     "R_DorsalAttn_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6436,7 +6436,7 @@
     },
     "R_SMhand_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6470,7 +6470,7 @@
     },
     "R_SMhand_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6504,7 +6504,7 @@
     },
     "R_CinguloOperc_26": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_26",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6538,7 +6538,7 @@
     },
     "R_SMhand_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6572,7 +6572,7 @@
     },
     "R_SMhand_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6606,7 +6606,7 @@
     },
     "R_SMhand_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6640,7 +6640,7 @@
     },
     "R_CinguloOperc_27": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_27",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6674,7 +6674,7 @@
     },
     "R_SMmouth_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMmouth_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMmouth_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6708,7 +6708,7 @@
     },
     "R_CinguloOperc_28": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_28",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6742,7 +6742,7 @@
     },
     "R_DorsalAttn_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6776,7 +6776,7 @@
     },
     "R_Default_25": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_25",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6810,7 +6810,7 @@
     },
     "R_SMhand_25": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_25",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6844,7 +6844,7 @@
     },
     "R_SMhand_26": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_26",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6878,7 +6878,7 @@
     },
     "R_DorsalAttn_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6912,7 +6912,7 @@
     },
     "R_SMhand_27": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_27",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6946,7 +6946,7 @@
     },
     "R_SMhand_28": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_28",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -6980,7 +6980,7 @@
     },
     "R_SMhand_29": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_29",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7014,7 +7014,7 @@
     },
     "R_SMhand_30": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_30",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7048,7 +7048,7 @@
     },
     "R_DorsalAttn_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7082,7 +7082,7 @@
     },
     "R_SMhand_31": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_31",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7116,7 +7116,7 @@
     },
     "R_SMhand_32": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_32",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7150,7 +7150,7 @@
     },
     "R_DorsalAttn_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7184,7 +7184,7 @@
     },
     "R_SMmouth_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMmouth_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMmouth_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7218,7 +7218,7 @@
     },
     "R_SMhand_33": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_33",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_33",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7252,7 +7252,7 @@
     },
     "R_SMhand_34": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_34",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_34",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7286,7 +7286,7 @@
     },
     "R_SMhand_35": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_35",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_35",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7320,7 +7320,7 @@
     },
     "R_SMhand_36": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_36",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_36",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7354,7 +7354,7 @@
     },
     "R_SMhand_37": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_37",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_37",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7388,7 +7388,7 @@
     },
     "R_SMmouth_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMmouth_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMmouth_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7422,7 +7422,7 @@
     },
     "R_CinguloOperc_29": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_29",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7456,7 +7456,7 @@
     },
     "R_Default_26": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_26",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7490,7 +7490,7 @@
     },
     "R_VentralAttn_12": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_12",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_12",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7524,7 +7524,7 @@
     },
     "R_VentralAttn_13": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_13",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_13",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7558,7 +7558,7 @@
     },
     "R_CinguloOperc_30": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_30",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7592,7 +7592,7 @@
     },
     "R_Auditory_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7626,7 +7626,7 @@
     },
     "R_Default_27": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_27",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7660,7 +7660,7 @@
     },
     "R_VentralAttn_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7694,7 +7694,7 @@
     },
     "R_Auditory_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7728,7 +7728,7 @@
     },
     "R_VentralAttn_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7762,7 +7762,7 @@
     },
     "R_VentralAttn_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7796,7 +7796,7 @@
     },
     "R_Auditory_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7830,7 +7830,7 @@
     },
     "R_VentralAttn_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7864,7 +7864,7 @@
     },
     "R_Auditory_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7898,7 +7898,7 @@
     },
     "R_Auditory_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7932,7 +7932,7 @@
     },
     "R_CinguloOperc_31": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_31",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -7966,7 +7966,7 @@
     },
     "R_CinguloOperc_32": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_32",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8000,7 +8000,7 @@
     },
     "R_DorsalAttn_25": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_25",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8034,7 +8034,7 @@
     },
     "R_VentralAttn_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8068,7 +8068,7 @@
     },
     "R_CinguloOperc_33": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_33",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_33",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8102,7 +8102,7 @@
     },
     "R_Auditory_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8136,7 +8136,7 @@
     },
     "R_FrontoParietal_14": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_14",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_14",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8170,7 +8170,7 @@
     },
     "R_VentralAttn_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8204,7 +8204,7 @@
     },
     "R_VentralAttn_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8238,7 +8238,7 @@
     },
     "R_VentralAttn_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8272,7 +8272,7 @@
     },
     "R_Auditory_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8306,7 +8306,7 @@
     },
     "R_CinguloOperc_34": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_34",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_34",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8340,7 +8340,7 @@
     },
     "R_CinguloOperc_35": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_35",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_35",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8374,7 +8374,7 @@
     },
     "R_Salience_4": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Salience_4",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Salience_4",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8408,7 +8408,7 @@
     },
     "R_CinguloOperc_36": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_36",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_36",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8442,7 +8442,7 @@
     },
     "R_CinguloOperc_37": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_37",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_37",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8476,7 +8476,7 @@
     },
     "R_DorsalAttn_26": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_26",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8510,7 +8510,7 @@
     },
     "R_Visual_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8544,7 +8544,7 @@
     },
     "R_DorsalAttn_27": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_27",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8578,7 +8578,7 @@
     },
     "R_DorsalAttn_28": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_28",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8612,7 +8612,7 @@
     },
     "R_MedialParietal_5": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_MedialParietal_5",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_MedialParietal_5",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8646,7 +8646,7 @@
     },
     "R_Visual_25": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_25",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8680,7 +8680,7 @@
     },
     "R_Visual_26": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_26",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8714,7 +8714,7 @@
     },
     "R_Default_28": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_28",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8748,7 +8748,7 @@
     },
     "R_Visual_27": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_27",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8782,7 +8782,7 @@
     },
     "R_Default_29": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_29",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8816,7 +8816,7 @@
     },
     "R_FrontoParietal_15": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_15",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_15",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8850,7 +8850,7 @@
     },
     "R_FrontoParietal_16": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_16",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_16",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8884,7 +8884,7 @@
     },
     "R_DorsalAttn_29": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_29",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8918,7 +8918,7 @@
     },
     "R_Visual_28": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_28",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8952,7 +8952,7 @@
     },
     "R_Visual_29": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_29",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -8986,7 +8986,7 @@
     },
     "R_Visual_30": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_30",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9020,7 +9020,7 @@
     },
     "R_DorsalAttn_30": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_30",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9054,7 +9054,7 @@
     },
     "R_Visual_31": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_31",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9088,7 +9088,7 @@
     },
     "R_Auditory_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9122,7 +9122,7 @@
     },
     "R_Auditory_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9156,7 +9156,7 @@
     },
     "R_SMhand_38": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_SMhand_38",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_SMhand_38",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9190,7 +9190,7 @@
     },
     "R_DorsalAttn_31": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_31",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9224,7 +9224,7 @@
     },
     "R_FrontoParietal_17": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_17",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_17",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9258,7 +9258,7 @@
     },
     "R_FrontoParietal_18": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_18",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_18",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9292,7 +9292,7 @@
     },
     "R_CinguloOperc_38": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_38",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_38",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9326,7 +9326,7 @@
     },
     "R_DorsalAttn_32": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_DorsalAttn_32",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_DorsalAttn_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9360,7 +9360,7 @@
     },
     "R_FrontoParietal_19": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_19",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_19",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9394,7 +9394,7 @@
     },
     "R_FrontoParietal_20": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_20",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_20",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9428,7 +9428,7 @@
     },
     "R_Default_30": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_30",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9462,7 +9462,7 @@
     },
     "R_Default_31": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_31",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9496,7 +9496,7 @@
     },
     "R_None_25": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_25",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_25",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9530,7 +9530,7 @@
     },
     "R_None_26": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_26",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_26",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9564,7 +9564,7 @@
     },
     "R_None_27": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_27",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_27",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9598,7 +9598,7 @@
     },
     "R_None_28": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_28",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_28",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9632,7 +9632,7 @@
     },
     "R_None_29": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_29",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_29",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9666,7 +9666,7 @@
     },
     "R_None_30": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_30",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_30",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9700,7 +9700,7 @@
     },
     "R_None_31": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_31",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_31",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9734,7 +9734,7 @@
     },
     "R_None_32": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_32",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9768,7 +9768,7 @@
     },
     "R_None_33": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_33",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_33",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9802,7 +9802,7 @@
     },
     "R_None_34": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_34",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_34",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9836,7 +9836,7 @@
     },
     "R_Default_32": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_32",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9870,7 +9870,7 @@
     },
     "R_None_35": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_35",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_35",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9904,7 +9904,7 @@
     },
     "R_None_36": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_36",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_36",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9938,7 +9938,7 @@
     },
     "R_Visual_32": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_32",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_32",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -9972,7 +9972,7 @@
     },
     "R_ParietoOccip_6": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_ParietoOccip_6",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_ParietoOccip_6",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10006,7 +10006,7 @@
     },
     "R_ParietoOccip_7": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_ParietoOccip_7",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_ParietoOccip_7",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10040,7 +10040,7 @@
     },
     "R_None_37": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_37",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_37",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10074,7 +10074,7 @@
     },
     "R_None_38": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_38",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_38",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10108,7 +10108,7 @@
     },
     "R_Visual_33": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_33",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_33",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10142,7 +10142,7 @@
     },
     "R_Visual_34": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_34",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_34",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10176,7 +10176,7 @@
     },
     "R_None_39": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_39",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_39",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10210,7 +10210,7 @@
     },
     "R_None_40": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_40",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_40",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10244,7 +10244,7 @@
     },
     "R_None_41": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_41",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_41",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10278,7 +10278,7 @@
     },
     "R_None_42": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_42",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_42",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10312,7 +10312,7 @@
     },
     "R_None_43": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_43",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_43",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10346,7 +10346,7 @@
     },
     "R_None_44": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_44",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_44",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10380,7 +10380,7 @@
     },
     "R_None_45": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_45",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_45",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10414,7 +10414,7 @@
     },
     "R_Visual_35": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_35",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_35",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10448,7 +10448,7 @@
     },
     "R_Visual_36": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_36",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_36",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10482,7 +10482,7 @@
     },
     "R_Visual_37": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_37",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_37",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10516,7 +10516,7 @@
     },
     "R_Visual_38": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_38",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_38",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10550,7 +10550,7 @@
     },
     "R_Visual_39": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Visual_39",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Visual_39",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10584,7 +10584,7 @@
     },
     "R_None_46": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_46",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_46",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10618,7 +10618,7 @@
     },
     "R_ParietoOccip_8": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_ParietoOccip_8",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_ParietoOccip_8",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10652,7 +10652,7 @@
     },
     "R_None_47": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_None_47",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_None_47",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10686,7 +10686,7 @@
     },
     "R_Default_33": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_33",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_33",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10720,7 +10720,7 @@
     },
     "R_Default_34": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_34",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_34",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10754,7 +10754,7 @@
     },
     "R_CinguloOperc_39": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_39",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_39",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10788,7 +10788,7 @@
     },
     "R_CinguloOperc_40": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_CinguloOperc_40",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_CinguloOperc_40",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10822,7 +10822,7 @@
     },
     "R_FrontoParietal_21": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_21",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_21",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10856,7 +10856,7 @@
     },
     "R_FrontoParietal_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10890,7 +10890,7 @@
     },
     "R_Default_35": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_35",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_35",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10924,7 +10924,7 @@
     },
     "R_Default_36": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_36",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_36",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10958,7 +10958,7 @@
     },
     "R_Default_37": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_37",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_37",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -10992,7 +10992,7 @@
     },
     "R_Default_38": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_38",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_38",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11026,7 +11026,7 @@
     },
     "R_Default_39": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_39",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_39",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11060,7 +11060,7 @@
     },
     "R_Default_40": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_40",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_40",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11094,7 +11094,7 @@
     },
     "R_FrontoParietal_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11128,7 +11128,7 @@
     },
     "R_FrontoParietal_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_FrontoParietal_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_FrontoParietal_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11162,7 +11162,7 @@
     },
     "R_Auditory_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11196,7 +11196,7 @@
     },
     "R_Auditory_24": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Auditory_24",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Auditory_24",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11230,7 +11230,7 @@
     },
     "R_Default_41": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_Default_41",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_Default_41",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11264,7 +11264,7 @@
     },
     "R_VentralAttn_22": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_22",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_22",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
@@ -11298,7 +11298,7 @@
     },
     "R_VentralAttn_23": {
         "LongName": "img_xcpd_space-fsLR_seg-Gordon_stat-coverage_bold_R_VentralAttn_23",
-        "label": "n/a",
+        "label": "XCP-D Gordon Parc. Coverage Values for region R_VentralAttn_23",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "Coverage (proportion)",
