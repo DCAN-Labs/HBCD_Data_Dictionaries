@@ -10,7 +10,7 @@
     },
     "aor": {
         "LongName": "img_mriqc_bold_aor",
-        "label": "n/a",
+        "label": "AFNI’s Outlier Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -44,7 +44,7 @@
     },
     "aqi": {
         "LongName": "img_mriqc_bold_aqi",
-        "label": "n/a",
+        "label": "AFNI’s Outlier Index",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -78,7 +78,7 @@
     },
     "dummy_trs": {
         "LongName": "img_mriqc_bold_dummy_trs",
-        "label": "n/a",
+        "label": "Non-Steady State Volumes",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -112,7 +112,7 @@
     },
     "dvars_nstd": {
         "LongName": "img_mriqc_bold_dvars_nstd",
-        "label": "n/a",
+        "label": "Temporal Derivative (D) Root Mean Square Variance (VARS)",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -146,7 +146,7 @@
     },
     "dvars_std": {
         "LongName": "img_mriqc_bold_dvars_std",
-        "label": "n/a",
+        "label": "DVARS Normalized With SD of Temporal Difference Time Series",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -180,7 +180,7 @@
     },
     "dvars_vstd": {
         "LongName": "img_mriqc_bold_dvars_vstd",
-        "label": "n/a",
+        "label": "DVARS With Voxel-Wise Standardization",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -214,7 +214,7 @@
     },
     "efc": {
         "LongName": "img_mriqc_bold_efc",
-        "label": "n/a",
+        "label": "Entropy-Focus Criterion",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -248,7 +248,7 @@
     },
     "fber": {
         "LongName": "img_mriqc_bold_fber",
-        "label": "n/a",
+        "label": "Foreground-Background Energy Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -282,7 +282,7 @@
     },
     "fd_mean": {
         "LongName": "img_mriqc_bold_fd_mean",
-        "label": "n/a",
+        "label": "Framewise Displacement Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -316,7 +316,7 @@
     },
     "fd_num": {
         "LongName": "img_mriqc_bold_fd_num",
-        "label": "n/a",
+        "label": "Number of Timepoints Above Framewise Displacement Threshold",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -350,7 +350,7 @@
     },
     "fd_perc": {
         "LongName": "img_mriqc_bold_fd_perc",
-        "label": "n/a",
+        "label": "Percent of Timepoints Values Above Framewise Displacement Threshold",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -384,7 +384,7 @@
     },
     "fwhm_avg": {
         "LongName": "img_mriqc_bold_fwhm_avg",
-        "label": "n/a",
+        "label": "Full Width Half Maximum Smoothness",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -418,7 +418,7 @@
     },
     "fwhm_x": {
         "LongName": "img_mriqc_bold_fwhm_x",
-        "label": "n/a",
+        "label": "Full Width Half Maximum in X Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -452,7 +452,7 @@
     },
     "fwhm_y": {
         "LongName": "img_mriqc_bold_fwhm_y",
-        "label": "n/a",
+        "label": "Full Width Half Maximum in Y Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -486,7 +486,7 @@
     },
     "fwhm_z": {
         "LongName": "img_mriqc_bold_fwhm_z",
-        "label": "n/a",
+        "label": "Full Width Half Maximum in Z Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -520,7 +520,7 @@
     },
     "gcor": {
         "LongName": "img_mriqc_bold_gcor",
-        "label": "n/a",
+        "label": "Global Correlation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -554,7 +554,7 @@
     },
     "gsr_x": {
         "LongName": "img_mriqc_bold_gsr_x",
-        "label": "n/a",
+        "label": "Ghost to Signal Ratio in X Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -588,7 +588,7 @@
     },
     "gsr_y": {
         "LongName": "img_mriqc_bold_gsr_y",
-        "label": "n/a",
+        "label": "Ghost to Signal Ratio in Y Direction",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -622,7 +622,7 @@
     },
     "size_t": {
         "LongName": "img_mriqc_bold_size_t",
-        "label": "n/a",
+        "label": "Number of Frames",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -656,7 +656,7 @@
     },
     "size_x": {
         "LongName": "img_mriqc_bold_size_x",
-        "label": "n/a",
+        "label": "Size Along X Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -690,7 +690,7 @@
     },
     "size_y": {
         "LongName": "img_mriqc_bold_size_y",
-        "label": "n/a",
+        "label": "Size Along Y Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -724,7 +724,7 @@
     },
     "size_z": {
         "LongName": "img_mriqc_bold_size_z",
-        "label": "n/a",
+        "label": "Size Along Z Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -758,7 +758,7 @@
     },
     "snr": {
         "LongName": "img_mriqc_bold_snr",
-        "label": "n/a",
+        "label": "Signal-To-Noise Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -792,7 +792,7 @@
     },
     "spacing_tr": {
         "LongName": "img_mriqc_bold_spacing_tr",
-        "label": "n/a",
+        "label": "Echo Spacing",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -826,7 +826,7 @@
     },
     "spacing_x": {
         "LongName": "img_mriqc_bold_spacing_x",
-        "label": "n/a",
+        "label": "Echo Spacing X Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -860,7 +860,7 @@
     },
     "spacing_y": {
         "LongName": "img_mriqc_bold_spacing_y",
-        "label": "n/a",
+        "label": "Echo Spacing Y Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -894,7 +894,7 @@
     },
     "spacing_z": {
         "LongName": "img_mriqc_bold_spacing_z",
-        "label": "n/a",
+        "label": "Echo Spacing Z Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -928,7 +928,7 @@
     },
     "summary_bg_k": {
         "LongName": "img_mriqc_bold_summary_bg_k",
-        "label": "n/a",
+        "label": "Summary Background Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -962,7 +962,7 @@
     },
     "summary_bg_mad": {
         "LongName": "img_mriqc_bold_summary_bg_mad",
-        "label": "n/a",
+        "label": "Summary Background Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -996,7 +996,7 @@
     },
     "summary_bg_mean": {
         "LongName": "img_mriqc_bold_summary_bg_mean",
-        "label": "n/a",
+        "label": "Summary Background Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1030,7 +1030,7 @@
     },
     "summary_bg_median": {
         "LongName": "img_mriqc_bold_summary_bg_median",
-        "label": "n/a",
+        "label": "Summary Background Median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1064,7 +1064,7 @@
     },
     "summary_bg_n": {
         "LongName": "img_mriqc_bold_summary_bg_n",
-        "label": "n/a",
+        "label": "Summary Background Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1098,7 +1098,7 @@
     },
     "summary_bg_p05": {
         "LongName": "img_mriqc_bold_summary_bg_p05",
-        "label": "n/a",
+        "label": "Summary Background 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1132,7 +1132,7 @@
     },
     "summary_bg_p95": {
         "LongName": "img_mriqc_bold_summary_bg_p95",
-        "label": "n/a",
+        "label": "Summary Background 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1166,7 +1166,7 @@
     },
     "summary_bg_stdv": {
         "LongName": "img_mriqc_bold_summary_bg_stdv",
-        "label": "n/a",
+        "label": "Summary Background Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1200,7 +1200,7 @@
     },
     "summary_fg_k": {
         "LongName": "img_mriqc_bold_summary_fg_k",
-        "label": "n/a",
+        "label": "Summary Foreground Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1234,7 +1234,7 @@
     },
     "summary_fg_mad": {
         "LongName": "img_mriqc_bold_summary_fg_mad",
-        "label": "n/a",
+        "label": "Summary Foreground Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1268,7 +1268,7 @@
     },
     "summary_fg_mean": {
         "LongName": "img_mriqc_bold_summary_fg_mean",
-        "label": "n/a",
+        "label": "Summary Foreground Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1302,7 +1302,7 @@
     },
     "summary_fg_median": {
         "LongName": "img_mriqc_bold_summary_fg_median",
-        "label": "n/a",
+        "label": "Summary Foreground Median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1336,7 +1336,7 @@
     },
     "summary_fg_n": {
         "LongName": "img_mriqc_bold_summary_fg_n",
-        "label": "n/a",
+        "label": "Summary Foreground Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1370,7 +1370,7 @@
     },
     "summary_fg_p05": {
         "LongName": "img_mriqc_bold_summary_fg_p05",
-        "label": "n/a",
+        "label": "Summary Foreground 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1404,7 +1404,7 @@
     },
     "summary_fg_p95": {
         "LongName": "img_mriqc_bold_summary_fg_p95",
-        "label": "n/a",
+        "label": "Summary Foreground 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1438,7 +1438,7 @@
     },
     "summary_fg_stdv": {
         "LongName": "img_mriqc_bold_summary_fg_stdv",
-        "label": "n/a",
+        "label": "Summary Foreground Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1472,7 +1472,7 @@
     },
     "tsnr": {
         "LongName": "img_mriqc_bold_tsnr",
-        "label": "n/a",
+        "label": "Temporal Signal-to-Noise Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
