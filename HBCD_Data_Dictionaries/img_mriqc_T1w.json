@@ -451,7 +451,7 @@
     },
     "qi_1": {
         "LongName": "img_mriqc_T1w_qi_1",
-        "label": "n/a",
+        "label": "Quality Index 1",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -485,7 +485,7 @@
     },
     "qi_2": {
         "LongName": "img_mriqc_T1w_qi_2",
-        "label": "n/a",
+        "label": "Quality Index 2",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -519,7 +519,7 @@
     },
     "rpve_csf": {
         "LongName": "img_mriqc_T1w_rpve_csf",
-        "label": "n/a",
+        "label": "Residual Partial Voluming Error - CSF",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -553,7 +553,7 @@
     },
     "rpve_gm": {
         "LongName": "img_mriqc_T1w_rpve_gm",
-        "label": "n/a",
+        "label": "Residual Partial Voluming Error - GM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -587,7 +587,7 @@
     },
     "rpve_wm": {
         "LongName": "img_mriqc_T1w_rpve_wm",
-        "label": "n/a",
+        "label": "Residual Partial Voluming Error - WM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -621,7 +621,7 @@
     },
     "size_x": {
         "LongName": "img_mriqc_T1w_size_x",
-        "label": "n/a",
+        "label": "Size X Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -655,7 +655,7 @@
     },
     "size_y": {
         "LongName": "img_mriqc_T1w_size_y",
-        "label": "n/a",
+        "label": "Size Y Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -689,7 +689,7 @@
     },
     "size_z": {
         "LongName": "img_mriqc_T1w_size_z",
-        "label": "n/a",
+        "label": "Size Z Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -723,7 +723,7 @@
     },
     "snr_csf": {
         "LongName": "img_mriqc_T1w_snr_csf",
-        "label": "n/a",
+        "label": "Signal-to-Noise Ratio CSF",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -757,7 +757,7 @@
     },
     "snr_gm": {
         "LongName": "img_mriqc_T1w_snr_gm",
-        "label": "n/a",
+        "label": "Signal-to-Noise Ratio GM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -791,7 +791,7 @@
     },
     "snr_total": {
         "LongName": "img_mriqc_T1w_snr_total",
-        "label": "n/a",
+        "label": "Signal-to-Noise Ratio Total",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -825,7 +825,7 @@
     },
     "snr_wm": {
         "LongName": "img_mriqc_T1w_snr_wm",
-        "label": "n/a",
+        "label": "Signal-to-Noise Ratio WM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -859,7 +859,7 @@
     },
     "snrd_csf": {
         "LongName": "img_mriqc_T1w_snrd_csf",
-        "label": "n/a",
+        "label": "Dietrich’s Signal-to-Noise Ratio CSF",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -893,7 +893,7 @@
     },
     "snrd_gm": {
         "LongName": "img_mriqc_T1w_snrd_gm",
-        "label": "n/a",
+        "label": "Dietrich’s Signal-to-Noise Ratio GM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -927,7 +927,7 @@
     },
     "snrd_total": {
         "LongName": "img_mriqc_T1w_snrd_total",
-        "label": "n/a",
+        "label": "Dietrich’s Signal-to-Noise Ratio Total",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -961,7 +961,7 @@
     },
     "snrd_wm": {
         "LongName": "img_mriqc_T1w_snrd_wm",
-        "label": "n/a",
+        "label": "Dietrich’s Signal-to-Noise Ratio WM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -995,7 +995,7 @@
     },
     "spacing_x": {
         "LongName": "img_mriqc_T1w_spacing_x",
-        "label": "n/a",
+        "label": "Spacing X Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1029,7 +1029,7 @@
     },
     "spacing_y": {
         "LongName": "img_mriqc_T1w_spacing_y",
-        "label": "n/a",
+        "label": "Spacing Y Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1063,7 +1063,7 @@
     },
     "spacing_z": {
         "LongName": "img_mriqc_T1w_spacing_z",
-        "label": "n/a",
+        "label": "Spacing Z Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1097,7 +1097,7 @@
     },
     "summary_bg_k": {
         "LongName": "img_mriqc_T1w_summary_bg_k",
-        "label": "n/a",
+        "label": "Summary Background Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1131,7 +1131,7 @@
     },
     "summary_bg_mad": {
         "LongName": "img_mriqc_T1w_summary_bg_mad",
-        "label": "n/a",
+        "label": "Summary Background Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1165,7 +1165,7 @@
     },
     "summary_bg_mean": {
         "LongName": "img_mriqc_T1w_summary_bg_mean",
-        "label": "n/a",
+        "label": "Summary Background Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1199,7 +1199,7 @@
     },
     "summary_bg_median": {
         "LongName": "img_mriqc_T1w_summary_bg_median",
-        "label": "n/a",
+        "label": "Summary Background Median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1233,7 +1233,7 @@
     },
     "summary_bg_n": {
         "LongName": "img_mriqc_T1w_summary_bg_n",
-        "label": "n/a",
+        "label": "Summary Background Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1267,7 +1267,7 @@
     },
     "summary_bg_p05": {
         "LongName": "img_mriqc_T1w_summary_bg_p05",
-        "label": "n/a",
+        "label": "Summary Background 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1301,7 +1301,7 @@
     },
     "summary_bg_p95": {
         "LongName": "img_mriqc_T1w_summary_bg_p95",
-        "label": "n/a",
+        "label": "Summary Background 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1335,7 +1335,7 @@
     },
     "summary_bg_stdv": {
         "LongName": "img_mriqc_T1w_summary_bg_stdv",
-        "label": "n/a",
+        "label": "Summary Background Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1369,7 +1369,7 @@
     },
     "summary_csf_k": {
         "LongName": "img_mriqc_T1w_summary_csf_k",
-        "label": "n/a",
+        "label": "Summary CSF Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1403,7 +1403,7 @@
     },
     "summary_csf_mad": {
         "LongName": "img_mriqc_T1w_summary_csf_mad",
-        "label": "n/a",
+        "label": "Summary CSF Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1437,7 +1437,7 @@
     },
     "summary_csf_mean": {
         "LongName": "img_mriqc_T1w_summary_csf_mean",
-        "label": "n/a",
+        "label": "Summary CSF Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1471,7 +1471,7 @@
     },
     "summary_csf_median": {
         "LongName": "img_mriqc_T1w_summary_csf_median",
-        "label": "n/a",
+        "label": "Summary CSF Median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1505,7 +1505,7 @@
     },
     "summary_csf_n": {
         "LongName": "img_mriqc_T1w_summary_csf_n",
-        "label": "n/a",
+        "label": "Summary CSF Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1539,7 +1539,7 @@
     },
     "summary_csf_p05": {
         "LongName": "img_mriqc_T1w_summary_csf_p05",
-        "label": "n/a",
+        "label": "Summary CSF 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1573,7 +1573,7 @@
     },
     "summary_csf_p95": {
         "LongName": "img_mriqc_T1w_summary_csf_p95",
-        "label": "n/a",
+        "label": "Summary CSF 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1607,7 +1607,7 @@
     },
     "summary_csf_stdv": {
         "LongName": "img_mriqc_T1w_summary_csf_stdv",
-        "label": "n/a",
+        "label": "Summary CSF Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1641,7 +1641,7 @@
     },
     "summary_gm_k": {
         "LongName": "img_mriqc_T1w_summary_gm_k",
-        "label": "n/a",
+        "label": "Summary GM Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1675,7 +1675,7 @@
     },
     "summary_gm_mad": {
         "LongName": "img_mriqc_T1w_summary_gm_mad",
-        "label": "n/a",
+        "label": "Summary GM Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1709,7 +1709,7 @@
     },
     "summary_gm_mean": {
         "LongName": "img_mriqc_T1w_summary_gm_mean",
-        "label": "n/a",
+        "label": "Summary GM Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1743,7 +1743,7 @@
     },
     "summary_gm_median": {
         "LongName": "img_mriqc_T1w_summary_gm_median",
-        "label": "n/a",
+        "label": "Summary GM Median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1777,7 +1777,7 @@
     },
     "summary_gm_n": {
         "LongName": "img_mriqc_T1w_summary_gm_n",
-        "label": "n/a",
+        "label": "Summary GM Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1811,7 +1811,7 @@
     },
     "summary_gm_p05": {
         "LongName": "img_mriqc_T1w_summary_gm_p05",
-        "label": "n/a",
+        "label": "Summary GM 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1845,7 +1845,7 @@
     },
     "summary_gm_p95": {
         "LongName": "img_mriqc_T1w_summary_gm_p95",
-        "label": "n/a",
+        "label": "Summary GM 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1879,7 +1879,7 @@
     },
     "summary_gm_stdv": {
         "LongName": "img_mriqc_T1w_summary_gm_stdv",
-        "label": "n/a",
+        "label": "Summary GM Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1913,7 +1913,7 @@
     },
     "summary_wm_k": {
         "LongName": "img_mriqc_T1w_summary_wm_k",
-        "label": "n/a",
+        "label": "Summary WM Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1947,7 +1947,7 @@
     },
     "summary_wm_mad": {
         "LongName": "img_mriqc_T1w_summary_wm_mad",
-        "label": "n/a",
+        "label": "Summary WM Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -1981,7 +1981,7 @@
     },
     "summary_wm_mean": {
         "LongName": "img_mriqc_T1w_summary_wm_mean",
-        "label": "n/a",
+        "label": "Summary WM Mean",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2015,7 +2015,7 @@
     },
     "summary_wm_median": {
         "LongName": "img_mriqc_T1w_summary_wm_median",
-        "label": "n/a",
+        "label": "Summary WM Median",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2049,7 +2049,7 @@
     },
     "summary_wm_n": {
         "LongName": "img_mriqc_T1w_summary_wm_n",
-        "label": "n/a",
+        "label": "Summary WM Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2083,7 +2083,7 @@
     },
     "summary_wm_p05": {
         "LongName": "img_mriqc_T1w_summary_wm_p05",
-        "label": "n/a",
+        "label": "Summary WM 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2117,7 +2117,7 @@
     },
     "summary_wm_p95": {
         "LongName": "img_mriqc_T1w_summary_wm_p95",
-        "label": "n/a",
+        "label": "Summary WM 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2151,7 +2151,7 @@
     },
     "summary_wm_stdv": {
         "LongName": "img_mriqc_T1w_summary_wm_stdv",
-        "label": "n/a",
+        "label": "Summary WM Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2185,7 +2185,7 @@
     },
     "tpm_overlap_csf": {
         "LongName": "img_mriqc_T1w_tpm_overlap_csf",
-        "label": "n/a",
+        "label": "Tissue Probability Map Overlap CSF",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2219,7 +2219,7 @@
     },
     "tpm_overlap_gm": {
         "LongName": "img_mriqc_T1w_tpm_overlap_gm",
-        "label": "n/a",
+        "label": "Tissue Probability Map Overlap GM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2253,7 +2253,7 @@
     },
     "tpm_overlap_wm": {
         "LongName": "img_mriqc_T1w_tpm_overlap_wm",
-        "label": "n/a",
+        "label": "Tissue Probability Map Overlap WM",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -2287,7 +2287,7 @@
     },
     "wm2max": {
         "LongName": "img_mriqc_T1w_wm2max",
-        "label": "n/a",
+        "label": "Maximum White Matter Intensity",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
