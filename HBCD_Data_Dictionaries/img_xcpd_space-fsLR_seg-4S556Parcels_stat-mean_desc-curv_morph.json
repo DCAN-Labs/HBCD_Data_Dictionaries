@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Cortical curvature metric generated through Nibabies and XCP-D.",
-        "TermURL": "https://xcp-d.readthedocs.io\/en\/latest\/index.html`",
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html`",
         "Name": "XCP-D 4S-556-Region Parc. Curvature Values",
         "Category": [
             "Morphometry"

@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Cortical thickness metric generated through Nibabies and XCP-D.",
-        "TermURL": "https://xcp-d.readthedocs.io\/en\/latest\/index.html`",
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html`",
         "Name": "XCP-D MIDB Parc. Thickness Values",
         "Category": [
             "Morphometry"

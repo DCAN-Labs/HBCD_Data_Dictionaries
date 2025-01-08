@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Amplitude of Low Frequency Fluctuation (ALFF) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
-        "TermURL": "https://xcp-d.readthedocs.io\/en\/latest\/index.html`",
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html`",
         "Name": "XCP-D 4S-656-Region Parc. Amplitude of Low Frequency Fluctuations (ALFF) Values",
         "Category": [
             "fMRI"
