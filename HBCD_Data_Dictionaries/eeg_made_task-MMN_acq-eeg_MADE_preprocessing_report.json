@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "MADE Preproc Report for MMN task",
-        "TermURL": "`https:/\/hbcd-made.readthedocs.io\/en\/latest\/expected_outputs.html#eeg-made-preprocessing-report-csv`",
+        "TermURL": "https://hbcd-made.readthedocs.io\/en\/latest\/expected_outputs.html#eeg-made-preprocessing-report-csv`",
         "Name": "MADE Preproc Report for MMN task",
         "Category": [
             "EEG"
