@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Magnetic Resonance Spectroscopy analysis statistics calculated from the HERCULES acquisition.",
-        "TermURL": "https://schorschinho.github.io/osprey/`",
+        "TermURL": "https://schorschinho.github.io/osprey/",
         "Name": "Osprey HERCULES diff1 rawWaterScaled",
         "Category": [
             "Spectroscopy"

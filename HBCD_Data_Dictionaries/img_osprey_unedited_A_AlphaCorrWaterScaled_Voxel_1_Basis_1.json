@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Magnetic Resonance Spectroscopy analysis statistics calculated from the unedited acquisition.",
-        "TermURL": "https://schorschinho.github.io/osprey/`",
+        "TermURL": "https://schorschinho.github.io/osprey/",
         "Name": "Osprey unedited A AlphaCorrWaterScaled",
         "Category": [
             "Spectroscopy"

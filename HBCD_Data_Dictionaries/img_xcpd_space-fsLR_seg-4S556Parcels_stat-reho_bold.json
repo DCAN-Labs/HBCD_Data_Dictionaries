@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "Regional Homogeneity (ReHo) Values generated as product of initial Nibabies pre-processing followed with XCP-D denoising and metric computation.",
-        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html`",
+        "TermURL": "https://xcp-d.readthedocs.io/en/latest/index.html",
         "Name": "XCP-D 4S-556-Region Parc. Regional Homogeity (ReHo) Values",
         "Category": [
             "fMRI"

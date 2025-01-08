@@ -1,7 +1,7 @@
 {
     "MeasurementToolMetadata": {
         "Description": "MRIQC",
-        "TermURL": "https://mriqc.readthedocs.io/en/latest/index.html`",
+        "TermURL": "https://mriqc.readthedocs.io/en/latest/index.html",
         "Name": "MRIQC IQMs for T2w Images",
         "Category": [
             "QC"
