@@ -1,8 +1,8 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "Magnetic Resonance Spectroscopy analysis statistics calculated from the HERCULES acquisition.",
+        "Description": "Magnetic Resonance Spectroscopy analysis statistics calculated from the unedited acquisition.",
         "TermURL": "https://schorschinho.github.io/osprey/",
-        "Name": "Osprey HERCULES qm processed spectra",
+        "Name": "Osprey unedited qm processed spectra",
         "Category": [
             "Spectroscopy"
         ]
@@ -20,8 +20,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -45,7 +45,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Cr_FWHM": {
@@ -61,8 +61,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -86,7 +86,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "water_FWHM": {
@@ -102,8 +102,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -127,7 +127,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "residual_water_ampl": {
@@ -143,8 +143,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -168,7 +168,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "freqShift": {
@@ -184,8 +184,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -209,7 +209,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "relRessum": {
@@ -225,8 +225,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -250,7 +250,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "relResdiff1": {
@@ -266,8 +266,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -291,7 +291,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "relResdiff2": {
@@ -307,8 +307,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -332,7 +332,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "relResA": {
@@ -348,8 +348,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -373,7 +373,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     }
 }

@@ -20,8 +20,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -45,7 +45,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Cerebral-Cortex": {
@@ -61,8 +61,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -86,7 +86,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Lateral-Ventricle": {
@@ -102,8 +102,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -127,7 +127,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Cerebellum-Cortex": {
@@ -143,8 +143,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -168,7 +168,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Thalamus-Proper": {
@@ -184,8 +184,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -209,7 +209,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Caudate": {
@@ -225,8 +225,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -250,7 +250,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Putamen": {
@@ -266,8 +266,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -291,7 +291,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Pallidum": {
@@ -307,8 +307,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -332,7 +332,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "3rd-Ventricle": {
@@ -348,8 +348,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -373,7 +373,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "4th-Ventricle": {
@@ -389,8 +389,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -414,7 +414,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Brain-Stem": {
@@ -430,8 +430,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -455,7 +455,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Hippocampus": {
@@ -471,8 +471,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -496,7 +496,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Amygdala": {
@@ -512,8 +512,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -537,7 +537,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-Accumbens-area": {
@@ -553,8 +553,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -578,7 +578,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Left-VentralDC": {
@@ -594,8 +594,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -619,7 +619,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Cerebral-White-Matter": {
@@ -635,8 +635,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -660,7 +660,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Cerebral-Cortex": {
@@ -676,8 +676,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -701,7 +701,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Lateral-Ventricle": {
@@ -717,8 +717,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -742,7 +742,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Cerebellum-Cortex": {
@@ -758,8 +758,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -783,7 +783,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Thalamus-Proper": {
@@ -799,8 +799,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -824,7 +824,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Caudate": {
@@ -840,8 +840,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -865,7 +865,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Putamen": {
@@ -881,8 +881,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -906,7 +906,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Pallidum": {
@@ -922,8 +922,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -947,7 +947,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Hippocampus": {
@@ -963,8 +963,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -988,7 +988,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Amygdala": {
@@ -1004,8 +1004,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1029,7 +1029,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-Accumbens-area": {
@@ -1045,8 +1045,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1070,7 +1070,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Right-VentralDC": {
@@ -1086,8 +1086,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1111,7 +1111,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Vermis": {
@@ -1127,8 +1127,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1152,7 +1152,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CSF": {
@@ -1168,8 +1168,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Summary scores",
+        "type_level": "continuous",
+        "type_var": "summary scores",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1193,7 +1193,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     }
 }

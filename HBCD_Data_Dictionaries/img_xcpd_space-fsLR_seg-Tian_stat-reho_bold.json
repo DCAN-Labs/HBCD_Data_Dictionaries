@@ -20,8 +20,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -45,7 +45,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-head-l-rh": {
@@ -61,8 +61,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -86,7 +86,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-body-rh": {
@@ -102,8 +102,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -127,7 +127,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-tail-rh": {
@@ -143,8 +143,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -168,7 +168,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VPm-rh": {
@@ -184,8 +184,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -209,7 +209,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VPl-rh": {
@@ -225,8 +225,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -250,7 +250,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VAi-rh": {
@@ -266,8 +266,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -291,7 +291,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VAs-rh": {
@@ -307,8 +307,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -332,7 +332,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-DAm-rh": {
@@ -348,8 +348,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -373,7 +373,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-DAl-rh": {
@@ -389,8 +389,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -414,7 +414,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-VA-rh": {
@@ -430,8 +430,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -455,7 +455,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-DA-rh": {
@@ -471,8 +471,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -496,7 +496,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-VP-rh": {
@@ -512,8 +512,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -537,7 +537,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-DP-rh": {
@@ -553,8 +553,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -578,7 +578,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-VA-rh": {
@@ -594,8 +594,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -619,7 +619,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-DA-rh": {
@@ -635,8 +635,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -660,7 +660,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-body-rh": {
@@ -676,8 +676,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -701,7 +701,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-tail-rh": {
@@ -717,8 +717,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -742,7 +742,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "lAMY-rh": {
@@ -758,8 +758,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -783,7 +783,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "mAMY-rh": {
@@ -799,8 +799,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -824,7 +824,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-DP-rh": {
@@ -840,8 +840,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -865,7 +865,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "NAc-shell-rh": {
@@ -881,8 +881,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -906,7 +906,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "NAc-core-rh": {
@@ -922,8 +922,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -947,7 +947,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "pGP-rh": {
@@ -963,8 +963,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -988,7 +988,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "aGP-rh": {
@@ -1004,8 +1004,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1029,7 +1029,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-head-m-lh": {
@@ -1045,8 +1045,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1070,7 +1070,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-head-l-l": {
@@ -1086,8 +1086,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1111,7 +1111,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-body-l": {
@@ -1127,8 +1127,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1152,7 +1152,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "HIP-tail-lh": {
@@ -1168,8 +1168,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1193,7 +1193,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VPm-lh": {
@@ -1209,8 +1209,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1234,7 +1234,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VPl-lh": {
@@ -1250,8 +1250,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1275,7 +1275,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VAi-lh": {
@@ -1291,8 +1291,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1316,7 +1316,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-VAs-lh": {
@@ -1332,8 +1332,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1357,7 +1357,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-DAm-lh": {
@@ -1373,8 +1373,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1398,7 +1398,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-DAl-lh": {
@@ -1414,8 +1414,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1439,7 +1439,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-VA-lh": {
@@ -1455,8 +1455,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1480,7 +1480,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-DA-l": {
@@ -1496,8 +1496,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1521,7 +1521,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-VP-lh": {
@@ -1537,8 +1537,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1562,7 +1562,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "PUT-DP-lh": {
@@ -1578,8 +1578,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1603,7 +1603,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-VA-lh": {
@@ -1619,8 +1619,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1644,7 +1644,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-DA-lh": {
@@ -1660,8 +1660,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1685,7 +1685,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-body-lh": {
@@ -1701,8 +1701,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1726,7 +1726,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "CAU-tail-lh": {
@@ -1742,8 +1742,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1767,7 +1767,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "lAMY-lh": {
@@ -1783,8 +1783,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1808,7 +1808,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "mAMY-lh": {
@@ -1824,8 +1824,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1849,7 +1849,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "THA-DP-lh": {
@@ -1865,8 +1865,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1890,7 +1890,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "NAc-shell-lh": {
@@ -1906,8 +1906,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1931,7 +1931,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "NAc-core-lh": {
@@ -1947,8 +1947,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -1972,7 +1972,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "pGP-lh": {
@@ -1988,8 +1988,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -2013,7 +2013,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "aGP-lh": {
@@ -2029,8 +2029,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -2054,7 +2054,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     }
 }

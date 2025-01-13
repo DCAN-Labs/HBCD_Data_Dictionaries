@@ -20,8 +20,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -45,7 +45,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Glu": {
@@ -61,8 +61,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -86,7 +86,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Gln": {
@@ -102,8 +102,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -127,7 +127,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     },
     "Glx": {
@@ -143,8 +143,8 @@
         "domain": "Tabular Imaging",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "Continuous",
-        "type_var": "Score",
+        "type_level": "continuous",
+        "type_var": "score",
         "type_data": "float",
         "source": "Child",
         "coding_format": "n/a",
@@ -168,7 +168,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_coluns": "n/a",
+        "identifier_columns": "n/a",
         "order_sort": "n/a"
     }
 }
