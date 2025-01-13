@@ -792,7 +792,7 @@
     },
     "spacing_tr": {
         "LongName": "img_mriqc_bold_spacing_tr",
-        "label": "Echo Spacing",
+        "label": "Repetition Time (TR)",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -826,7 +826,7 @@
     },
     "spacing_x": {
         "LongName": "img_mriqc_bold_spacing_x",
-        "label": "Echo Spacing X Dimension",
+        "label": "Voxel size X (in mm)",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -860,7 +860,7 @@
     },
     "spacing_y": {
         "LongName": "img_mriqc_bold_spacing_y",
-        "label": "Echo Spacing Y Dimension",
+        "label": "Voxel size Y (in mm)",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -894,7 +894,7 @@
     },
     "spacing_z": {
         "LongName": "img_mriqc_bold_spacing_z",
-        "label": "Echo Spacing Z Dimension",
+        "label": "Voxel size Z (in mm)",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
