@@ -17,7 +17,7 @@
         "table_name": "made",
         "table_label": "task-VEP_ERP-summaryStats",
         "order_display": "n/a",
-        "domain": "EEG",
+        "domain": "Tabular EEG",
         "study": "Substudy",
         "type_field": "n/a",
         "type_level": "Continuous",

@@ -17,7 +17,7 @@
         "table_name": "qc",
         "table_label": "task-MMN",
         "order_display": "n/a",
-        "domain": "EEG",
+        "domain": "Tabular EEG",
         "study": "Substudy",
         "type_field": "n/a",
         "type_level": "Qualitative",
