@@ -1,9 +1,11 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "EEG QC",
+        "Description": "EEG QC for MMN task",
         "TermURL": "n/a",
-        "Name": "n/a",
-        "Category": []
+        "Name": "EEG QC for MMN task",
+        "Category": [
+            "EEG"
+        ]
     },
     "qc_pass_fail": {
         "LongName": "eeg_qc_task-MMN_qc_pass_fail",
