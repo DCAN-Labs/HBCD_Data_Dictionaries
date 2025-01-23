@@ -9,7 +9,7 @@
     },
     "qc_pass_fail": {
         "LongName": "eeg_qc_task-MMN_qc_pass_fail",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -50,7 +50,7 @@
     },
     "capping_quality": {
         "LongName": "eeg_qc_task-MMN_capping_quality",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -91,7 +91,7 @@
     },
     "MMN_Standard": {
         "LongName": "eeg_qc_task-MMN_MMN_Standard",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -132,7 +132,7 @@
     },
     "MMN_PreDev": {
         "LongName": "eeg_qc_task-MMN_MMN_PreDev",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -173,7 +173,7 @@
     },
     "MMN_Dev": {
         "LongName": "eeg_qc_task-MMN_MMN_Dev",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",

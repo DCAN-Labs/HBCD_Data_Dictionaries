@@ -9,7 +9,7 @@
     },
     "Condition": {
         "LongName": "eeg_made_task-VEP_ERP-summaryStats_Condition",
-        "label": "Visual Evoked Potential",
+        "Description": "Visual Evoked Potential",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -50,7 +50,7 @@
     },
     "NTrials": {
         "LongName": "eeg_made_task-VEP_ERP-summaryStats_NTrials",
-        "label": "Number of trials retained",
+        "Description": "Number of trials retained",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -91,7 +91,7 @@
     },
     "SME_40-79_oz": {
         "LongName": "eeg_made_task-VEP_ERP-summaryStats_SME_40-79_oz",
-        "label": "Standard Measurement Error during 40-79ms at Oz cluster.",
+        "Description": "Standard Measurement Error during 40-79ms at Oz cluster.",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -132,7 +132,7 @@
     },
     "SME_80-140_oz": {
         "LongName": "eeg_made_task-VEP_ERP-summaryStats_SME_80-140_oz",
-        "label": "Standard Measurement Error during 80-140ms at Oz cluster.",
+        "Description": "Standard Measurement Error during 80-140ms at Oz cluster.",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -173,7 +173,7 @@
     },
     "SME_141-300_oz": {
         "LongName": "eeg_made_task-VEP_ERP-summaryStats_SME_141-300_oz",
-        "label": "Standard Measurement Error during 141-300 at Oz cluster.",
+        "Description": "Standard Measurement Error during 141-300 at Oz cluster.",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",

@@ -9,7 +9,7 @@
     },
     "qc_pass_fail": {
         "LongName": "eeg_qc_task-FACE_qc_pass_fail",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -50,7 +50,7 @@
     },
     "capping_quality": {
         "LongName": "eeg_qc_task-FACE_capping_quality",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -91,7 +91,7 @@
     },
     "FACE_UpInv": {
         "LongName": "eeg_qc_task-FACE_FACE_UpInv",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -132,7 +132,7 @@
     },
     "FACE_Inv": {
         "LongName": "eeg_qc_task-FACE_FACE_Inv",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -173,7 +173,7 @@
     },
     "FACE_Obj": {
         "LongName": "eeg_qc_task-FACE_FACE_Obj",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
@@ -214,7 +214,7 @@
     },
     "FACE_UpObj": {
         "LongName": "eeg_qc_task-FACE_FACE_UpObj",
-        "label": "n/a",
+        "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "unit": "n/a",
