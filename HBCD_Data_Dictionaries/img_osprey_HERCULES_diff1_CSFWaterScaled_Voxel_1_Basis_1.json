@@ -7,14 +7,14 @@
             "Spectroscopy"
         ]
     },
-    "age": {
-        "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_age",
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_candidate_age": {
+        "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_candidate_age",
         "Description": "Age (in years) of the candidate at the time of the first acquired scan",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "years",
         "note": "n/a",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "0"
     },
-    "gestational_age": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_gestational_age": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_gestational_age",
         "Description": "Gestational age (in days) based on the EDD",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "days",
         "note": "n/a",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "1"
     },
-    "GABA": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GABA": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GABA",
         "Description": "GABA alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "GABA scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "2"
     },
-    "Glu": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Glu": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Glu",
         "Description": "Glu alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "Glu scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "3"
     },
-    "Gln": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Gln": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Gln",
         "Description": "Gln alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "Gln scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -144,17 +144,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "4"
     },
-    "Glx": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Glx": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Glx",
         "Description": "Glx alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "Glx scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -172,17 +172,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "5"
     },
-    "GABAplus": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GABAplus": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GABAplus",
         "Description": "GABAplus alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "GABAplus scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -200,17 +200,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "6"
     },
-    "Asc": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Asc": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Asc",
         "Description": "Asc to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Asc as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -228,17 +228,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "7"
     },
-    "Asp": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Asp": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Asp",
         "Description": "Asp to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Asp as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -256,17 +256,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "8"
     },
-    "Cr": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Cr": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Cr",
         "Description": "Cr to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Cr as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -284,17 +284,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "9"
     },
-    "GPC": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GPC": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GPC",
         "Description": "GPC to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of GPC as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -312,17 +312,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "10"
     },
-    "GSH": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GSH": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_GSH",
         "Description": "GSH to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of GSH as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -340,17 +340,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "11"
     },
-    "mI": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_mI": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_mI",
         "Description": "mI to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of mI as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -368,17 +368,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "12"
     },
-    "Lac": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lac": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lac",
         "Description": "Lac to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Lac as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -396,17 +396,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "13"
     },
-    "NAA": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_NAA": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_NAA",
         "Description": "NAA to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of NAA as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -424,17 +424,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "14"
     },
-    "NAAG": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_NAAG": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_NAAG",
         "Description": "NAAG to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of NAAG as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -452,17 +452,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "15"
     },
-    "PCh": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_PCh": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_PCh",
         "Description": "PCh to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of PCh as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -480,17 +480,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "16"
     },
-    "PCr": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_PCr": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_PCr",
         "Description": "PCr to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of PCr as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -508,17 +508,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "17"
     },
-    "PE": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_PE": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_PE",
         "Description": "PE to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of PE as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -536,17 +536,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "18"
     },
-    "sI": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_sI": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_sI",
         "Description": "sI to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of sI as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -564,17 +564,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "19"
     },
-    "Tau": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Tau": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Tau",
         "Description": "Tau to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Tau as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -592,17 +592,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "20"
     },
-    "MM09": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM09": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM09",
         "Description": "MM09 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of MM09 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -620,17 +620,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "21"
     },
-    "MM12": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM12": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM12",
         "Description": "MM12 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of MM12 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -648,17 +648,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "22"
     },
-    "MM14": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM14": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM14",
         "Description": "MM14 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of MM14 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -676,17 +676,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "23"
     },
-    "MM17": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM17": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM17",
         "Description": "MM17 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of MM17 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -704,17 +704,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "24"
     },
-    "MM20": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM20": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM20",
         "Description": "MM20 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of MM20 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -732,17 +732,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "25"
     },
-    "Lip09": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lip09": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lip09",
         "Description": "Lip09 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Lip09 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -760,17 +760,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "26"
     },
-    "Lip13": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lip13": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lip13",
         "Description": "Lip13 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Lip13 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -788,17 +788,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "27"
     },
-    "Lip20": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lip20": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_Lip20",
         "Description": "Lip20 to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of Lip20 as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -816,17 +816,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "28"
     },
-    "MM3co": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM3co": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_MM3co",
         "Description": "MM3co to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of MM3co as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -844,17 +844,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "29"
     },
-    "tNAA": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_tNAA": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_tNAA",
         "Description": "tNAA to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of tNAA as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -872,17 +872,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "30"
     },
-    "tCho": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_tCho": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_tCho",
         "Description": "tCho to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of tCho as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -900,17 +900,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "31"
     },
-    "tCr": {
+    "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_tCr": {
         "name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1_tCr",
         "Description": "tCr to raw water ratio, corrected for CSF fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Signal of tCr as a ratio to raw water, but corrected for CSF fraction: WaterScaled/ (1 - fCSF)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "table_label": "diff1_CSFWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -928,7 +928,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "32"
     }
 }

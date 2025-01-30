@@ -7,14 +7,14 @@
             "EEG"
         ]
     },
-    "task": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_task": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_task",
         "Description": "task_id specified through the BIDS organization",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "0"
     },
-    "line_noise": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_line_noise": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_line_noise",
         "Description": "estimate of how much electrical line noise is present in the EEG signal. Values of 1 indicate no line noise, values of 0 indicate pure line noise.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "1"
     },
-    "reference_for_faster": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_reference_for_faster": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_reference_for_faster",
         "Description": "reference electrode used by the FASTER algorithm used for bad channel detection (Nolan et al., 2010).",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "2"
     },
-    "faster_bad_channels": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_faster_bad_channels": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_faster_bad_channels",
         "Description": "list of channels identified by FASTER algorithm as being artifactual, or not representative of brain activity.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "3"
     },
-    "ica_prep_bad_channels": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_ica_prep_bad_channels": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_ica_prep_bad_channels",
         "Description": "channels deleted by FASTER before ICA.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -144,17 +144,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "4"
     },
-    "length_ica_data": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_length_ica_data": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_length_ica_data",
         "Description": "how much continuous data (in seconds) was used for independent component analysis.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -172,17 +172,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "5"
     },
-    "total_ICs": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_ICs": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_ICs",
         "Description": "number of independent components identified.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -200,17 +200,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "6"
     },
-    "ICs_removed": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_ICs_removed": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_ICs_removed",
         "Description": "independent components removed by adjusted-ADJUST (Leach et al, 2020).",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -228,17 +228,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "7"
     },
-    "total_epochs_pre_artifact_rej": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_epochs_pre_artifact_rej": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_epochs_pre_artifact_rej",
         "Description": "number of epochs collected.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -256,17 +256,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "8"
     },
-    "total_epochs_post_artifact_rej": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_epochs_post_artifact_rej": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_epochs_post_artifact_rej",
         "Description": "number of epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -284,17 +284,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "9"
     },
-    "FACE_UpInv": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_UpInv": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_UpInv",
         "Description": "face stimuli in block 1 (upright faces vs inverted faces)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -312,17 +312,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "10"
     },
-    "FACE_Inv": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_Inv": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_Inv",
         "Description": "inverted face stimuli in block 1 (upright faces vs inverted faces)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -340,17 +340,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "11"
     },
-    "FACE_Obj": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_Obj": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_Obj",
         "Description": "object stimuli in block 2 (upright faces vs objects)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -368,17 +368,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "12"
     },
-    "FACE_UpObj": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_UpObj": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_FACE_UpObj",
         "Description": "FACE task, upright face stimuli in block 2 (upright faces vs objects)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -396,17 +396,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "13"
     },
-    "MMN_Standard": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_MMN_Standard": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_MMN_Standard",
         "Description": "mismatch negativity, standard stimulus",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -424,17 +424,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "14"
     },
-    "MMN_PreDev": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_MMN_PreDev": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_MMN_PreDev",
         "Description": "mismatch negativity, standard stimulus preceding deviant stimulus",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -452,17 +452,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "15"
     },
-    "MMN_Dev": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_MMN_Dev": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_MMN_Dev",
         "Description": "mismatch negativity, deviant stimulus",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -480,17 +480,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "16"
     },
-    "total_channels_interp": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_channels_interp": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_total_channels_interp",
         "Description": "number of channels interpolated using spline interpolation after bad channel removal.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -508,17 +508,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "17"
     },
-    "avg_chan_interp_artifact_rej": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_avg_chan_interp_artifact_rej": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_avg_chan_interp_artifact_rej",
         "Description": "average number of channels interpolated per epoch using spline interpolation for each task.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -536,17 +536,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "18"
     },
-    "std_chan_interp_artifact_rej": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_std_chan_interp_artifact_rej": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_std_chan_interp_artifact_rej",
         "Description": "standard deviation of the number of channels removed per epoch for each task.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -564,17 +564,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "19"
     },
-    "range_chan_interp_artifact_rej": {
+    "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_range_chan_interp_artifact_rej": {
         "name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report_range_chan_interp_artifact_rej",
         "Description": "range of number of channels interpolated per epoch.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-MMN_acq-eeg_MADE_preprocessing_report",
         "table_label": "task-MMN_acq-eeg_MADE_preprocessing_report",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -592,7 +592,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "20"
     }
 }

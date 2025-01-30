@@ -7,14 +7,14 @@
             "EEG"
         ]
     },
-    "Condition": {
+    "eeg_made_task-VEP_ERP-summaryStats_Condition": {
         "name": "eeg_made_task-VEP_ERP-summaryStats_Condition",
         "Description": "Visual Evoked Potential",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-VEP_ERP-summaryStats",
         "table_label": "task-VEP_ERP-summaryStats",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "0"
     },
-    "NTrials": {
+    "eeg_made_task-VEP_ERP-summaryStats_NTrials": {
         "name": "eeg_made_task-VEP_ERP-summaryStats_NTrials",
         "Description": "Number of trials retained",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-VEP_ERP-summaryStats",
         "table_label": "task-VEP_ERP-summaryStats",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "1"
     },
-    "SME_40-79_oz": {
+    "eeg_made_task-VEP_ERP-summaryStats_SME_40-79_oz": {
         "name": "eeg_made_task-VEP_ERP-summaryStats_SME_40-79_oz",
         "Description": "Standard Measurement Error during 40-79ms at Oz cluster.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-VEP_ERP-summaryStats",
         "table_label": "task-VEP_ERP-summaryStats",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "2"
     },
-    "SME_80-140_oz": {
+    "eeg_made_task-VEP_ERP-summaryStats_SME_80-140_oz": {
         "name": "eeg_made_task-VEP_ERP-summaryStats_SME_80-140_oz",
         "Description": "Standard Measurement Error during 80-140ms at Oz cluster.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-VEP_ERP-summaryStats",
         "table_label": "task-VEP_ERP-summaryStats",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "3"
     },
-    "SME_141-300_oz": {
+    "eeg_made_task-VEP_ERP-summaryStats_SME_141-300_oz": {
         "name": "eeg_made_task-VEP_ERP-summaryStats_SME_141-300_oz",
         "Description": "Standard Measurement Error during 141-300 at Oz cluster.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "made",
+        "table_name": "eeg_made_task-VEP_ERP-summaryStats",
         "table_label": "task-VEP_ERP-summaryStats",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -144,7 +144,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "4"
     }
 }

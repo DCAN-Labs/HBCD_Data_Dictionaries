@@ -7,14 +7,14 @@
             "Spectroscopy"
         ]
     },
-    "age": {
-        "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_age",
+    "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_candidate_age": {
+        "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_candidate_age",
         "Description": "Age (in years) of the candidate at the time of the first acquired scan",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "years",
         "note": "n/a",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "table_label": "sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "0"
     },
-    "gestational_age": {
+    "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_gestational_age": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_gestational_age",
         "Description": "Gestational age (in days) based on the EDD",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "days",
         "note": "n/a",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "table_label": "sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "1"
     },
-    "GABA": {
+    "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_GABA": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_GABA",
         "Description": "GABA alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "GABA scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "table_label": "sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "2"
     },
-    "Glu": {
+    "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glu": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glu",
         "Description": "Glu alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "Glu scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "table_label": "sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "3"
     },
-    "Gln": {
+    "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_Gln": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_Gln",
         "Description": "Gln alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "Gln scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "table_label": "sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -144,17 +144,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "4"
     },
-    "Glx": {
+    "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glx": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glx",
         "Description": "Glx alpha-corrected molal concentration, using tissue corrected water",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
         "note": "Glx scaled to tissue corrected water according to Gasparovic et al, Magn Reson Med 55:1219-26 (2006). Alpha (cWM/cGM) correction applied according to: ConcIU/(fGM + alpha*fWM), with group normalization: (meanfGM + alpha * meanfWM) / ((fGM + alpha * fWM) * (meanfGM + meanfWM))",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "table_label": "sum_AlphaCorrWaterScaled_Voxel_1_Basis_1",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -172,7 +172,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "5"
     }
 }
