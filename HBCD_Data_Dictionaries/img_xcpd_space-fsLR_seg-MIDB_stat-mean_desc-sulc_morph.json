@@ -7,14 +7,14 @@
             "Morphometry"
         ]
     },
-    "age": {
-        "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_age",
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_candidate_age": {
+        "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_candidate_age",
         "Description": "Age (in years) of the candidate at the time of the first acquired scan",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "years",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "0"
     },
-    "gestational_age": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_gestational_age": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_gestational_age",
         "Description": "Gestational age (in days) based on the EDD",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "days",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "1"
     },
-    "DMN_LABEL_1": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_1": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_1",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_1",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "2"
     },
-    "Vis_LABEL_2": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_2": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_2",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Vis_LABEL_2",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "3"
     },
-    "FP_LABEL_3": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_3": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_3",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_3",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -144,17 +144,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "4"
     },
-    "Aud_LABEL_4": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Aud_LABEL_4": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Aud_LABEL_4",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Aud_LABEL_4",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -172,17 +172,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "5"
     },
-    "Tpole_LABEL_5": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_5": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_5",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Tpole_LABEL_5",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -200,17 +200,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "6"
     },
-    "PMN_LABEL_6": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_6": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_6",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PMN_LABEL_6",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -228,17 +228,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "7"
     },
-    "PON_LABEL_7": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_7": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_7",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PON_LABEL_7",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -256,17 +256,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "8"
     },
-    "MTL_LABEL_8": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_8": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_8",
         "Description": "XCP-D MIDB Parc. Sulc Values for region MTL_LABEL_8",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -284,17 +284,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "9"
     },
-    "PON_LABEL_9": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_9": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_9",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PON_LABEL_9",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -312,17 +312,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "10"
     },
-    "CO_LABEL_10": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_10": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_10",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_10",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -340,17 +340,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "11"
     },
-    "Sal_LABEL_11": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_11": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_11",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Sal_LABEL_11",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -368,17 +368,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "12"
     },
-    "CO_LABEL_12": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_12": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_12",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_12",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -396,17 +396,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "13"
     },
-    "SMd_LABEL_13": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_13": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_13",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMd_LABEL_13",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -424,17 +424,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "14"
     },
-    "SMl_LABEL_14": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_14": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_14",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMl_LABEL_14",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -452,17 +452,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "15"
     },
-    "DAN_LABEL_15": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_15": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_15",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_15",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -480,17 +480,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "16"
     },
-    "DMN_LABEL_16": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_16": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_16",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_16",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -508,17 +508,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "17"
     },
-    "CO_LABEL_17": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_17": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_17",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_17",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -536,17 +536,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "18"
     },
-    "DMN_LABEL_18": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_18": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_18",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_18",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -564,17 +564,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "19"
     },
-    "VAN_LABEL_19": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_VAN_LABEL_19": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_VAN_LABEL_19",
         "Description": "XCP-D MIDB Parc. Sulc Values for region VAN_LABEL_19",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -592,17 +592,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "20"
     },
-    "CO_LABEL_20": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_20": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_20",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_20",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -620,17 +620,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "21"
     },
-    "CO_LABEL_21": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_21": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_21",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_21",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -648,17 +648,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "22"
     },
-    "Sal_LABEL_22": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_22": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_22",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Sal_LABEL_22",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -676,17 +676,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "23"
     },
-    "DAN_LABEL_23": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_23": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_23",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_23",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -704,17 +704,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "24"
     },
-    "PMN_LABEL_24": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_24": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_24",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PMN_LABEL_24",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -732,17 +732,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "25"
     },
-    "DAN_LABEL_25": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_25": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_25",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_25",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -760,17 +760,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "26"
     },
-    "DMN_LABEL_26": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_26": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_26",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_26",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -788,17 +788,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "27"
     },
-    "DMN_LABEL_27": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_27": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_27",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_27",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -816,17 +816,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "28"
     },
-    "DMN_LABEL_28": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_28": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_28",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_28",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -844,17 +844,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "29"
     },
-    "Vis_LABEL_29": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_29": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_29",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Vis_LABEL_29",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -872,17 +872,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "30"
     },
-    "FP_LABEL_30": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_30": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_30",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_30",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -900,17 +900,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "31"
     },
-    "Aud_LABEL_31": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Aud_LABEL_31": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Aud_LABEL_31",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Aud_LABEL_31",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -928,17 +928,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "32"
     },
-    "Tpole_LABEL_32": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_32": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_32",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Tpole_LABEL_32",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -956,17 +956,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "33"
     },
-    "PMN_LABEL_33": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_33": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_33",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PMN_LABEL_33",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -984,17 +984,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "34"
     },
-    "PON_LABEL_34": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_34": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_34",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PON_LABEL_34",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1012,17 +1012,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "35"
     },
-    "MTL_LABEL_35": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_35": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_35",
         "Description": "XCP-D MIDB Parc. Sulc Values for region MTL_LABEL_35",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1040,17 +1040,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "36"
     },
-    "CO_LABEL_36": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_36": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_36",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_36",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1068,17 +1068,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "37"
     },
-    "Sal_LABEL_37": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_37": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_37",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Sal_LABEL_37",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1096,17 +1096,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "38"
     },
-    "CO_LABEL_38": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_38": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_38",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_38",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1124,17 +1124,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "39"
     },
-    "SMd_LABEL_39": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_39": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_39",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMd_LABEL_39",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1152,17 +1152,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "40"
     },
-    "SMl_LABEL_40": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_40": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_40",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMl_LABEL_40",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1180,17 +1180,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "41"
     },
-    "DAN_LABEL_41": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_41": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_41",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_41",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1208,17 +1208,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "42"
     },
-    "CO_LABEL_42": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_42": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_42",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_42",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1236,17 +1236,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "43"
     },
-    "VAN_LABEL_43": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_VAN_LABEL_43": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_VAN_LABEL_43",
         "Description": "XCP-D MIDB Parc. Sulc Values for region VAN_LABEL_43",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1264,17 +1264,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "44"
     },
-    "CO_LABEL_44": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_44": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_44",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_44",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1292,17 +1292,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "45"
     },
-    "CO_LABEL_45": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_45": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_45",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_45",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1320,17 +1320,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "46"
     },
-    "Sal_LABEL_46": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_46": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_46",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Sal_LABEL_46",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1348,17 +1348,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "47"
     },
-    "DAN_LABEL_47": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_47": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_47",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_47",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1376,17 +1376,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "48"
     },
-    "PMN_LABEL_48": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_48": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PMN_LABEL_48",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PMN_LABEL_48",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1404,17 +1404,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "49"
     },
-    "DAN_LABEL_49": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_49": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_49",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_49",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1432,17 +1432,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "50"
     },
-    "DMN_LABEL_50": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_50": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_50",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_50",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1460,17 +1460,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "51"
     },
-    "FP_LABEL_51": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_51": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_51",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_51",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1488,17 +1488,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "52"
     },
-    "DMN_LABEL_52": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_52": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_52",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_52",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1516,17 +1516,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "53"
     },
-    "DMN_LABEL_53": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_53": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_53",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_53",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1544,17 +1544,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "54"
     },
-    "PON_LABEL_54": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_54": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_PON_LABEL_54",
         "Description": "XCP-D MIDB Parc. Sulc Values for region PON_LABEL_54",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1572,17 +1572,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "55"
     },
-    "DMN_LABEL_55": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_55": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_55",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_55",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1600,17 +1600,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "56"
     },
-    "Tpole_LABEL_56": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_56": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_56",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Tpole_LABEL_56",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1628,17 +1628,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "57"
     },
-    "Tpole_LABEL_57": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_57": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Tpole_LABEL_57",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Tpole_LABEL_57",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1656,17 +1656,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "58"
     },
-    "Sal_LABEL_58": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_58": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_58",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Sal_LABEL_58",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1684,17 +1684,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "59"
     },
-    "Sal_LABEL_59": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_59": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Sal_LABEL_59",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Sal_LABEL_59",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1712,17 +1712,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "60"
     },
-    "SMd_LABEL_60": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_60": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_60",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMd_LABEL_60",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1740,17 +1740,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "61"
     },
-    "DAN_LABEL_61": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_61": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_61",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_61",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1768,17 +1768,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "62"
     },
-    "FP_LABEL_62": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_62": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_62",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_62",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1796,17 +1796,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "63"
     },
-    "DMN_LABEL_63": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_63": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_63",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_63",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1824,17 +1824,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "64"
     },
-    "FP_LABEL_64": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_64": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_64",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_64",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1852,17 +1852,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "65"
     },
-    "FP_LABEL_65": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_65": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_65",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_65",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1880,17 +1880,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "66"
     },
-    "SMd_LABEL_66": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_66": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_66",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMd_LABEL_66",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1908,17 +1908,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "67"
     },
-    "SMl_LABEL_67": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_67": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_67",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMl_LABEL_67",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1936,17 +1936,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "68"
     },
-    "SMd_LABEL_68": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_68": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_68",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMd_LABEL_68",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1964,17 +1964,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "69"
     },
-    "DMN_LABEL_69": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_69": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_69",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_69",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1992,17 +1992,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "70"
     },
-    "DAN_LABEL_70": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_70": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DAN_LABEL_70",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DAN_LABEL_70",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2020,17 +2020,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "71"
     },
-    "DMN_LABEL_71": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_71": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_DMN_LABEL_71",
         "Description": "XCP-D MIDB Parc. Sulc Values for region DMN_LABEL_71",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2048,17 +2048,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "72"
     },
-    "FP_LABEL_72": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_72": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_FP_LABEL_72",
         "Description": "XCP-D MIDB Parc. Sulc Values for region FP_LABEL_72",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2076,17 +2076,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "73"
     },
-    "SMd_LABEL_73": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_73": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMd_LABEL_73",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMd_LABEL_73",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2104,17 +2104,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "74"
     },
-    "SMl_LABEL_74": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_74": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_SMl_LABEL_74",
         "Description": "XCP-D MIDB Parc. Sulc Values for region SMl_LABEL_74",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2132,17 +2132,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "75"
     },
-    "MTL_LABEL_75": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_75": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_75",
         "Description": "XCP-D MIDB Parc. Sulc Values for region MTL_LABEL_75",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2160,17 +2160,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "76"
     },
-    "MTL_LABEL_76": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_76": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_MTL_LABEL_76",
         "Description": "XCP-D MIDB Parc. Sulc Values for region MTL_LABEL_76",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2188,17 +2188,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "77"
     },
-    "CO_LABEL_77": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_77": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_77",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_77",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2216,17 +2216,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "78"
     },
-    "CO_LABEL_78": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_78": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_CO_LABEL_78",
         "Description": "XCP-D MIDB Parc. Sulc Values for region CO_LABEL_78",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2244,17 +2244,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "79"
     },
-    "Vis_LABEL_79": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_79": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_79",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Vis_LABEL_79",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2272,17 +2272,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "80"
     },
-    "Vis_LABEL_80": {
+    "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_80": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph_Vis_LABEL_80",
         "Description": "XCP-D MIDB Parc. Sulc Values for region Vis_LABEL_80",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Distance (millimeters)",
         "note": "n/a",
-        "table_name": "xcpd",
+        "table_name": "img_xcpd_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "table_label": "_space-fsLR_seg-MIDB_stat-mean_desc-sulc_morph",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -2300,7 +2300,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "81"
     }
 }

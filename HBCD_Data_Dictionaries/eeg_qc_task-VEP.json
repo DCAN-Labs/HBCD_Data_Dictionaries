@@ -7,14 +7,14 @@
             "EEG"
         ]
     },
-    "qc_pass_fail": {
+    "eeg_qc_task-VEP_qc_pass_fail": {
         "name": "eeg_qc_task-VEP_qc_pass_fail",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-VEP",
         "table_label": "task-VEP",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -32,17 +32,21 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "0",
+        "Levels": {
+            "pass": "pass quality control",
+            "fail": "fail quality control"
+        }
     },
-    "capping_quality": {
+    "eeg_qc_task-VEP_capping_quality": {
         "name": "eeg_qc_task-VEP_capping_quality",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-VEP",
         "table_label": "task-VEP",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -60,17 +64,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "1"
     },
-    "total_epochs_post_artifact_rej": {
+    "eeg_qc_task-VEP_total_epochs_post_artifact_rej": {
         "name": "eeg_qc_task-VEP_total_epochs_post_artifact_rej",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-VEP",
         "table_label": "task-VEP",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -88,7 +92,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "2"
     }
 }

@@ -7,14 +7,14 @@
             "Spectroscopy"
         ]
     },
-    "age": {
-        "name": "img_osprey_HERCULES_qm_processed_spectra_age",
+    "img_osprey_HERCULES_qm_processed_spectra_candidate_age": {
+        "name": "img_osprey_HERCULES_qm_processed_spectra_candidate_age",
         "Description": "Age (in years) of the candidate at the time of the first acquired scan",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "years",
         "note": "n/a",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "0"
     },
-    "gestational_age": {
+    "img_osprey_HERCULES_qm_processed_spectra_gestational_age": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_gestational_age",
         "Description": "Gestational age (in days) based on the EDD",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "days",
         "note": "n/a",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "1"
     },
-    "Cr_SNR": {
+    "img_osprey_HERCULES_qm_processed_spectra_Cr_SNR": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_Cr_SNR",
         "Description": "Signal to noise ratio of creatine",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "The maximum amplitude of the creatine peak divided by twice the standard deviation of the noise calculated from subspectrum sum",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "2"
     },
-    "Cr_FWHM": {
+    "img_osprey_HERCULES_qm_processed_spectra_Cr_FWHM": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_Cr_FWHM",
         "Description": "Full width at half maximum of creatine",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
         "note": "The width of the creatine peak at half the maximum amplitude calculated as the average of the FWHM of the data and the FWHM of a lorentzian fit calculated from subspectrum sum",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "3"
     },
-    "water_FWHM": {
+    "img_osprey_HERCULES_qm_processed_spectra_water_FWHM": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_water_FWHM",
         "Description": "Full width at half maximum of reference water peak",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
         "note": "The width of the water peak at half the maximum amplitude calculated as the average of the FWHM of the data and the FWHM of a lorentzian fit",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -144,17 +144,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "4"
     },
-    "residual_water_ampl": {
+    "img_osprey_HERCULES_qm_processed_spectra_residual_water_ampl": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_residual_water_ampl",
         "Description": "Residual water amplitude",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "The amplitude of the water signal removed by the HSVD filter calculated from subspectrum sum",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -172,17 +172,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "5"
     },
-    "freqShift": {
+    "img_osprey_HERCULES_qm_processed_spectra_freqShift": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_freqShift",
         "Description": "Frequency shift",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
         "note": "Frequency shift calculated from the cross-correlation between spectrum sumand the reference peaks (creatine and choline)",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -200,17 +200,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "6"
     },
-    "relRessum": {
+    "img_osprey_HERCULES_qm_processed_spectra_relRessum": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relRessum",
         "Description": "relRessum",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Fit quality number for sum spectrum relative amplitude of the residual compared to the standard deveiation of the noise",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -228,17 +228,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "7"
     },
-    "relResdiff1": {
+    "img_osprey_HERCULES_qm_processed_spectra_relResdiff1": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResdiff1",
         "Description": "relResdiff1",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Fit quality number for diff1 spectrum relative amplitude of the residual compared to the standard deveiation of the noise",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -256,17 +256,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "8"
     },
-    "relResdiff2": {
+    "img_osprey_HERCULES_qm_processed_spectra_relResdiff2": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResdiff2",
         "Description": "relResdiff2",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Fit quality number for diff2 spectrum relative amplitude of the residual compared to the standard deveiation of the noise",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -284,17 +284,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "9"
     },
-    "relResA": {
+    "img_osprey_HERCULES_qm_processed_spectra_relResA": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResA",
         "Description": "relResA",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
         "note": "Fit quality number for spectrum A relative amplitude of the residual compared to the standard deveiation of the noise",
-        "table_name": "osprey",
+        "table_name": "img_osprey_HERCULES_qm_processed_spectra",
         "table_label": "qm_processed_spectra",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -312,7 +312,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "10"
     }
 }

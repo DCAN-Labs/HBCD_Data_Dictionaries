@@ -7,14 +7,14 @@
             "QC"
         ]
     },
-    "age": {
-        "name": "img_mriqc_T2w_age",
+    "img_mriqc_T2w_candidate_age": {
+        "name": "img_mriqc_T2w_candidate_age",
         "Description": "Age (in years) of the candidate at the time of the first acquired scan",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "years",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -32,17 +32,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "0"
     },
-    "gestational_age": {
+    "img_mriqc_T2w_gestational_age": {
         "name": "img_mriqc_T2w_gestational_age",
         "Description": "Gestational age (in days) based on the EDD",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "days",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -60,17 +60,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "1"
     },
-    "cjv": {
+    "img_mriqc_T2w_cjv": {
         "name": "img_mriqc_T2w_cjv",
         "Description": "Coefficient of Joint Variation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -88,17 +88,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "2"
     },
-    "cnr": {
+    "img_mriqc_T2w_cnr": {
         "name": "img_mriqc_T2w_cnr",
         "Description": "Contrast-to-Noise Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -116,17 +116,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "3"
     },
-    "efc": {
+    "img_mriqc_T2w_efc": {
         "name": "img_mriqc_T2w_efc",
         "Description": "Entropy Focus Criterion",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -144,17 +144,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "4"
     },
-    "fber": {
+    "img_mriqc_T2w_fber": {
         "name": "img_mriqc_T2w_fber",
         "Description": "Foreground-Background Energy Ratio",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -172,17 +172,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "5"
     },
-    "fwhm_avg": {
+    "img_mriqc_T2w_fwhm_avg": {
         "name": "img_mriqc_T2w_fwhm_avg",
         "Description": "Full Width Half Maximum Smoothness",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -200,17 +200,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "6"
     },
-    "fwhm_x": {
+    "img_mriqc_T2w_fwhm_x": {
         "name": "img_mriqc_T2w_fwhm_x",
         "Description": "Full Width Half Maximum in X Direction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -228,17 +228,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "7"
     },
-    "fwhm_y": {
+    "img_mriqc_T2w_fwhm_y": {
         "name": "img_mriqc_T2w_fwhm_y",
         "Description": "Full Width Half Maximum in Y Direction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -256,17 +256,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "8"
     },
-    "fwhm_z": {
+    "img_mriqc_T2w_fwhm_z": {
         "name": "img_mriqc_T2w_fwhm_z",
         "Description": "Full Width Half Maximum in Z Direction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -284,17 +284,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "9"
     },
-    "icvs_csf": {
+    "img_mriqc_T2w_icvs_csf": {
         "name": "img_mriqc_T2w_icvs_csf",
         "Description": "Intracranial CSF volume fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -312,17 +312,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "10"
     },
-    "icvs_gm": {
+    "img_mriqc_T2w_icvs_gm": {
         "name": "img_mriqc_T2w_icvs_gm",
         "Description": "Intracranial GM volume fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -340,17 +340,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "11"
     },
-    "icvs_wm": {
+    "img_mriqc_T2w_icvs_wm": {
         "name": "img_mriqc_T2w_icvs_wm",
         "Description": "Intracranial WM volume fraction",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -368,17 +368,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "12"
     },
-    "inu_med": {
+    "img_mriqc_T2w_inu_med": {
         "name": "img_mriqc_T2w_inu_med",
         "Description": "Intensity non-uniformity median",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -396,17 +396,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "13"
     },
-    "inu_range": {
+    "img_mriqc_T2w_inu_range": {
         "name": "img_mriqc_T2w_inu_range",
         "Description": "Intensity non-uniformity range",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -424,17 +424,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "14"
     },
-    "qi_1": {
+    "img_mriqc_T2w_qi_1": {
         "name": "img_mriqc_T2w_qi_1",
         "Description": "Quality Index 1",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -452,17 +452,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "15"
     },
-    "qi_2": {
+    "img_mriqc_T2w_qi_2": {
         "name": "img_mriqc_T2w_qi_2",
         "Description": "Quality Index 2",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -480,17 +480,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "16"
     },
-    "rpve_csf": {
+    "img_mriqc_T2w_rpve_csf": {
         "name": "img_mriqc_T2w_rpve_csf",
         "Description": "Residual Partial Voluming Error - CSF",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -508,17 +508,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "17"
     },
-    "rpve_gm": {
+    "img_mriqc_T2w_rpve_gm": {
         "name": "img_mriqc_T2w_rpve_gm",
         "Description": "Residual Partial Voluming Error - GM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -536,17 +536,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "18"
     },
-    "rpve_wm": {
+    "img_mriqc_T2w_rpve_wm": {
         "name": "img_mriqc_T2w_rpve_wm",
         "Description": "Residual Partial Voluming Error - WM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -564,17 +564,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "19"
     },
-    "size_x": {
+    "img_mriqc_T2w_size_x": {
         "name": "img_mriqc_T2w_size_x",
         "Description": "Size X Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -592,17 +592,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "20"
     },
-    "size_y": {
+    "img_mriqc_T2w_size_y": {
         "name": "img_mriqc_T2w_size_y",
         "Description": "Size Y Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -620,17 +620,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "21"
     },
-    "size_z": {
+    "img_mriqc_T2w_size_z": {
         "name": "img_mriqc_T2w_size_z",
         "Description": "Size Z Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -648,17 +648,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "22"
     },
-    "snr_csf": {
+    "img_mriqc_T2w_snr_csf": {
         "name": "img_mriqc_T2w_snr_csf",
         "Description": "Signal-to-Noise Ratio CSF",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -676,17 +676,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "23"
     },
-    "snr_gm": {
+    "img_mriqc_T2w_snr_gm": {
         "name": "img_mriqc_T2w_snr_gm",
         "Description": "Signal-to-Noise Ratio GM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -704,17 +704,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "24"
     },
-    "snr_total": {
+    "img_mriqc_T2w_snr_total": {
         "name": "img_mriqc_T2w_snr_total",
         "Description": "Signal-to-Noise Ratio Total",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -732,17 +732,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "25"
     },
-    "snr_wm": {
+    "img_mriqc_T2w_snr_wm": {
         "name": "img_mriqc_T2w_snr_wm",
         "Description": "Signal-to-Noise Ratio WM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -760,17 +760,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "26"
     },
-    "snrd_csf": {
+    "img_mriqc_T2w_snrd_csf": {
         "name": "img_mriqc_T2w_snrd_csf",
         "Description": "Dietrichu2019s Signal-to-Noise Ratio CSF",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -788,17 +788,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "27"
     },
-    "snrd_gm": {
+    "img_mriqc_T2w_snrd_gm": {
         "name": "img_mriqc_T2w_snrd_gm",
         "Description": "Dietrichu2019s Signal-to-Noise Ratio GM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -816,17 +816,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "28"
     },
-    "snrd_total": {
+    "img_mriqc_T2w_snrd_total": {
         "name": "img_mriqc_T2w_snrd_total",
         "Description": "Dietrichu2019s Signal-to-Noise Ratio Total",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -844,17 +844,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "29"
     },
-    "snrd_wm": {
+    "img_mriqc_T2w_snrd_wm": {
         "name": "img_mriqc_T2w_snrd_wm",
         "Description": "Dietrichu2019s Signal-to-Noise Ratio WM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -872,17 +872,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "30"
     },
-    "spacing_x": {
+    "img_mriqc_T2w_spacing_x": {
         "name": "img_mriqc_T2w_spacing_x",
         "Description": "Spacing X Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -900,17 +900,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "31"
     },
-    "spacing_y": {
+    "img_mriqc_T2w_spacing_y": {
         "name": "img_mriqc_T2w_spacing_y",
         "Description": "Spacing Y Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -928,17 +928,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "32"
     },
-    "spacing_z": {
+    "img_mriqc_T2w_spacing_z": {
         "name": "img_mriqc_T2w_spacing_z",
         "Description": "Spacing Z Dimension",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -956,17 +956,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "33"
     },
-    "summary_bg_k": {
+    "img_mriqc_T2w_summary_bg_k": {
         "name": "img_mriqc_T2w_summary_bg_k",
         "Description": "Summary Background Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -984,17 +984,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "34"
     },
-    "summary_bg_mad": {
+    "img_mriqc_T2w_summary_bg_mad": {
         "name": "img_mriqc_T2w_summary_bg_mad",
         "Description": "Summary Background Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1012,17 +1012,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "35"
     },
-    "summary_bg_mean": {
+    "img_mriqc_T2w_summary_bg_mean": {
         "name": "img_mriqc_T2w_summary_bg_mean",
         "Description": "Summary Background Mean",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1040,17 +1040,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "36"
     },
-    "summary_bg_median": {
+    "img_mriqc_T2w_summary_bg_median": {
         "name": "img_mriqc_T2w_summary_bg_median",
         "Description": "Summary Background Median",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1068,17 +1068,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "37"
     },
-    "summary_bg_n": {
+    "img_mriqc_T2w_summary_bg_n": {
         "name": "img_mriqc_T2w_summary_bg_n",
         "Description": "Summary Background Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1096,17 +1096,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "38"
     },
-    "summary_bg_p05": {
+    "img_mriqc_T2w_summary_bg_p05": {
         "name": "img_mriqc_T2w_summary_bg_p05",
         "Description": "Summary Background 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1124,17 +1124,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "39"
     },
-    "summary_bg_p95": {
+    "img_mriqc_T2w_summary_bg_p95": {
         "name": "img_mriqc_T2w_summary_bg_p95",
         "Description": "Summary Background 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1152,17 +1152,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "40"
     },
-    "summary_bg_stdv": {
+    "img_mriqc_T2w_summary_bg_stdv": {
         "name": "img_mriqc_T2w_summary_bg_stdv",
         "Description": "Summary Background Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1180,17 +1180,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "41"
     },
-    "summary_csf_k": {
+    "img_mriqc_T2w_summary_csf_k": {
         "name": "img_mriqc_T2w_summary_csf_k",
         "Description": "Summary CSF Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1208,17 +1208,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "42"
     },
-    "summary_csf_mad": {
+    "img_mriqc_T2w_summary_csf_mad": {
         "name": "img_mriqc_T2w_summary_csf_mad",
         "Description": "Summary CSF Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1236,17 +1236,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "43"
     },
-    "summary_csf_mean": {
+    "img_mriqc_T2w_summary_csf_mean": {
         "name": "img_mriqc_T2w_summary_csf_mean",
         "Description": "Summary CSF Mean",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1264,17 +1264,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "44"
     },
-    "summary_csf_median": {
+    "img_mriqc_T2w_summary_csf_median": {
         "name": "img_mriqc_T2w_summary_csf_median",
         "Description": "Summary CSF Median",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1292,17 +1292,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "45"
     },
-    "summary_csf_n": {
+    "img_mriqc_T2w_summary_csf_n": {
         "name": "img_mriqc_T2w_summary_csf_n",
         "Description": "Summary CSF Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1320,17 +1320,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "46"
     },
-    "summary_csf_p05": {
+    "img_mriqc_T2w_summary_csf_p05": {
         "name": "img_mriqc_T2w_summary_csf_p05",
         "Description": "Summary CSF 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1348,17 +1348,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "47"
     },
-    "summary_csf_p95": {
+    "img_mriqc_T2w_summary_csf_p95": {
         "name": "img_mriqc_T2w_summary_csf_p95",
         "Description": "Summary CSF 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1376,17 +1376,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "48"
     },
-    "summary_csf_stdv": {
+    "img_mriqc_T2w_summary_csf_stdv": {
         "name": "img_mriqc_T2w_summary_csf_stdv",
         "Description": "Summary CSF Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1404,17 +1404,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "49"
     },
-    "summary_gm_k": {
+    "img_mriqc_T2w_summary_gm_k": {
         "name": "img_mriqc_T2w_summary_gm_k",
         "Description": "Summary GM Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1432,17 +1432,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "50"
     },
-    "summary_gm_mad": {
+    "img_mriqc_T2w_summary_gm_mad": {
         "name": "img_mriqc_T2w_summary_gm_mad",
         "Description": "Summary GM Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1460,17 +1460,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "51"
     },
-    "summary_gm_mean": {
+    "img_mriqc_T2w_summary_gm_mean": {
         "name": "img_mriqc_T2w_summary_gm_mean",
         "Description": "Summary GM Mean",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1488,17 +1488,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "52"
     },
-    "summary_gm_median": {
+    "img_mriqc_T2w_summary_gm_median": {
         "name": "img_mriqc_T2w_summary_gm_median",
         "Description": "Summary GM Median",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1516,17 +1516,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "53"
     },
-    "summary_gm_n": {
+    "img_mriqc_T2w_summary_gm_n": {
         "name": "img_mriqc_T2w_summary_gm_n",
         "Description": "Summary GM Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1544,17 +1544,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "54"
     },
-    "summary_gm_p05": {
+    "img_mriqc_T2w_summary_gm_p05": {
         "name": "img_mriqc_T2w_summary_gm_p05",
         "Description": "Summary GM 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1572,17 +1572,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "55"
     },
-    "summary_gm_p95": {
+    "img_mriqc_T2w_summary_gm_p95": {
         "name": "img_mriqc_T2w_summary_gm_p95",
         "Description": "Summary GM 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1600,17 +1600,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "56"
     },
-    "summary_gm_stdv": {
+    "img_mriqc_T2w_summary_gm_stdv": {
         "name": "img_mriqc_T2w_summary_gm_stdv",
         "Description": "Summary GM Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1628,17 +1628,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "57"
     },
-    "summary_wm_k": {
+    "img_mriqc_T2w_summary_wm_k": {
         "name": "img_mriqc_T2w_summary_wm_k",
         "Description": "Summary WM Kurtosis",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1656,17 +1656,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "58"
     },
-    "summary_wm_mad": {
+    "img_mriqc_T2w_summary_wm_mad": {
         "name": "img_mriqc_T2w_summary_wm_mad",
         "Description": "Summary WM Mean Absolute Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1684,17 +1684,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "59"
     },
-    "summary_wm_mean": {
+    "img_mriqc_T2w_summary_wm_mean": {
         "name": "img_mriqc_T2w_summary_wm_mean",
         "Description": "Summary WM Mean",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1712,17 +1712,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "60"
     },
-    "summary_wm_median": {
+    "img_mriqc_T2w_summary_wm_median": {
         "name": "img_mriqc_T2w_summary_wm_median",
         "Description": "Summary WM Median",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1740,17 +1740,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "61"
     },
-    "summary_wm_n": {
+    "img_mriqc_T2w_summary_wm_n": {
         "name": "img_mriqc_T2w_summary_wm_n",
         "Description": "Summary WM Number of Voxels",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1768,17 +1768,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "62"
     },
-    "summary_wm_p05": {
+    "img_mriqc_T2w_summary_wm_p05": {
         "name": "img_mriqc_T2w_summary_wm_p05",
         "Description": "Summary WM 5% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1796,17 +1796,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "63"
     },
-    "summary_wm_p95": {
+    "img_mriqc_T2w_summary_wm_p95": {
         "name": "img_mriqc_T2w_summary_wm_p95",
         "Description": "Summary WM 95% Percentile",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1824,17 +1824,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "64"
     },
-    "summary_wm_stdv": {
+    "img_mriqc_T2w_summary_wm_stdv": {
         "name": "img_mriqc_T2w_summary_wm_stdv",
         "Description": "Summary WM Standard Deviation",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1852,17 +1852,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "65"
     },
-    "tpm_overlap_csf": {
+    "img_mriqc_T2w_tpm_overlap_csf": {
         "name": "img_mriqc_T2w_tpm_overlap_csf",
         "Description": "Tissue Probability Map Overlap CSF",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1880,17 +1880,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "66"
     },
-    "tpm_overlap_gm": {
+    "img_mriqc_T2w_tpm_overlap_gm": {
         "name": "img_mriqc_T2w_tpm_overlap_gm",
         "Description": "Tissue Probability Map Overlap GM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1908,17 +1908,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "67"
     },
-    "tpm_overlap_wm": {
+    "img_mriqc_T2w_tpm_overlap_wm": {
         "name": "img_mriqc_T2w_tpm_overlap_wm",
         "Description": "Tissue Probability Map Overlap WM",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1936,17 +1936,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "68"
     },
-    "wm2max": {
+    "img_mriqc_T2w_wm2max": {
         "name": "img_mriqc_T2w_wm2max",
         "Description": "Maximum White Matter Intensity",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "mriqc",
+        "table_name": "img_mriqc_T2w",
         "table_label": "T2w",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
@@ -1964,7 +1964,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "69"
     }
 }

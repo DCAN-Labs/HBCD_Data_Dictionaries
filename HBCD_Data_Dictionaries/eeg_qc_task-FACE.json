@@ -7,14 +7,14 @@
             "EEG"
         ]
     },
-    "qc_pass_fail": {
+    "eeg_qc_task-FACE_qc_pass_fail": {
         "name": "eeg_qc_task-FACE_qc_pass_fail",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-FACE",
         "table_label": "task-FACE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -32,17 +32,21 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "0",
+        "Levels": {
+            "pass": "pass quality control",
+            "fail": "fail quality control"
+        }
     },
-    "capping_quality": {
+    "eeg_qc_task-FACE_capping_quality": {
         "name": "eeg_qc_task-FACE_capping_quality",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-FACE",
         "table_label": "task-FACE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -60,17 +64,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "1"
     },
-    "FACE_UpInv": {
+    "eeg_qc_task-FACE_FACE_UpInv": {
         "name": "eeg_qc_task-FACE_FACE_UpInv",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-FACE",
         "table_label": "task-FACE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -88,17 +92,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "2"
     },
-    "FACE_Inv": {
+    "eeg_qc_task-FACE_FACE_Inv": {
         "name": "eeg_qc_task-FACE_FACE_Inv",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-FACE",
         "table_label": "task-FACE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -116,17 +120,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "3"
     },
-    "FACE_Obj": {
+    "eeg_qc_task-FACE_FACE_Obj": {
         "name": "eeg_qc_task-FACE_FACE_Obj",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-FACE",
         "table_label": "task-FACE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -144,17 +148,17 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "4"
     },
-    "FACE_UpObj": {
+    "eeg_qc_task-FACE_FACE_UpObj": {
         "name": "eeg_qc_task-FACE_FACE_UpObj",
         "Description": "n/a",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "qc",
+        "table_name": "eeg_qc_task-FACE",
         "table_label": "task-FACE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -172,7 +176,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "n/a",
-        "order_sort": "n/a"
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "5"
     }
 }
