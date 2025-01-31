@@ -9,7 +9,7 @@
     },
     "eeg_qc_task-MMN_qc_pass_fail": {
         "name": "eeg_qc_task-MMN_qc_pass_fail",
-        "Description": "n/a",
+        "Description": "Overall pass/fail rating for the acquisiton.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -41,7 +41,7 @@
     },
     "eeg_qc_task-MMN_capping_quality": {
         "name": "eeg_qc_task-MMN_capping_quality",
-        "Description": "n/a",
+        "Description": "Capping quality rating for the acquisiton.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -69,7 +69,7 @@
     },
     "eeg_qc_task-MMN_MMN_Standard": {
         "name": "eeg_qc_task-MMN_MMN_Standard",
-        "Description": "n/a",
+        "Description": "The number of MMN_Standard epochs surviving QC.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -97,7 +97,7 @@
     },
     "eeg_qc_task-MMN_MMN_PreDev": {
         "name": "eeg_qc_task-MMN_MMN_PreDev",
-        "Description": "n/a",
+        "Description": "The number of MMN_PreDev epochs surviving QC.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -125,7 +125,7 @@
     },
     "eeg_qc_task-MMN_MMN_Dev": {
         "name": "eeg_qc_task-MMN_MMN_Dev",
-        "Description": "n/a",
+        "Description": "The number of MMN_Dev epochs surviving QC.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",

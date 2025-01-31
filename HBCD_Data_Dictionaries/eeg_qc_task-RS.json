@@ -9,7 +9,7 @@
     },
     "eeg_qc_task-RS_qc_pass_fail": {
         "name": "eeg_qc_task-RS_qc_pass_fail",
-        "Description": "n/a",
+        "Description": "Overall pass/fail rating for the acquisiton.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -41,7 +41,7 @@
     },
     "eeg_qc_task-RS_capping_quality": {
         "name": "eeg_qc_task-RS_capping_quality",
-        "Description": "n/a",
+        "Description": "Capping quality rating for the acquisiton.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -69,7 +69,7 @@
     },
     "eeg_qc_task-RS_total_epochs_post_artifact_rej": {
         "name": "eeg_qc_task-RS_total_epochs_post_artifact_rej",
-        "Description": "n/a",
+        "Description": "The number of Resting State epochs surviving QC.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
