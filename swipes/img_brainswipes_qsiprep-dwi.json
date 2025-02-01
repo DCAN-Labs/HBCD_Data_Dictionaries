@@ -1,0 +1,11 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "BrainSwipes",
+        "TermURL": "https://www.brainswipes.us/",
+        "Name": "BrainSwipes Results for Quality Control Performed on QSIPrep Diffusion MRI Derivatives",
+        "Category": [
+            "QC",
+            "dMRI"
+        ]
+    }
+}
