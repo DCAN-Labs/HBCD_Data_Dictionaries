@@ -63,7 +63,7 @@ def main():
 
     # Drop sum columns and save 
     df_merge = df_merge.drop('QC_Sum', axis=1)
-    df_merge.to_csv('img_brainswipes_dmri.tsv', index=None, na_rep='NaN', sep='\t')
+    df_merge.to_csv('img_brainswipes_qsiprep_dwi.tsv', index=None, na_rep='NA', sep='\t')
             
 if __name__ == "__main__":
     main()

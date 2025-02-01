@@ -1,3 +1,0 @@
-NOTES
-- Create tsv/json files for each pipeline - one for XCP-D and one for QSIPrep
-- QSIPrep image modality strings: need to check - Other - should rename to DWI_DEC? Swipes display GIFs of full-resolution T2w images as a grayscale background, with the "Direction Encoded Color" (DEC) map overlaid
