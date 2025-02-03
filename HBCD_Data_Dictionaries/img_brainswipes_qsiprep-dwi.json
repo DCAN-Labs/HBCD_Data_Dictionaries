@@ -33,7 +33,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "0"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_nrev": {
@@ -61,7 +61,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "1"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_QC": {
@@ -89,7 +89,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "2"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_mean": {
@@ -117,7 +117,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "3"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_nrev": {
@@ -145,7 +145,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "4"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_QC": {
@@ -173,7 +173,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "5"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_mean": {
@@ -201,7 +201,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "6"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_nrev": {
@@ -229,7 +229,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "7"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_QC": {
@@ -257,7 +257,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "8"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_mean": {
@@ -285,7 +285,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "9"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_nrev": {
@@ -313,7 +313,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "10"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_QC": {
@@ -341,7 +341,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "11"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_mean": {
@@ -369,7 +369,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "12"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_nrev": {
@@ -397,7 +397,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "13"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_QC": {
@@ -425,7 +425,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "14"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_mean": {
@@ -453,7 +453,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "15"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_nrev": {
@@ -481,7 +481,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "16"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_QC": {
@@ -509,7 +509,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "17"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_mean": {
@@ -537,7 +537,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "18"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_nrev": {
@@ -565,7 +565,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "19"
     },
     "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_QC": {
@@ -593,7 +593,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "20"
     },
     "img_brainswipes_qsiprep-dwi_QC": {
@@ -621,7 +621,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "21"
     }
 }
