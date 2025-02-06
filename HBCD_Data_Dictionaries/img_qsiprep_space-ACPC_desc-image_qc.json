@@ -1,6 +1,6 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "QSIPREP",
+        "Description": "QSIPrep",
         "TermURL": "https://qsiprep.readthedocs.io/",
         "Name": "n\/a",
         "Category": ["DWI"]
@@ -287,7 +287,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_raw_masked_neighbor_corr": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_raw_masked_neighbor_corr",
-        "Description": "Neighboring DWI Correlation (NDC) of raw images",
+        "Description": "Neighboring DWI Correlation (NDC) of raw images, within a brain mask",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -315,7 +315,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_raw_dwi_contrast": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_raw_dwi_contrast",
-        "Description": "n\/a",
+        "Description": "Ratio of neighboring to furthest DWI Correlation in the unprocessed images.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -399,7 +399,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_raw_coherence_index": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_raw_coherence_index",
-        "Description": "n\/a",
+        "Description": "Average anisotropy between connecting fixels in the unprocessed images.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -651,7 +651,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_t1_masked_neighbor_corr": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_t1_masked_neighbor_corr",
-        "Description": "Neighboring DWI Correlation (NDC) of masked preprocessed images",
+        "Description": "Neighboring DWI Correlation (NDC) of masked preprocessed images, within a brain mask",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -679,7 +679,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_t1_dwi_contrast": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_t1_dwi_contrast",
-        "Description": "n\/a",
+        "Description": "Ratio of neighboring to furthest DWI Correlation in the preprocessed images.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -763,7 +763,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_t1_coherence_index": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_t1_coherence_index",
-        "Description": "n\/a",
+        "Description": "Average anisotropy between connecting fixels in the preprocessed images.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -987,7 +987,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR0_mean": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR0_mean",
-        "Description": "n\/a",
+        "Description": "Mean in-brain TSNR for the preprocessed b=0 images. Calculated in Eddy.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1015,7 +1015,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR1_mean": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR1_mean",
-        "Description": "n\/a",
+        "Description": "Mean in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=500 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1043,7 +1043,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR2_mean": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR2_mean",
-        "Description": "n\/a",
+        "Description": "Mean in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=1000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1071,7 +1071,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR3_mean": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR3_mean",
-        "Description": "n\/a",
+        "Description": "Mean in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=2000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1099,7 +1099,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR4_mean": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR4_mean",
-        "Description": "n\/a",
+        "Description": "Mean in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=3000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1127,7 +1127,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR0_median": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR0_median",
-        "Description": "n\/a",
+        "Description": "Median in-brain TSNR for the preprocessed b=0 images. Calculated in Eddy.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1155,7 +1155,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR1_median": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR1_median",
-        "Description": "n\/a",
+        "Description": "Median in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=500 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1183,7 +1183,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR2_median": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR2_median",
-        "Description": "n\/a",
+        "Description": "Median in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=1000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1211,7 +1211,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR3_median": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR3_median",
-        "Description": "n\/a",
+        "Description": "Median in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=2000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1239,7 +1239,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR4_median": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR4_median",
-        "Description": "n\/a",
+        "Description": "Median in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=3000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1267,7 +1267,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR0_standard_deviation": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR0_standard_deviation",
-        "Description": "n\/a",
+        "Description": "Standard deviation of the in-brain TSNR for the preprocessed b=0 images. Calculated in Eddy.",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1295,7 +1295,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR1_standard_deviation": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR1_standard_deviation",
-        "Description": "n\/a",
+        "Description": "Standard deviation of the in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=500 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1323,7 +1323,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR2_standard_deviation": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR2_standard_deviation",
-        "Description": "n\/a",
+        "Description": "Standard deviation of the in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=1000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1351,7 +1351,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR3_standard_deviation": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR3_standard_deviation",
-        "Description": "n\/a",
+        "Description": "Standard deviation of the in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=2000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
@@ -1379,7 +1379,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_CNR4_standard_deviation": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_CNR4_standard_deviation",
-        "Description": "n\/a",
+        "Description": "Standard deviation of the in-brain Contrast to Noise Ratio (CNR) for the preprocessed b=3000 images. Calculated in Eddy",
         "instruction": "n\/a",
         "header": "n\/a",
         "Units": "n\/a",
