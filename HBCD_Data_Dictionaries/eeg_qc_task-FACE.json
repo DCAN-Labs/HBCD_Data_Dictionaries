@@ -20,7 +20,7 @@
         "domain": "Tabular EEG",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "qualitative",
+        "type_level": "nominal",
         "type_var": "score",
         "type_data": "character",
         "source": "Child",
