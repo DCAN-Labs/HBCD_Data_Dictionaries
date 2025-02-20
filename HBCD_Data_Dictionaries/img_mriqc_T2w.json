@@ -22,10 +22,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -33,7 +31,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_mriqc_T2w_gestational_age": {
         "name": "img_mriqc_T2w_gestational_age",
@@ -52,8 +50,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -61,7 +57,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_mriqc_T2w_cjv": {
         "name": "img_mriqc_T2w_cjv",
@@ -78,10 +74,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -89,7 +83,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_mriqc_T2w_cnr": {
         "name": "img_mriqc_T2w_cnr",
@@ -106,10 +100,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -117,7 +109,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_mriqc_T2w_efc": {
         "name": "img_mriqc_T2w_efc",
@@ -134,10 +126,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -145,7 +135,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_mriqc_T2w_fber": {
         "name": "img_mriqc_T2w_fber",
@@ -162,10 +152,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -173,7 +161,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_mriqc_T2w_fwhm_avg": {
         "name": "img_mriqc_T2w_fwhm_avg",
@@ -190,10 +178,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -201,7 +187,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_mriqc_T2w_fwhm_x": {
         "name": "img_mriqc_T2w_fwhm_x",
@@ -218,10 +204,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -229,7 +213,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_mriqc_T2w_fwhm_y": {
         "name": "img_mriqc_T2w_fwhm_y",
@@ -246,10 +230,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -257,7 +239,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_mriqc_T2w_fwhm_z": {
         "name": "img_mriqc_T2w_fwhm_z",
@@ -274,10 +256,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -285,7 +265,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_mriqc_T2w_icvs_csf": {
         "name": "img_mriqc_T2w_icvs_csf",
@@ -302,10 +282,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -313,7 +291,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "img_mriqc_T2w_icvs_gm": {
         "name": "img_mriqc_T2w_icvs_gm",
@@ -330,10 +308,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -341,7 +317,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "11"
+        "order_sort": "12"
     },
     "img_mriqc_T2w_icvs_wm": {
         "name": "img_mriqc_T2w_icvs_wm",
@@ -358,10 +334,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -369,7 +343,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "12"
+        "order_sort": "13"
     },
     "img_mriqc_T2w_inu_med": {
         "name": "img_mriqc_T2w_inu_med",
@@ -386,10 +360,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -397,7 +369,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "13"
+        "order_sort": "14"
     },
     "img_mriqc_T2w_inu_range": {
         "name": "img_mriqc_T2w_inu_range",
@@ -414,10 +386,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -425,7 +395,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "14"
+        "order_sort": "15"
     },
     "img_mriqc_T2w_qi_1": {
         "name": "img_mriqc_T2w_qi_1",
@@ -442,10 +412,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -453,7 +421,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "15"
+        "order_sort": "16"
     },
     "img_mriqc_T2w_qi_2": {
         "name": "img_mriqc_T2w_qi_2",
@@ -470,10 +438,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -481,7 +447,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "16"
+        "order_sort": "17"
     },
     "img_mriqc_T2w_rpve_csf": {
         "name": "img_mriqc_T2w_rpve_csf",
@@ -498,10 +464,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -509,7 +473,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "17"
+        "order_sort": "18"
     },
     "img_mriqc_T2w_rpve_gm": {
         "name": "img_mriqc_T2w_rpve_gm",
@@ -526,10 +490,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -537,7 +499,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "18"
+        "order_sort": "19"
     },
     "img_mriqc_T2w_rpve_wm": {
         "name": "img_mriqc_T2w_rpve_wm",
@@ -554,10 +516,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -565,7 +525,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "19"
+        "order_sort": "20"
     },
     "img_mriqc_T2w_size_x": {
         "name": "img_mriqc_T2w_size_x",
@@ -582,10 +542,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -593,7 +551,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "20"
+        "order_sort": "21"
     },
     "img_mriqc_T2w_size_y": {
         "name": "img_mriqc_T2w_size_y",
@@ -610,10 +568,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -621,7 +577,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "21"
+        "order_sort": "22"
     },
     "img_mriqc_T2w_size_z": {
         "name": "img_mriqc_T2w_size_z",
@@ -638,10 +594,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -649,7 +603,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "22"
+        "order_sort": "23"
     },
     "img_mriqc_T2w_snr_csf": {
         "name": "img_mriqc_T2w_snr_csf",
@@ -666,10 +620,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -677,7 +629,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "23"
+        "order_sort": "24"
     },
     "img_mriqc_T2w_snr_gm": {
         "name": "img_mriqc_T2w_snr_gm",
@@ -694,10 +646,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -705,7 +655,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "24"
+        "order_sort": "25"
     },
     "img_mriqc_T2w_snr_total": {
         "name": "img_mriqc_T2w_snr_total",
@@ -722,10 +672,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -733,7 +681,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "25"
+        "order_sort": "26"
     },
     "img_mriqc_T2w_snr_wm": {
         "name": "img_mriqc_T2w_snr_wm",
@@ -750,10 +698,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -761,7 +707,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "26"
+        "order_sort": "27"
     },
     "img_mriqc_T2w_snrd_csf": {
         "name": "img_mriqc_T2w_snrd_csf",
@@ -778,10 +724,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -789,7 +733,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "27"
+        "order_sort": "28"
     },
     "img_mriqc_T2w_snrd_gm": {
         "name": "img_mriqc_T2w_snrd_gm",
@@ -806,10 +750,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -817,7 +759,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "28"
+        "order_sort": "29"
     },
     "img_mriqc_T2w_snrd_total": {
         "name": "img_mriqc_T2w_snrd_total",
@@ -834,10 +776,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -845,7 +785,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "29"
+        "order_sort": "30"
     },
     "img_mriqc_T2w_snrd_wm": {
         "name": "img_mriqc_T2w_snrd_wm",
@@ -862,10 +802,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -873,7 +811,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "30"
+        "order_sort": "31"
     },
     "img_mriqc_T2w_spacing_x": {
         "name": "img_mriqc_T2w_spacing_x",
@@ -890,10 +828,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -901,7 +837,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "31"
+        "order_sort": "32"
     },
     "img_mriqc_T2w_spacing_y": {
         "name": "img_mriqc_T2w_spacing_y",
@@ -918,10 +854,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -929,7 +863,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "32"
+        "order_sort": "33"
     },
     "img_mriqc_T2w_spacing_z": {
         "name": "img_mriqc_T2w_spacing_z",
@@ -946,10 +880,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -957,7 +889,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "33"
+        "order_sort": "34"
     },
     "img_mriqc_T2w_summary_bg_k": {
         "name": "img_mriqc_T2w_summary_bg_k",
@@ -974,10 +906,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -985,7 +915,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "34"
+        "order_sort": "35"
     },
     "img_mriqc_T2w_summary_bg_mad": {
         "name": "img_mriqc_T2w_summary_bg_mad",
@@ -1002,10 +932,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1013,7 +941,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "35"
+        "order_sort": "36"
     },
     "img_mriqc_T2w_summary_bg_mean": {
         "name": "img_mriqc_T2w_summary_bg_mean",
@@ -1030,10 +958,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1041,7 +967,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "36"
+        "order_sort": "37"
     },
     "img_mriqc_T2w_summary_bg_median": {
         "name": "img_mriqc_T2w_summary_bg_median",
@@ -1058,10 +984,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1069,7 +993,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "37"
+        "order_sort": "38"
     },
     "img_mriqc_T2w_summary_bg_n": {
         "name": "img_mriqc_T2w_summary_bg_n",
@@ -1086,10 +1010,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1097,7 +1019,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "38"
+        "order_sort": "39"
     },
     "img_mriqc_T2w_summary_bg_p05": {
         "name": "img_mriqc_T2w_summary_bg_p05",
@@ -1114,10 +1036,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1125,7 +1045,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "39"
+        "order_sort": "40"
     },
     "img_mriqc_T2w_summary_bg_p95": {
         "name": "img_mriqc_T2w_summary_bg_p95",
@@ -1142,10 +1062,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1153,7 +1071,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "40"
+        "order_sort": "41"
     },
     "img_mriqc_T2w_summary_bg_stdv": {
         "name": "img_mriqc_T2w_summary_bg_stdv",
@@ -1170,10 +1088,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1181,7 +1097,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "41"
+        "order_sort": "42"
     },
     "img_mriqc_T2w_summary_csf_k": {
         "name": "img_mriqc_T2w_summary_csf_k",
@@ -1198,10 +1114,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1209,7 +1123,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "42"
+        "order_sort": "43"
     },
     "img_mriqc_T2w_summary_csf_mad": {
         "name": "img_mriqc_T2w_summary_csf_mad",
@@ -1226,10 +1140,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1237,7 +1149,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "43"
+        "order_sort": "44"
     },
     "img_mriqc_T2w_summary_csf_mean": {
         "name": "img_mriqc_T2w_summary_csf_mean",
@@ -1254,10 +1166,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1265,7 +1175,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "44"
+        "order_sort": "45"
     },
     "img_mriqc_T2w_summary_csf_median": {
         "name": "img_mriqc_T2w_summary_csf_median",
@@ -1282,10 +1192,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1293,7 +1201,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "45"
+        "order_sort": "46"
     },
     "img_mriqc_T2w_summary_csf_n": {
         "name": "img_mriqc_T2w_summary_csf_n",
@@ -1310,10 +1218,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1321,7 +1227,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "46"
+        "order_sort": "47"
     },
     "img_mriqc_T2w_summary_csf_p05": {
         "name": "img_mriqc_T2w_summary_csf_p05",
@@ -1338,10 +1244,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1349,7 +1253,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "47"
+        "order_sort": "48"
     },
     "img_mriqc_T2w_summary_csf_p95": {
         "name": "img_mriqc_T2w_summary_csf_p95",
@@ -1366,10 +1270,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1377,7 +1279,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "48"
+        "order_sort": "49"
     },
     "img_mriqc_T2w_summary_csf_stdv": {
         "name": "img_mriqc_T2w_summary_csf_stdv",
@@ -1394,10 +1296,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1405,7 +1305,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "49"
+        "order_sort": "50"
     },
     "img_mriqc_T2w_summary_gm_k": {
         "name": "img_mriqc_T2w_summary_gm_k",
@@ -1422,10 +1322,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1433,7 +1331,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "50"
+        "order_sort": "51"
     },
     "img_mriqc_T2w_summary_gm_mad": {
         "name": "img_mriqc_T2w_summary_gm_mad",
@@ -1450,10 +1348,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1461,7 +1357,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "51"
+        "order_sort": "52"
     },
     "img_mriqc_T2w_summary_gm_mean": {
         "name": "img_mriqc_T2w_summary_gm_mean",
@@ -1478,10 +1374,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1489,7 +1383,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "52"
+        "order_sort": "53"
     },
     "img_mriqc_T2w_summary_gm_median": {
         "name": "img_mriqc_T2w_summary_gm_median",
@@ -1506,10 +1400,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1517,7 +1409,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "53"
+        "order_sort": "54"
     },
     "img_mriqc_T2w_summary_gm_n": {
         "name": "img_mriqc_T2w_summary_gm_n",
@@ -1534,10 +1426,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1545,7 +1435,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "54"
+        "order_sort": "55"
     },
     "img_mriqc_T2w_summary_gm_p05": {
         "name": "img_mriqc_T2w_summary_gm_p05",
@@ -1562,10 +1452,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1573,7 +1461,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "55"
+        "order_sort": "56"
     },
     "img_mriqc_T2w_summary_gm_p95": {
         "name": "img_mriqc_T2w_summary_gm_p95",
@@ -1590,10 +1478,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1601,7 +1487,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "56"
+        "order_sort": "57"
     },
     "img_mriqc_T2w_summary_gm_stdv": {
         "name": "img_mriqc_T2w_summary_gm_stdv",
@@ -1618,10 +1504,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1629,7 +1513,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "57"
+        "order_sort": "58"
     },
     "img_mriqc_T2w_summary_wm_k": {
         "name": "img_mriqc_T2w_summary_wm_k",
@@ -1646,10 +1530,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1657,7 +1539,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "58"
+        "order_sort": "59"
     },
     "img_mriqc_T2w_summary_wm_mad": {
         "name": "img_mriqc_T2w_summary_wm_mad",
@@ -1674,10 +1556,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1685,7 +1565,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "59"
+        "order_sort": "60"
     },
     "img_mriqc_T2w_summary_wm_mean": {
         "name": "img_mriqc_T2w_summary_wm_mean",
@@ -1702,10 +1582,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1713,7 +1591,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "60"
+        "order_sort": "61"
     },
     "img_mriqc_T2w_summary_wm_median": {
         "name": "img_mriqc_T2w_summary_wm_median",
@@ -1730,10 +1608,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1741,7 +1617,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "61"
+        "order_sort": "62"
     },
     "img_mriqc_T2w_summary_wm_n": {
         "name": "img_mriqc_T2w_summary_wm_n",
@@ -1758,10 +1634,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1769,7 +1643,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "62"
+        "order_sort": "63"
     },
     "img_mriqc_T2w_summary_wm_p05": {
         "name": "img_mriqc_T2w_summary_wm_p05",
@@ -1786,10 +1660,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1797,7 +1669,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "63"
+        "order_sort": "64"
     },
     "img_mriqc_T2w_summary_wm_p95": {
         "name": "img_mriqc_T2w_summary_wm_p95",
@@ -1814,10 +1686,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1825,7 +1695,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "64"
+        "order_sort": "65"
     },
     "img_mriqc_T2w_summary_wm_stdv": {
         "name": "img_mriqc_T2w_summary_wm_stdv",
@@ -1842,10 +1712,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1853,7 +1721,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "65"
+        "order_sort": "66"
     },
     "img_mriqc_T2w_tpm_overlap_csf": {
         "name": "img_mriqc_T2w_tpm_overlap_csf",
@@ -1870,10 +1738,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1881,7 +1747,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "66"
+        "order_sort": "67"
     },
     "img_mriqc_T2w_tpm_overlap_gm": {
         "name": "img_mriqc_T2w_tpm_overlap_gm",
@@ -1898,10 +1764,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1909,7 +1773,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "67"
+        "order_sort": "68"
     },
     "img_mriqc_T2w_tpm_overlap_wm": {
         "name": "img_mriqc_T2w_tpm_overlap_wm",
@@ -1926,10 +1790,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1937,7 +1799,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "68"
+        "order_sort": "69"
     },
     "img_mriqc_T2w_wm2max": {
         "name": "img_mriqc_T2w_wm2max",
@@ -1954,10 +1816,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1965,6 +1825,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "69"
+        "order_sort": "70"
     }
 }

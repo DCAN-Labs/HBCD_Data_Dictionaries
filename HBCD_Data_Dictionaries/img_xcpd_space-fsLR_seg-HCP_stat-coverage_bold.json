@@ -23,10 +23,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -34,7 +32,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_gestational_age": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_gestational_age",
@@ -53,8 +51,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -62,7 +58,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CEREBELLUM_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CEREBELLUM_LEFT",
@@ -79,10 +75,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -90,7 +84,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_THALAMUS_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_THALAMUS_LEFT",
@@ -107,10 +101,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -118,7 +110,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CAUDATE_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CAUDATE_LEFT",
@@ -135,10 +127,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -146,7 +136,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PUTAMEN_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PUTAMEN_LEFT",
@@ -163,10 +153,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -174,7 +162,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PALLIDUM_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PALLIDUM_LEFT",
@@ -191,10 +179,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -202,7 +188,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_BRAIN_STEM": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_BRAIN_STEM",
@@ -219,10 +205,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -230,7 +214,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_HIPPOCAMPUS_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_HIPPOCAMPUS_LEFT",
@@ -247,10 +231,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -258,7 +240,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_AMYGDALA_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_AMYGDALA_LEFT",
@@ -275,10 +257,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -286,7 +266,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_ACCUMBENS_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_ACCUMBENS_LEFT",
@@ -303,10 +283,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -314,7 +292,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_DIENCEPHALON_VENTRAL_LEFT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_DIENCEPHALON_VENTRAL_LEFT",
@@ -331,10 +309,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -342,7 +318,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "11"
+        "order_sort": "12"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CEREBELLUM_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CEREBELLUM_RIGHT",
@@ -359,10 +335,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -370,7 +344,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "12"
+        "order_sort": "13"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_THALAMUS_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_THALAMUS_RIGHT",
@@ -387,10 +361,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -398,7 +370,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "13"
+        "order_sort": "14"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CAUDATE_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_CAUDATE_RIGHT",
@@ -415,10 +387,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -426,7 +396,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "14"
+        "order_sort": "15"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PUTAMEN_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PUTAMEN_RIGHT",
@@ -443,10 +413,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -454,7 +422,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "15"
+        "order_sort": "16"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PALLIDUM_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_PALLIDUM_RIGHT",
@@ -471,10 +439,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -482,7 +448,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "16"
+        "order_sort": "17"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_HIPPOCAMPUS_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_HIPPOCAMPUS_RIGHT",
@@ -499,10 +465,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -510,7 +474,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "17"
+        "order_sort": "18"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_AMYGDALA_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_AMYGDALA_RIGHT",
@@ -527,10 +491,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -538,7 +500,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "18"
+        "order_sort": "19"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_ACCUMBENS_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_ACCUMBENS_RIGHT",
@@ -555,10 +517,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -566,7 +526,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "19"
+        "order_sort": "20"
     },
     "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_DIENCEPHALON_VENTRAL_RIGHT": {
         "name": "img_xcpd_space-fsLR_seg-HCP_stat-coverage_bold_DIENCEPHALON_VENTRAL_RIGHT",
@@ -583,10 +543,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -594,6 +552,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "20"
+        "order_sort": "21"
     }
 }
