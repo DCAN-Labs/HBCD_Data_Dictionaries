@@ -22,10 +22,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -33,7 +31,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_osprey_HERCULES_qm_processed_spectra_gestational_age": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_gestational_age",
@@ -52,8 +50,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -61,7 +57,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_osprey_HERCULES_qm_processed_spectra_Cr_SNR": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_Cr_SNR",
@@ -78,10 +74,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -89,7 +83,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_osprey_HERCULES_qm_processed_spectra_Cr_FWHM": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_Cr_FWHM",
@@ -106,10 +100,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -117,7 +109,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_osprey_HERCULES_qm_processed_spectra_water_FWHM": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_water_FWHM",
@@ -134,10 +126,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -145,7 +135,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_osprey_HERCULES_qm_processed_spectra_residual_water_ampl": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_residual_water_ampl",
@@ -162,10 +152,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -173,7 +161,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_osprey_HERCULES_qm_processed_spectra_freqShift": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_freqShift",
@@ -190,10 +178,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -201,7 +187,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_osprey_HERCULES_qm_processed_spectra_relRessum": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relRessum",
@@ -218,10 +204,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -229,7 +213,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_osprey_HERCULES_qm_processed_spectra_relResdiff1": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResdiff1",
@@ -246,10 +230,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -257,7 +239,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_osprey_HERCULES_qm_processed_spectra_relResdiff2": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResdiff2",
@@ -274,10 +256,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -285,7 +265,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_osprey_HERCULES_qm_processed_spectra_relResA": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResA",
@@ -302,10 +282,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -313,6 +291,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "10"
+        "order_sort": "11"
     }
 }

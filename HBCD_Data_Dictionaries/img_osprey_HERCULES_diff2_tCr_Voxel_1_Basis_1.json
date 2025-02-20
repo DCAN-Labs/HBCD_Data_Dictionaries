@@ -22,10 +22,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -33,7 +31,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_gestational_age": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_gestational_age",
@@ -52,8 +50,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -61,7 +57,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_GABA": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_GABA",
@@ -78,10 +74,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -89,7 +83,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Glu": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Glu",
@@ -106,10 +100,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -117,7 +109,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Gln": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Gln",
@@ -134,10 +126,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -145,7 +135,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Glx": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Glx",
@@ -162,10 +152,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -173,7 +161,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Asc": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Asc",
@@ -190,10 +178,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -201,7 +187,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Asp": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Asp",
@@ -218,10 +204,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -229,7 +213,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Cr": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Cr",
@@ -246,10 +230,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -257,7 +239,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_GPC": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_GPC",
@@ -274,10 +256,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -285,7 +265,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_GSH": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_GSH",
@@ -302,10 +282,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -313,7 +291,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_mI": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_mI",
@@ -330,10 +308,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -341,7 +317,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "11"
+        "order_sort": "12"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lac": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lac",
@@ -358,10 +334,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -369,7 +343,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "12"
+        "order_sort": "13"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_NAA": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_NAA",
@@ -386,10 +360,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -397,7 +369,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "13"
+        "order_sort": "14"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_NAAG": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_NAAG",
@@ -414,10 +386,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -425,7 +395,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "14"
+        "order_sort": "15"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_PCh": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_PCh",
@@ -442,10 +412,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -453,7 +421,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "15"
+        "order_sort": "16"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_PCr": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_PCr",
@@ -470,10 +438,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -481,7 +447,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "16"
+        "order_sort": "17"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_PE": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_PE",
@@ -498,10 +464,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -509,7 +473,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "17"
+        "order_sort": "18"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_sI": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_sI",
@@ -526,10 +490,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -537,7 +499,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "18"
+        "order_sort": "19"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Tau": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Tau",
@@ -554,10 +516,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -565,7 +525,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "19"
+        "order_sort": "20"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM09": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM09",
@@ -582,10 +542,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -593,7 +551,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "20"
+        "order_sort": "21"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM12": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM12",
@@ -610,10 +568,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -621,7 +577,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "21"
+        "order_sort": "22"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM14": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM14",
@@ -638,10 +594,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -649,7 +603,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "22"
+        "order_sort": "23"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM17": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM17",
@@ -666,10 +620,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -677,7 +629,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "23"
+        "order_sort": "24"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM20": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_MM20",
@@ -694,10 +646,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -705,7 +655,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "24"
+        "order_sort": "25"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lip09": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lip09",
@@ -722,10 +672,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -733,7 +681,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "25"
+        "order_sort": "26"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lip13": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lip13",
@@ -750,10 +698,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -761,7 +707,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "26"
+        "order_sort": "27"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lip20": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_Lip20",
@@ -778,10 +724,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -789,7 +733,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "27"
+        "order_sort": "28"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_tNAA": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_tNAA",
@@ -806,10 +750,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -817,7 +759,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "28"
+        "order_sort": "29"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_tCho": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_tCho",
@@ -834,10 +776,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -845,7 +785,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "29"
+        "order_sort": "30"
     },
     "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_tCr": {
         "name": "img_osprey_HERCULES_diff2_tCr_Voxel_1_Basis_1_tCr",
@@ -862,10 +802,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -873,6 +811,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "30"
+        "order_sort": "31"
     }
 }

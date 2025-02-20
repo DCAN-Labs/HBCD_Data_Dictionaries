@@ -22,10 +22,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -33,7 +31,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_line_noise": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_line_noise",
@@ -50,10 +48,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -61,7 +57,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_reference_for_faster": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_reference_for_faster",
@@ -80,8 +76,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -89,7 +83,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_faster_bad_channels": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_faster_bad_channels",
@@ -106,10 +100,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -117,7 +109,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_ica_prep_bad_channels": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_ica_prep_bad_channels",
@@ -134,10 +126,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -145,7 +135,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_length_ica_data": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_length_ica_data",
@@ -162,10 +152,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -173,7 +161,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_total_ICs": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_total_ICs",
@@ -190,10 +178,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -201,7 +187,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_ICs_removed": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_ICs_removed",
@@ -218,10 +204,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -229,7 +213,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_total_epochs_pre_artifact_rej": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_total_epochs_pre_artifact_rej",
@@ -246,10 +230,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -257,7 +239,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_total_epochs_post_artifact_rej": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_total_epochs_post_artifact_rej",
@@ -274,10 +256,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -285,7 +265,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_UpInv": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_UpInv",
@@ -302,10 +282,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -313,7 +291,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_Inv": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_Inv",
@@ -330,10 +308,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -341,7 +317,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "11"
+        "order_sort": "12"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_Obj": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_Obj",
@@ -358,10 +334,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -369,7 +343,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "12"
+        "order_sort": "13"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_UpObj": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_FACE_UpObj",
@@ -386,10 +360,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -397,7 +369,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "13"
+        "order_sort": "14"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_MMN_Standard": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_MMN_Standard",
@@ -414,10 +386,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -425,7 +395,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "14"
+        "order_sort": "15"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_MMN_PreDev": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_MMN_PreDev",
@@ -442,10 +412,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -453,7 +421,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "15"
+        "order_sort": "16"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_MMN_Dev": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_MMN_Dev",
@@ -470,10 +438,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -481,7 +447,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "16"
+        "order_sort": "17"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_total_channels_interp": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_total_channels_interp",
@@ -498,10 +464,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -509,7 +473,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "17"
+        "order_sort": "18"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_avg_chan_interp_artifact_rej": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_avg_chan_interp_artifact_rej",
@@ -526,10 +490,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -537,7 +499,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "18"
+        "order_sort": "19"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_std_chan_interp_artifact_rej": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_std_chan_interp_artifact_rej",
@@ -554,10 +516,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -565,7 +525,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "19"
+        "order_sort": "20"
     },
     "eeg_made_task-RS_acq-eeg_preprocessingReport_range_chan_interp_artifact_rej": {
         "name": "eeg_made_task-RS_acq-eeg_preprocessingReport_range_chan_interp_artifact_rej",
@@ -582,10 +542,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -593,6 +551,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "20"
+        "order_sort": "21"
     }
 }

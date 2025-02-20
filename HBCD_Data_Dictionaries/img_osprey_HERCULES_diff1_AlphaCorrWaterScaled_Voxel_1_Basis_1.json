@@ -22,10 +22,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -33,7 +31,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_gestational_age": {
         "name": "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_gestational_age",
@@ -52,8 +50,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -61,7 +57,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_GABA": {
         "name": "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_GABA",
@@ -78,10 +74,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -89,7 +83,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glu": {
         "name": "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glu",
@@ -106,10 +100,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -117,7 +109,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_Gln": {
         "name": "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_Gln",
@@ -134,10 +126,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -145,7 +135,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glx": {
         "name": "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_Glx",
@@ -162,10 +152,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -173,7 +161,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_GABAplus": {
         "name": "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_GABAplus",
@@ -190,10 +178,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -201,6 +187,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "6"
+        "order_sort": "7"
     }
 }

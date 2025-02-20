@@ -22,10 +22,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -33,7 +31,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_gestational_age": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_gestational_age",
@@ -52,8 +50,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -61,7 +57,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_1",
@@ -78,10 +74,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -89,7 +83,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_2",
@@ -106,10 +100,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -117,7 +109,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_3",
@@ -134,10 +126,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -145,7 +135,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_4",
@@ -162,10 +152,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -173,7 +161,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_5",
@@ -190,10 +178,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -201,7 +187,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_6",
@@ -218,10 +204,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -229,7 +213,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_7": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_7",
@@ -246,10 +230,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -257,7 +239,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_8": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_8",
@@ -274,10 +256,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -285,7 +265,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_9": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Vis_9",
@@ -302,10 +282,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -313,7 +291,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_1",
@@ -330,10 +308,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -341,7 +317,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "11"
+        "order_sort": "12"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_2",
@@ -358,10 +334,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -369,7 +343,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "12"
+        "order_sort": "13"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_3",
@@ -386,10 +360,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -397,7 +369,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "13"
+        "order_sort": "14"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_4",
@@ -414,10 +386,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -425,7 +395,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "14"
+        "order_sort": "15"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_5",
@@ -442,10 +412,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -453,7 +421,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "15"
+        "order_sort": "16"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SomMot_6",
@@ -470,10 +438,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -481,7 +447,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "16"
+        "order_sort": "17"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_1",
@@ -498,10 +464,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -509,7 +473,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "17"
+        "order_sort": "18"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_2",
@@ -526,10 +490,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -537,7 +499,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "18"
+        "order_sort": "19"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_3",
@@ -554,10 +516,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -565,7 +525,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "19"
+        "order_sort": "20"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_4",
@@ -582,10 +542,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -593,7 +551,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "20"
+        "order_sort": "21"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_5",
@@ -610,10 +568,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -621,7 +577,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "21"
+        "order_sort": "22"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_Post_6",
@@ -638,10 +594,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -649,7 +603,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "22"
+        "order_sort": "23"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_FEF_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_FEF_1",
@@ -666,10 +620,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -677,7 +629,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "23"
+        "order_sort": "24"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_PrCv_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_DorsAttn_PrCv_1",
@@ -694,10 +646,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -705,7 +655,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "24"
+        "order_sort": "25"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_ParOper_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_ParOper_1",
@@ -722,10 +672,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -733,7 +681,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "25"
+        "order_sort": "26"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_FrOperIns_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_FrOperIns_1",
@@ -750,10 +698,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -761,7 +707,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "26"
+        "order_sort": "27"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_FrOperIns_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_FrOperIns_2",
@@ -778,10 +724,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -789,7 +733,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "27"
+        "order_sort": "28"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_PFCl_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_PFCl_1",
@@ -806,10 +750,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -817,7 +759,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "28"
+        "order_sort": "29"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_Med_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_Med_1",
@@ -834,10 +776,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -845,7 +785,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "29"
+        "order_sort": "30"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_Med_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_Med_2",
@@ -862,10 +802,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -873,7 +811,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "30"
+        "order_sort": "31"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_Med_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_SalVentAttn_Med_3",
@@ -890,10 +828,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -901,7 +837,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "31"
+        "order_sort": "32"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Limbic_OFC_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Limbic_OFC_1",
@@ -918,10 +854,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -929,7 +863,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "32"
+        "order_sort": "33"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Limbic_TempPole_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Limbic_TempPole_1",
@@ -946,10 +880,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -957,7 +889,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "33"
+        "order_sort": "34"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Limbic_TempPole_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Limbic_TempPole_2",
@@ -974,10 +906,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -985,7 +915,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "34"
+        "order_sort": "35"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_Par_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_Par_1",
@@ -1002,10 +932,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1013,7 +941,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "35"
+        "order_sort": "36"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_PFCl_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_PFCl_1",
@@ -1030,10 +958,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1041,7 +967,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "36"
+        "order_sort": "37"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_pCun_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_pCun_1",
@@ -1058,10 +984,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1069,7 +993,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "37"
+        "order_sort": "38"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_Cing_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Cont_Cing_1",
@@ -1086,10 +1010,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1097,7 +1019,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "38"
+        "order_sort": "39"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Par_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Par_1",
@@ -1114,10 +1036,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1125,7 +1045,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "39"
+        "order_sort": "40"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Par_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Par_2",
@@ -1142,10 +1062,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1153,7 +1071,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "40"
+        "order_sort": "41"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Temp_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Temp_1",
@@ -1170,10 +1088,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1181,7 +1097,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "41"
+        "order_sort": "42"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Temp_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_Temp_2",
@@ -1198,10 +1114,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1209,7 +1123,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "42"
+        "order_sort": "43"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_1",
@@ -1226,10 +1140,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1237,7 +1149,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "43"
+        "order_sort": "44"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_2",
@@ -1254,10 +1166,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1265,7 +1175,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "44"
+        "order_sort": "45"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_3",
@@ -1282,10 +1192,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1293,7 +1201,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "45"
+        "order_sort": "46"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_4",
@@ -1310,10 +1218,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1321,7 +1227,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "46"
+        "order_sort": "47"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_5",
@@ -1338,10 +1244,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1349,7 +1253,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "47"
+        "order_sort": "48"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_6",
@@ -1366,10 +1270,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1377,7 +1279,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "48"
+        "order_sort": "49"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_7": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_PFC_7",
@@ -1394,10 +1296,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1405,7 +1305,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "49"
+        "order_sort": "50"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_pCunPCC_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_pCunPCC_1",
@@ -1422,10 +1322,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1433,7 +1331,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "50"
+        "order_sort": "51"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_pCunPCC_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Default_pCunPCC_2",
@@ -1450,10 +1348,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1461,7 +1357,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "51"
+        "order_sort": "52"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_1",
@@ -1478,10 +1374,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1489,7 +1383,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "52"
+        "order_sort": "53"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_2",
@@ -1506,10 +1400,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1517,7 +1409,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "53"
+        "order_sort": "54"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_3",
@@ -1534,10 +1426,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1545,7 +1435,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "54"
+        "order_sort": "55"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_4",
@@ -1562,10 +1452,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1573,7 +1461,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "55"
+        "order_sort": "56"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_5",
@@ -1590,10 +1478,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1601,7 +1487,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "56"
+        "order_sort": "57"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_6",
@@ -1618,10 +1504,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1629,7 +1513,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "57"
+        "order_sort": "58"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_7": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_7",
@@ -1646,10 +1530,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1657,7 +1539,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "58"
+        "order_sort": "59"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_8": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Vis_8",
@@ -1674,10 +1556,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1685,7 +1565,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "59"
+        "order_sort": "60"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_1",
@@ -1702,10 +1582,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1713,7 +1591,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "60"
+        "order_sort": "61"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_2",
@@ -1730,10 +1608,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1741,7 +1617,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "61"
+        "order_sort": "62"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_3",
@@ -1758,10 +1634,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1769,7 +1643,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "62"
+        "order_sort": "63"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_4",
@@ -1786,10 +1660,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1797,7 +1669,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "63"
+        "order_sort": "64"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_5",
@@ -1814,10 +1686,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1825,7 +1695,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "64"
+        "order_sort": "65"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_6",
@@ -1842,10 +1712,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1853,7 +1721,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "65"
+        "order_sort": "66"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_7": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_7",
@@ -1870,10 +1738,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1881,7 +1747,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "66"
+        "order_sort": "67"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_8": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SomMot_8",
@@ -1898,10 +1764,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1909,7 +1773,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "67"
+        "order_sort": "68"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_1",
@@ -1926,10 +1790,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1937,7 +1799,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "68"
+        "order_sort": "69"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_2",
@@ -1954,10 +1816,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1965,7 +1825,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "69"
+        "order_sort": "70"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_3",
@@ -1982,10 +1842,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1993,7 +1851,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "70"
+        "order_sort": "71"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_4",
@@ -2010,10 +1868,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2021,7 +1877,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "71"
+        "order_sort": "72"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_Post_5",
@@ -2038,10 +1894,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2049,7 +1903,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "72"
+        "order_sort": "73"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_FEF_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_FEF_1",
@@ -2066,10 +1920,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2077,7 +1929,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "73"
+        "order_sort": "74"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_PrCv_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_DorsAttn_PrCv_1",
@@ -2094,10 +1946,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2105,7 +1955,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "74"
+        "order_sort": "75"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_TempOccPar_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_TempOccPar_1",
@@ -2122,10 +1972,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2133,7 +1981,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "75"
+        "order_sort": "76"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_TempOccPar_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_TempOccPar_2",
@@ -2150,10 +1998,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2161,7 +2007,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "76"
+        "order_sort": "77"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_FrOperIns_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_FrOperIns_1",
@@ -2178,10 +2024,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2189,7 +2033,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "77"
+        "order_sort": "78"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_Med_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_Med_1",
@@ -2206,10 +2050,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2217,7 +2059,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "78"
+        "order_sort": "79"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_Med_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_SalVentAttn_Med_2",
@@ -2234,10 +2076,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2245,7 +2085,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "79"
+        "order_sort": "80"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Limbic_OFC_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Limbic_OFC_1",
@@ -2262,10 +2102,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2273,7 +2111,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "80"
+        "order_sort": "81"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Limbic_TempPole_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Limbic_TempPole_1",
@@ -2290,10 +2128,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2301,7 +2137,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "81"
+        "order_sort": "82"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_Par_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_Par_1",
@@ -2318,10 +2154,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2329,7 +2163,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "82"
+        "order_sort": "83"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_Par_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_Par_2",
@@ -2346,10 +2180,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2357,7 +2189,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "83"
+        "order_sort": "84"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_1",
@@ -2374,10 +2206,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2385,7 +2215,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "84"
+        "order_sort": "85"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_2",
@@ -2402,10 +2232,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2413,7 +2241,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "85"
+        "order_sort": "86"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_3",
@@ -2430,10 +2258,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2441,7 +2267,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "86"
+        "order_sort": "87"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCl_4",
@@ -2458,10 +2284,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2469,7 +2293,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "87"
+        "order_sort": "88"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_pCun_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_pCun_1",
@@ -2486,10 +2310,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2497,7 +2319,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "88"
+        "order_sort": "89"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_Cing_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_Cing_1",
@@ -2514,10 +2336,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2525,7 +2345,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "89"
+        "order_sort": "90"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCmp_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Cont_PFCmp_1",
@@ -2542,10 +2362,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2553,7 +2371,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "90"
+        "order_sort": "91"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Par_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Par_1",
@@ -2570,10 +2388,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2581,7 +2397,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "91"
+        "order_sort": "92"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Temp_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Temp_1",
@@ -2598,10 +2414,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2609,7 +2423,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "92"
+        "order_sort": "93"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Temp_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Temp_2",
@@ -2626,10 +2440,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2637,7 +2449,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "93"
+        "order_sort": "94"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Temp_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_Temp_3",
@@ -2654,10 +2466,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2665,7 +2475,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "94"
+        "order_sort": "95"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCv_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCv_1",
@@ -2682,10 +2492,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2693,7 +2501,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "95"
+        "order_sort": "96"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCv_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCv_2",
@@ -2710,10 +2518,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2721,7 +2527,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "96"
+        "order_sort": "97"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCdPFCm_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCdPFCm_1",
@@ -2738,10 +2544,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2749,7 +2553,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "97"
+        "order_sort": "98"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCdPFCm_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCdPFCm_2",
@@ -2766,10 +2570,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2777,7 +2579,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "98"
+        "order_sort": "99"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCdPFCm_3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_PFCdPFCm_3",
@@ -2794,10 +2596,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2805,7 +2605,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "99"
+        "order_sort": "100"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_pCunPCC_1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_pCunPCC_1",
@@ -2822,10 +2622,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2833,7 +2631,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "100"
+        "order_sort": "101"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_pCunPCC_2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Default_pCunPCC_2",
@@ -2850,10 +2648,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2861,7 +2657,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "101"
+        "order_sort": "102"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Pu": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Pu",
@@ -2878,10 +2674,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2889,7 +2683,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "102"
+        "order_sort": "103"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ca": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ca",
@@ -2906,10 +2700,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2917,7 +2709,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "103"
+        "order_sort": "104"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-NAC": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-NAC",
@@ -2934,10 +2726,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2945,7 +2735,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "104"
+        "order_sort": "105"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-EXA": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-EXA",
@@ -2962,10 +2752,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2973,7 +2761,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "105"
+        "order_sort": "106"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-GPe": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-GPe",
@@ -2990,10 +2778,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3001,7 +2787,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "106"
+        "order_sort": "107"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-GPi": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-GPi",
@@ -3018,10 +2804,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3029,7 +2813,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "107"
+        "order_sort": "108"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-SNc_PBP_VTA": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-SNc_PBP_VTA",
@@ -3046,10 +2830,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3057,7 +2839,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "108"
+        "order_sort": "109"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-RN": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-RN",
@@ -3074,10 +2856,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3085,7 +2865,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "109"
+        "order_sort": "110"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-SNr": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-SNr",
@@ -3102,10 +2882,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3113,7 +2891,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "110"
+        "order_sort": "111"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-VeP": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-VeP",
@@ -3130,10 +2908,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3141,7 +2917,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "111"
+        "order_sort": "112"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-HN": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-HN",
@@ -3158,10 +2934,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3169,7 +2943,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "112"
+        "order_sort": "113"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-HTH": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-HTH",
@@ -3186,10 +2960,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3197,7 +2969,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "113"
+        "order_sort": "114"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-MN": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-MN",
@@ -3214,10 +2986,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3225,7 +2995,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "114"
+        "order_sort": "115"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-STH": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-STH",
@@ -3242,10 +3012,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3253,7 +3021,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "115"
+        "order_sort": "116"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Pu": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Pu",
@@ -3270,10 +3038,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3281,7 +3047,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "116"
+        "order_sort": "117"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ca": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ca",
@@ -3298,10 +3064,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3309,7 +3073,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "117"
+        "order_sort": "118"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-NAC": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-NAC",
@@ -3326,10 +3090,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3337,7 +3099,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "118"
+        "order_sort": "119"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-EXA": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-EXA",
@@ -3354,10 +3116,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3365,7 +3125,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "119"
+        "order_sort": "120"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-GPe": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-GPe",
@@ -3382,10 +3142,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3393,7 +3151,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "120"
+        "order_sort": "121"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-GPi": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-GPi",
@@ -3410,10 +3168,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3421,7 +3177,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "121"
+        "order_sort": "122"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-SNc_PBP_VTA": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-SNc_PBP_VTA",
@@ -3438,10 +3194,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3449,7 +3203,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "122"
+        "order_sort": "123"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-RN": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-RN",
@@ -3466,10 +3220,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3477,7 +3229,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "123"
+        "order_sort": "124"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-SNr": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-SNr",
@@ -3494,10 +3246,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3505,7 +3255,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "124"
+        "order_sort": "125"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-VeP": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-VeP",
@@ -3522,10 +3272,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3533,7 +3281,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "125"
+        "order_sort": "126"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-HN": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-HN",
@@ -3550,10 +3298,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3561,7 +3307,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "126"
+        "order_sort": "127"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-HTH": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-HTH",
@@ -3578,10 +3324,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3589,7 +3333,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "127"
+        "order_sort": "128"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-MN": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-MN",
@@ -3606,10 +3350,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3617,7 +3359,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "128"
+        "order_sort": "129"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-STH": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-STH",
@@ -3634,10 +3376,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3645,7 +3385,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "129"
+        "order_sort": "130"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Pulvinar": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Pulvinar",
@@ -3662,10 +3402,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3673,7 +3411,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "130"
+        "order_sort": "131"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Anterior": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Anterior",
@@ -3690,10 +3428,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3701,7 +3437,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "131"
+        "order_sort": "132"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Medio_Dorsal": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Medio_Dorsal",
@@ -3718,10 +3454,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3729,7 +3463,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "132"
+        "order_sort": "133"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ventral_Latero_Dorsal": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ventral_Latero_Dorsal",
@@ -3746,10 +3480,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3757,7 +3489,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "133"
+        "order_sort": "134"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar",
@@ -3774,10 +3506,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3785,7 +3515,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "134"
+        "order_sort": "135"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ventral_Anterior": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ventral_Anterior",
@@ -3802,10 +3532,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3813,7 +3541,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "135"
+        "order_sort": "136"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ventral_Latero_Ventral": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH-Ventral_Latero_Ventral",
@@ -3830,10 +3558,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3841,7 +3567,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "136"
+        "order_sort": "137"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Pulvinar": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Pulvinar",
@@ -3858,10 +3584,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3869,7 +3593,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "137"
+        "order_sort": "138"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Anterior": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Anterior",
@@ -3886,10 +3610,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3897,7 +3619,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "138"
+        "order_sort": "139"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Medio_Dorsal": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Medio_Dorsal",
@@ -3914,10 +3636,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3925,7 +3645,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "139"
+        "order_sort": "140"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ventral_Latero_Dorsal": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ventral_Latero_Dorsal",
@@ -3942,10 +3662,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3953,7 +3671,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "140"
+        "order_sort": "141"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar",
@@ -3970,10 +3688,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -3981,7 +3697,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "141"
+        "order_sort": "142"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ventral_Anterior": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ventral_Anterior",
@@ -3998,10 +3714,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4009,7 +3723,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "142"
+        "order_sort": "143"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ventral_Latero_Ventral": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH-Ventral_Latero_Ventral",
@@ -4026,10 +3740,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4037,7 +3749,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "143"
+        "order_sort": "144"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Hippocampus": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Hippocampus",
@@ -4054,10 +3766,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4065,7 +3775,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "144"
+        "order_sort": "145"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Amygdala": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_LH_Amygdala",
@@ -4082,10 +3792,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4093,7 +3801,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "145"
+        "order_sort": "146"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Hippocampus": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Hippocampus",
@@ -4110,10 +3818,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4121,7 +3827,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "146"
+        "order_sort": "147"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Amygdala": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_RH_Amygdala",
@@ -4138,10 +3844,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4149,7 +3853,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "147"
+        "order_sort": "148"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region1": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region1",
@@ -4166,10 +3870,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4177,7 +3879,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "148"
+        "order_sort": "149"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region2": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region2",
@@ -4194,10 +3896,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4205,7 +3905,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "149"
+        "order_sort": "150"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region3": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region3",
@@ -4222,10 +3922,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4233,7 +3931,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "150"
+        "order_sort": "151"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region4": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region4",
@@ -4250,10 +3948,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4261,7 +3957,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "151"
+        "order_sort": "152"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region5": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region5",
@@ -4278,10 +3974,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4289,7 +3983,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "152"
+        "order_sort": "153"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region6": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region6",
@@ -4306,10 +4000,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4317,7 +4009,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "153"
+        "order_sort": "154"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region7": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region7",
@@ -4334,10 +4026,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4345,7 +4035,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "154"
+        "order_sort": "155"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region8": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region8",
@@ -4362,10 +4052,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4373,7 +4061,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "155"
+        "order_sort": "156"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region9": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region9",
@@ -4390,10 +4078,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4401,7 +4087,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "156"
+        "order_sort": "157"
     },
     "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region10": {
         "name": "img_xcpd_space-fsLR_seg-4S156Parcels_stat-mean_desc-curv_morph_Cerebellar_Region10",
@@ -4418,10 +4104,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -4429,6 +4113,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "157"
+        "order_sort": "158"
     }
 }

@@ -23,10 +23,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -34,7 +32,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_gestational_age": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_gestational_age",
@@ -53,8 +51,6 @@
         "type_var": "score",
         "type_data": "integer",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -62,7 +58,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_1": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_1",
@@ -79,10 +75,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -90,7 +84,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_2": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_2",
@@ -107,10 +101,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -118,7 +110,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_3": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_3",
@@ -135,10 +127,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -146,7 +136,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Aud_LABEL_4": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Aud_LABEL_4",
@@ -163,10 +153,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -174,7 +162,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_5": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_5",
@@ -191,10 +179,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -202,7 +188,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_6": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_6",
@@ -219,10 +205,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -230,7 +214,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_7": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_7",
@@ -247,10 +231,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -258,7 +240,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_8": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_8",
@@ -275,10 +257,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -286,7 +266,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_9": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_9",
@@ -303,10 +283,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -314,7 +292,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_10": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_10",
@@ -331,10 +309,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -342,7 +318,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "11"
+        "order_sort": "12"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_11": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_11",
@@ -359,10 +335,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -370,7 +344,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "12"
+        "order_sort": "13"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_12": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_12",
@@ -387,10 +361,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -398,7 +370,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "13"
+        "order_sort": "14"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_13": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_13",
@@ -415,10 +387,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -426,7 +396,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "14"
+        "order_sort": "15"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_14": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_14",
@@ -443,10 +413,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -454,7 +422,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "15"
+        "order_sort": "16"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_15": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_15",
@@ -471,10 +439,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -482,7 +448,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "16"
+        "order_sort": "17"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_16": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_16",
@@ -499,10 +465,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -510,7 +474,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "17"
+        "order_sort": "18"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_17": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_17",
@@ -527,10 +491,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -538,7 +500,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "18"
+        "order_sort": "19"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_18": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_18",
@@ -555,10 +517,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -566,7 +526,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "19"
+        "order_sort": "20"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_VAN_LABEL_19": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_VAN_LABEL_19",
@@ -583,10 +543,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -594,7 +552,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "20"
+        "order_sort": "21"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_20": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_20",
@@ -611,10 +569,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -622,7 +578,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "21"
+        "order_sort": "22"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_21": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_21",
@@ -639,10 +595,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -650,7 +604,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "22"
+        "order_sort": "23"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_22": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_22",
@@ -667,10 +621,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -678,7 +630,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "23"
+        "order_sort": "24"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_23": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_23",
@@ -695,10 +647,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -706,7 +656,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "24"
+        "order_sort": "25"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_24": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_24",
@@ -723,10 +673,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -734,7 +682,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "25"
+        "order_sort": "26"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_25": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_25",
@@ -751,10 +699,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -762,7 +708,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "26"
+        "order_sort": "27"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_26": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_26",
@@ -779,10 +725,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -790,7 +734,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "27"
+        "order_sort": "28"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_27": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_27",
@@ -807,10 +751,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -818,7 +760,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "28"
+        "order_sort": "29"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_28": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_28",
@@ -835,10 +777,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -846,7 +786,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "29"
+        "order_sort": "30"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_29": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_29",
@@ -863,10 +803,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -874,7 +812,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "30"
+        "order_sort": "31"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_30": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_30",
@@ -891,10 +829,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -902,7 +838,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "31"
+        "order_sort": "32"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Aud_LABEL_31": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Aud_LABEL_31",
@@ -919,10 +855,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -930,7 +864,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "32"
+        "order_sort": "33"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_32": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_32",
@@ -947,10 +881,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -958,7 +890,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "33"
+        "order_sort": "34"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_33": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_33",
@@ -975,10 +907,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -986,7 +916,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "34"
+        "order_sort": "35"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_34": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_34",
@@ -1003,10 +933,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1014,7 +942,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "35"
+        "order_sort": "36"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_35": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_35",
@@ -1031,10 +959,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1042,7 +968,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "36"
+        "order_sort": "37"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_36": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_36",
@@ -1059,10 +985,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1070,7 +994,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "37"
+        "order_sort": "38"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_37": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_37",
@@ -1087,10 +1011,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1098,7 +1020,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "38"
+        "order_sort": "39"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_38": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_38",
@@ -1115,10 +1037,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1126,7 +1046,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "39"
+        "order_sort": "40"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_39": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_39",
@@ -1143,10 +1063,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1154,7 +1072,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "40"
+        "order_sort": "41"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_40": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_40",
@@ -1171,10 +1089,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1182,7 +1098,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "41"
+        "order_sort": "42"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_41": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_41",
@@ -1199,10 +1115,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1210,7 +1124,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "42"
+        "order_sort": "43"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_42": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_42",
@@ -1227,10 +1141,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1238,7 +1150,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "43"
+        "order_sort": "44"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_VAN_LABEL_43": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_VAN_LABEL_43",
@@ -1255,10 +1167,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1266,7 +1176,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "44"
+        "order_sort": "45"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_44": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_44",
@@ -1283,10 +1193,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1294,7 +1202,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "45"
+        "order_sort": "46"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_45": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_45",
@@ -1311,10 +1219,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1322,7 +1228,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "46"
+        "order_sort": "47"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_46": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_46",
@@ -1339,10 +1245,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1350,7 +1254,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "47"
+        "order_sort": "48"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_47": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_47",
@@ -1367,10 +1271,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1378,7 +1280,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "48"
+        "order_sort": "49"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_48": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PMN_LABEL_48",
@@ -1395,10 +1297,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1406,7 +1306,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "49"
+        "order_sort": "50"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_49": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_49",
@@ -1423,10 +1323,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1434,7 +1332,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "50"
+        "order_sort": "51"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_50": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_50",
@@ -1451,10 +1349,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1462,7 +1358,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "51"
+        "order_sort": "52"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_51": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_51",
@@ -1479,10 +1375,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1490,7 +1384,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "52"
+        "order_sort": "53"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_52": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_52",
@@ -1507,10 +1401,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1518,7 +1410,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "53"
+        "order_sort": "54"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_53": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_53",
@@ -1535,10 +1427,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1546,7 +1436,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "54"
+        "order_sort": "55"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_54": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_PON_LABEL_54",
@@ -1563,10 +1453,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1574,7 +1462,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "55"
+        "order_sort": "56"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_55": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_55",
@@ -1591,10 +1479,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1602,7 +1488,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "56"
+        "order_sort": "57"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_56": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_56",
@@ -1619,10 +1505,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1630,7 +1514,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "57"
+        "order_sort": "58"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_57": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Tpole_LABEL_57",
@@ -1647,10 +1531,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1658,7 +1540,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "58"
+        "order_sort": "59"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_58": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_58",
@@ -1675,10 +1557,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1686,7 +1566,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "59"
+        "order_sort": "60"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_59": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Sal_LABEL_59",
@@ -1703,10 +1583,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1714,7 +1592,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "60"
+        "order_sort": "61"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_60": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_60",
@@ -1731,10 +1609,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1742,7 +1618,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "61"
+        "order_sort": "62"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_61": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_61",
@@ -1759,10 +1635,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1770,7 +1644,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "62"
+        "order_sort": "63"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_62": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_62",
@@ -1787,10 +1661,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1798,7 +1670,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "63"
+        "order_sort": "64"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_63": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_63",
@@ -1815,10 +1687,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1826,7 +1696,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "64"
+        "order_sort": "65"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_64": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_64",
@@ -1843,10 +1713,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1854,7 +1722,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "65"
+        "order_sort": "66"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_65": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_65",
@@ -1871,10 +1739,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1882,7 +1748,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "66"
+        "order_sort": "67"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_66": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_66",
@@ -1899,10 +1765,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1910,7 +1774,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "67"
+        "order_sort": "68"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_67": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_67",
@@ -1927,10 +1791,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1938,7 +1800,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "68"
+        "order_sort": "69"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_68": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_68",
@@ -1955,10 +1817,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1966,7 +1826,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "69"
+        "order_sort": "70"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_69": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_69",
@@ -1983,10 +1843,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -1994,7 +1852,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "70"
+        "order_sort": "71"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_70": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DAN_LABEL_70",
@@ -2011,10 +1869,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2022,7 +1878,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "71"
+        "order_sort": "72"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_71": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_DMN_LABEL_71",
@@ -2039,10 +1895,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2050,7 +1904,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "72"
+        "order_sort": "73"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_72": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_FP_LABEL_72",
@@ -2067,10 +1921,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2078,7 +1930,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "73"
+        "order_sort": "74"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_73": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMd_LABEL_73",
@@ -2095,10 +1947,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2106,7 +1956,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "74"
+        "order_sort": "75"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_74": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_SMl_LABEL_74",
@@ -2123,10 +1973,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2134,7 +1982,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "75"
+        "order_sort": "76"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_75": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_75",
@@ -2151,10 +1999,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2162,7 +2008,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "76"
+        "order_sort": "77"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_76": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_MTL_LABEL_76",
@@ -2179,10 +2025,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2190,7 +2034,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "77"
+        "order_sort": "78"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_77": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_77",
@@ -2207,10 +2051,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2218,7 +2060,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "78"
+        "order_sort": "79"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_78": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_CO_LABEL_78",
@@ -2235,10 +2077,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2246,7 +2086,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "79"
+        "order_sort": "80"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_79": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_79",
@@ -2263,10 +2103,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2274,7 +2112,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "80"
+        "order_sort": "81"
     },
     "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_80": {
         "name": "img_xcpd_space-fsLR_seg-MIDB_stat-coverage_bold_Vis_LABEL_80",
@@ -2291,10 +2129,8 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "score",
-        "type_data": "float",
+        "type_data": "double",
         "source": "Child",
-        "collection_platform": "n/a",
-        "loris_required": "n/a",
         "branching_logic": "n/a",
         "url_table": "n/a",
         "url_warn_use": "n/a",
@@ -2302,6 +2138,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "81"
+        "order_sort": "82"
     }
 }
