@@ -21,7 +21,7 @@
         "study": "Substudy",
         "type_field": "n/a",
         "type_level": "interval",
-        "type_var": "summary score",
+        "type_var": "administrative",
         "type_data": "double",
         "source": "Child",
         "branching_logic": "n/a",
@@ -188,5 +188,8 @@
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
         "order_sort": "7"
+    },
+    "img_osprey_HERCULES_diff1_AlphaCorrWaterScaled_Voxel_1_Basis_1_gestational_age": {
+        "type_var": "administrative"
     }
 }

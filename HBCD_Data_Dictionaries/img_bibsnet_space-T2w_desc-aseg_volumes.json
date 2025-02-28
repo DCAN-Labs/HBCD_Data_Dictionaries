@@ -21,7 +21,7 @@
         "study": "Substudy",
         "type_field": "n/a",
         "type_level": "interval",
-        "type_var": "summary score",
+        "type_var": "administrative",
         "type_data": "double",
         "source": "Child",
         "branching_logic": "n/a",
@@ -812,5 +812,8 @@
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
         "order_sort": "31"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_gestational_age": {
+        "type_var": "administrative"
     }
 }

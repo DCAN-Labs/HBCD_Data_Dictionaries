@@ -21,7 +21,7 @@
         "study": "Substudy",
         "type_field": "n/a",
         "type_level": "interval",
-        "type_var": "summary score",
+        "type_var": "administrative",
         "type_data": "double",
         "source": "Child",
         "branching_logic": "n/a",
@@ -19714,5 +19714,8 @@
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "758"
+    },
+    "img_xcpd_space-fsLR_seg-4S756Parcels_stat-alff_bold_gestational_age": {
+        "type_var": "administrative"
     }
 }
