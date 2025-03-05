@@ -33,8 +33,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "1",
         "Levels": {
-            "pass": "pass quality control",
-            "fail": "fail quality control"
+            "Pass": "pass quality control",
+            "Fail": "fail quality control"
         }
     },
     "eeg_qc_task-VEP_capping_quality": {
@@ -50,9 +50,9 @@
         "domain": "Tabular EEG",
         "study": "Substudy",
         "type_field": "n/a",
-        "type_level": "interval",
+        "type_level": "nominal",
         "type_var": "administrative",
-        "type_data": "integer",
+        "type_data": "character",
         "source": "Child",
         "branching_logic": "n/a",
         "url_table": "n/a",
@@ -61,7 +61,12 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "2"
+        "order_sort": "2",
+        "Levels": {
+            "Excellent": "excellent capping quality",
+            "Average": "average capping quality",
+            "Poor": "poor capping quality"
+        }
     },
     "eeg_qc_task-VEP_total_epochs_post_artifact_rej": {
         "name": "eeg_qc_task-VEP_total_epochs_post_artifact_rej",
