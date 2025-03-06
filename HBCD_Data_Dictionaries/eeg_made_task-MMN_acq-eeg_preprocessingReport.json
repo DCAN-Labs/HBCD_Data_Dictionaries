@@ -126,7 +126,7 @@
         "type_field": "n/a",
         "type_level": "interval",
         "type_var": "summary score",
-        "type_data": "text",
+        "type_data": "double",
         "source": "Child",
         "branching_logic": "n/a",
         "url_table": "n/a",
