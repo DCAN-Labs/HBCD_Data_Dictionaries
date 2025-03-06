@@ -1528,7 +1528,7 @@
         "type_field": "n/a",
         "type_level": "nominal",
         "type_var": "item",
-        "type_data": "integer",
+        "type_data": "string",
         "source": "Child",
         "branching_logic": "n/a",
         "url_table": "n/a",
