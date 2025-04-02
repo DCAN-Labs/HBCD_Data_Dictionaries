@@ -36,8 +36,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "0"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_AnteriorCoronal_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_AnteriorCoronal_mean",
         "Description": "Mean QC score for direction encoding in anterior coronal plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -64,8 +64,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "1"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_AnteriorCoronal_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_AnteriorCoronal_nrev",
         "Description": "Number of reviewers for direction encoding in anterior coronal plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -92,8 +92,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "2"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-AnteriorCoronal_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_AnteriorCoronal_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_AnteriorCoronal_QC",
         "Description": "Final QC score for direction encoding in anterior coronal plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -120,8 +120,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "3"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_CerebellumAxial_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_CerebellumAxial_mean",
         "Description": "Mean QC score for direction encoding in cerebellum axial plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -148,8 +148,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "4"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_CerebellumAxial_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_CerebellumAxial_nrev",
         "Description": "Number of reviewers for direction encoding in cerebellum axial plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -176,8 +176,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "5"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-CerebellumAxial_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_CerebellumAxial_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_CerebellumAxial_QC",
         "Description": "Final QC score for direction encoding in cerebellum axial plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -204,8 +204,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "6"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_LeftBrainStemSagittal_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_LeftBrainStemSagittal_mean",
         "Description": "Mean QC score for direction encoding in left brainstem sagittal plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -232,8 +232,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "7"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_LeftBrainStemSagittal_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_LeftBrainStemSagittal_nrev",
         "Description": "Number of reviewers for direction encoding in left brainstem sagittal plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -260,8 +260,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "8"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftBrainStemSagittal_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_LeftBrainStemSagittal_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_LeftBrainStemSagittal_QC",
         "Description": "Final QC score for direction encoding in left brainstem sagittal plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -288,8 +288,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "9"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_LeftTemporalSagittal_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_LeftTemporalSagittal_mean",
         "Description": "Mean QC score for direction encoding in left temporal sagittal plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -316,8 +316,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "10"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_LeftTemporalSagittal_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_LeftTemporalSagittal_nrev",
         "Description": "Number of reviewers for direction encoding in left temporal sagittal plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -344,8 +344,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "11"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-LeftTemporalSagittal_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_LeftTemporalSagittal_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_LeftTemporalSagittal_QC",
         "Description": "Final QC score for direction encoding in left temporal sagittal plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -372,8 +372,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "12"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_RightTemporalSagittal_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_RightTemporalSagittal_mean",
         "Description": "Mean QC score for direction encoding in right temporal sagittal plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -400,8 +400,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "13"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_RightTemporalSagittal_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_RightTemporalSagittal_nrev",
         "Description": "Number of reviewers for direction encoding in right temporal sagittal plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -428,8 +428,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "14"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-RightTemporalSagittal_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_RightTemporalSagittal_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_RightTemporalSagittal_QC",
         "Description": "Final QC score for direction encoding in right temporal sagittal plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -456,8 +456,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "15"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_PosteriorCoronal_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_PosteriorCoronal_mean",
         "Description": "Mean QC score for direction encoding in posterior coronal plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -484,8 +484,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "16"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_PosteriorCoronal_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_PosteriorCoronal_nrev",
         "Description": "Number of reviewers for direction encoding in posterior coronal plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -512,8 +512,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "17"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-PosteriorCoronal_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_PosteriorCoronal_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_PosteriorCoronal_QC",
         "Description": "Final QC score for direction encoding in posterior coronal plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -540,8 +540,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "18"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_mean": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_mean",
+    "img_brainswipes_qsiprep-dwi_res-anat_SemiovaleAxial_mean": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_SemiovaleAxial_mean",
         "Description": "Mean QC score for direction encoding in semiovale axial plane. Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -568,8 +568,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "19"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_nrev": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_nrev",
+    "img_brainswipes_qsiprep-dwi_res-anat_SemiovaleAxial_nrev": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_SemiovaleAxial_nrev",
         "Description": "Number of reviewers for direction encoding in semiovale axial plane",
         "instruction": "n/a",
         "header": "n/a",
@@ -596,8 +596,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "20"
     },
-    "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_QC": {
-        "name": "img_brainswipes_qsiprep-dwi_res-anat_qcgif-SemiovaleAxial_QC",
+    "img_brainswipes_qsiprep-dwi_res-anat_SemiovaleAxial_QC": {
+        "name": "img_brainswipes_qsiprep-dwi_res-anat_SemiovaleAxial_QC",
         "Description": "Final QC score for direction encoding in semiovale axial plane of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",

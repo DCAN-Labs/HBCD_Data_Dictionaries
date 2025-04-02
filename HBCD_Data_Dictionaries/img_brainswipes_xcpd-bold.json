@@ -64,8 +64,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "1"
     },
-    "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_bold_mean": {
-        "name": "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_bold_mean",
+    "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_mean": {
+        "name": "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_mean",
         "Description": "Mean QC score for functional registration (overlay of subject's T1w onto BOLD). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -92,8 +92,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "2"
     },
-    "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_bold_nrev": {
-        "name": "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_bold_nrev",
+    "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_nrev": {
+        "name": "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_nrev",
         "Description": "Number of reviewers for  functional registration (overlay of subject's T1w onto BOLD)",
         "instruction": "n/a",
         "header": "n/a",
@@ -120,8 +120,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "3"
     },
-    "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_bold_QC": {
-        "name": "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_bold_QC",
+    "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_QC": {
+        "name": "img_brainswipes_xcpd-bold_T1wOnTaskBrainSwipes_QC",
         "Description": "Final T1w functional registration QC score of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -148,8 +148,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "4"
     },
-    "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_bold_mean": {
-        "name": "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_bold_mean",
+    "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_mean": {
+        "name": "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_mean",
         "Description": "Mean QC score for functional registration (overlay of subject's T2w onto BOLD). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -176,8 +176,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "5"
     },
-    "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_bold_nrev": {
-        "name": "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_bold_nrev",
+    "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_nrev": {
+        "name": "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_nrev",
         "Description": "Number of reviewers for  functional registration (overlay of subject's T2w onto BOLD)",
         "instruction": "n/a",
         "header": "n/a",
@@ -204,8 +204,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "6"
     },
-    "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_bold_QC": {
-        "name": "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_bold_QC",
+    "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_QC": {
+        "name": "img_brainswipes_xcpd-bold_T2wOnTaskBrainSwipes_QC",
         "Description": "Final T2w functional registration QC score of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -232,8 +232,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "7"
     },
-    "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_bold_mean": {
-        "name": "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_bold_mean",
+    "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_mean": {
+        "name": "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_mean",
         "Description": "Mean QC score for functional registration (overlay of subject's BOLD onto T1w). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -260,8 +260,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "8"
     },
-    "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_bold_nrev": {
-        "name": "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_bold_nrev",
+    "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_nrev": {
+        "name": "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_nrev",
         "Description": "Number of reviewers for  functional registration (overlay of subject's BOLD onto T1w)",
         "instruction": "n/a",
         "header": "n/a",
@@ -288,8 +288,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "9"
     },
-    "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_bold_QC": {
-        "name": "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_bold_QC",
+    "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_QC": {
+        "name": "img_brainswipes_xcpd-bold_TaskOnT1wBrainSwipes_QC",
         "Description": "Final T1w functional registration QC score of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
@@ -316,8 +316,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "10"
     },
-    "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_bold_mean": {
-        "name": "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_bold_mean",
+    "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_mean": {
+        "name": "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_mean",
         "Description": "Mean QC score for functional registration (overlay of subject's BOLD onto T2w). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
         "instruction": "n/a",
         "header": "n/a",
@@ -344,8 +344,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "11"
     },
-    "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_bold_nrev": {
-        "name": "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_bold_nrev",
+    "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_nrev": {
+        "name": "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_nrev",
         "Description": "Number of reviewers for  functional registration (overlay of subject's BOLD onto T2w)",
         "instruction": "n/a",
         "header": "n/a",
@@ -372,8 +372,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "12"
     },
-    "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_bold_QC": {
-        "name": "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_bold_QC",
+    "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_QC": {
+        "name": "img_brainswipes_xcpd-bold_TaskOnT2wBrainSwipes_QC",
         "Description": "Final T2w functional registration QC score of 0 (Fail) or 1 (Pass) based on a mean QC threshold of 0.7, or NA if nrev < 10",
         "instruction": "n/a",
         "header": "n/a",
