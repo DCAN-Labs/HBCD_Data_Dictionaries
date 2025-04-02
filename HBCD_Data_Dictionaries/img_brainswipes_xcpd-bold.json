@@ -8,8 +8,8 @@
             "fMRI"
         ]
     },
-    "img_brainswipes_xcpd-bold_QC_T1w": {
-        "name": "img_brainswipes_xcpd-bold_QC_T1w",
+    "img_brainswipes_xcpd-bold_QC_ref-T1w": {
+        "name": "img_brainswipes_xcpd-bold_QC_ref-T1w",
         "Description": "Final QC score for T1w BOLD registration, derived from all T1wOnTask and TaskOnT1w QC fields, of 0 (Fail) if any failed QC, 1 (Pass) if all passed QC, or NA if any are NA due to incomplete number of reviews required",
         "instruction": "n/a",
         "header": "n/a",
@@ -36,8 +36,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "0"
     },
-    "img_brainswipes_xcpd-bold_QC_T2w": {
-        "name": "img_brainswipes_xcpd-bold_QC_T2w",
+    "img_brainswipes_xcpd-bold_QC_ref-T2w": {
+        "name": "img_brainswipes_xcpd-bold_QC_ref-T2w",
         "Description": "Final QC score for T2w BOLD registration, derived from all T1wOnTask and TaskOnT1w QC fields, of 0 (Fail) if any failed QC, 1 (Pass) if all passed QC, or NA if any are NA due to incomplete number of reviews required",
         "instruction": "n/a",
         "header": "n/a",
