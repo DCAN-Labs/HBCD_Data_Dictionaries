@@ -33,8 +33,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "1"
     },
-    "img_bibsnet_space-T1w_desc-aseg_volumes_age_adjusted": {
-        "name": "img_bibsnet_space-T1w_desc-aseg_volumes_age_adjusted",
+    "img_bibsnet_space-T1w_desc-aseg_volumes_adjusted_age": {
+        "name": "img_bibsnet_space-T1w_desc-aseg_volumes_adjusted_age",
         "Description": "Adjusted Chronological Age Based On the EDD (Weeks)",
         "instruction": "n/a",
         "header": "n/a",

@@ -31,8 +31,8 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "1"
     },
-    "img_qsiprep_space-ACPC_desc-image_qc_age_adjusted": {
-        "name": "img_qsiprep_space-ACPC_desc-image_qc_age_adjusted",
+    "img_qsiprep_space-ACPC_desc-image_qc_adjusted_age": {
+        "name": "img_qsiprep_space-ACPC_desc-image_qc_adjusted_age",
         "Description": "Adjusted Chronological Age Based On the EDD (Weeks)",
         "instruction": "n/a",
         "header": "n/a",
