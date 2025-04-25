@@ -34,8 +34,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "1"
     },
-    "img_xcpd_space-fsLR_seg-4S256Parcels_stat-coverage_bold_age_adjusted": {
-        "name": "img_xcpd_space-fsLR_seg-4S256Parcels_stat-coverage_bold_age_adjusted",
+    "img_xcpd_space-fsLR_seg-4S256Parcels_stat-coverage_bold_adjusted_age": {
+        "name": "img_xcpd_space-fsLR_seg-4S256Parcels_stat-coverage_bold_adjusted_age",
         "Description": "Adjusted Chronological Age Based On the EDD (Weeks)",
         "instruction": "n/a",
         "header": "n/a",
