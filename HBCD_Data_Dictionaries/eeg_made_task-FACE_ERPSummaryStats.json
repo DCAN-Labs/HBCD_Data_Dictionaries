@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "MADE ERP Summary Statistics for FACE task",
         "TermURL": "https://hbcd-made.readthedocs.io/en/latest/expected_outputs.html",
-        "name": "MADE ERP Summary Statistics for FACE task",
+        "Name": "MADE ERP Summary Statistics for FACE task",
         "Category": [
             "EEG"
         ]

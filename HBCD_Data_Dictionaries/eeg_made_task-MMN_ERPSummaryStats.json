@@ -2,7 +2,7 @@
     "MeasurementToolMetadata": {
         "Description": "MADE ERP Summary Statistics for MMN task",
         "TermURL": "https://hbcd-made.readthedocs.io/en/latest/expected_outputs.html",
-        "name": "MADE ERP Summary Statistics for MMN task",
+        "Name": "MADE ERP Summary Statistics for MMN task",
         "Category": [
             "EEG"
         ]
