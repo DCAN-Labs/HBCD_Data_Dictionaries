@@ -163,32 +163,6 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": "6"
     },
-    "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Thalamus-Proper": {
-        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Thalamus-Proper",
-        "Description": "BIBSNet Segmentation Volumes (T2w) for region Left Thalamus Proper",
-        "instruction": "n/a",
-        "header": "n/a",
-        "Units": "Volume (cubic millimeters)",
-        "note": "n/a",
-        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
-        "table_label": "_space-T2w_desc-aseg_volumes",
-        "order_display": "n/a",
-        "domain": "Tabular Imaging",
-        "study": "Core",
-        "type_field": "n/a",
-        "type_level": "interval",
-        "type_var": "summary score",
-        "type_data": "double",
-        "source": "Child",
-        "branching_logic": "n/a",
-        "url_table": "n/a",
-        "url_warn_use": "n/a",
-        "url_warn_data": "n/a",
-        "url_table_warn_use": "n/a",
-        "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
-        "order_sort": "7"
-    },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Caudate": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Caudate",
         "Description": "BIBSNet Segmentation Volumes (T2w) for region Left Caudate",
@@ -213,7 +187,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "8"
+        "order_sort": "7"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Putamen": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Putamen",
@@ -239,7 +213,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "9"
+        "order_sort": "8"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Pallidum": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Pallidum",
@@ -265,7 +239,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "10"
+        "order_sort": "9"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_3rd-Ventricle": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_3rd-Ventricle",
@@ -291,7 +265,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "11"
+        "order_sort": "10"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_4th-Ventricle": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_4th-Ventricle",
@@ -317,7 +291,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "12"
+        "order_sort": "11"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Brain-Stem": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Brain-Stem",
@@ -343,7 +317,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "13"
+        "order_sort": "12"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Hippocampus": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Hippocampus",
@@ -369,7 +343,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "14"
+        "order_sort": "13"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Amygdala": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Amygdala",
@@ -395,7 +369,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "15"
+        "order_sort": "14"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Accumbens-area": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Accumbens-area",
@@ -421,7 +395,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "16"
+        "order_sort": "15"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Left-VentralDC": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-VentralDC",
@@ -447,7 +421,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "17"
+        "order_sort": "16"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebral-White-Matter": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebral-White-Matter",
@@ -473,7 +447,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "18"
+        "order_sort": "17"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebral-Cortex": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebral-Cortex",
@@ -499,7 +473,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "19"
+        "order_sort": "18"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Lateral-Ventricle": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Lateral-Ventricle",
@@ -525,7 +499,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "20"
+        "order_sort": "19"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebellum-Cortex": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebellum-Cortex",
@@ -551,33 +525,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "21"
-    },
-    "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Thalamus-Proper": {
-        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Thalamus-Proper",
-        "Description": "BIBSNet Segmentation Volumes (T2w) for region Right Thalamus Proper",
-        "instruction": "n/a",
-        "header": "n/a",
-        "Units": "Volume (cubic millimeters)",
-        "note": "n/a",
-        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
-        "table_label": "_space-T2w_desc-aseg_volumes",
-        "order_display": "n/a",
-        "domain": "Tabular Imaging",
-        "study": "Core",
-        "type_field": "n/a",
-        "type_level": "interval",
-        "type_var": "summary score",
-        "type_data": "double",
-        "source": "Child",
-        "branching_logic": "n/a",
-        "url_table": "n/a",
-        "url_warn_use": "n/a",
-        "url_warn_data": "n/a",
-        "url_table_warn_use": "n/a",
-        "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
-        "order_sort": "22"
+        "order_sort": "20"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Caudate": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Caudate",
@@ -603,7 +551,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "23"
+        "order_sort": "21"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Putamen": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Putamen",
@@ -629,7 +577,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "24"
+        "order_sort": "22"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Pallidum": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Pallidum",
@@ -655,7 +603,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "25"
+        "order_sort": "23"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Hippocampus": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Hippocampus",
@@ -681,7 +629,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "26"
+        "order_sort": "24"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Amygdala": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Amygdala",
@@ -707,7 +655,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "27"
+        "order_sort": "25"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Accumbens-area": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Accumbens-area",
@@ -733,7 +681,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "28"
+        "order_sort": "26"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Right-VentralDC": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-VentralDC",
@@ -759,7 +707,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "29"
+        "order_sort": "27"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_Vermis": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Vermis",
@@ -785,7 +733,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
-        "order_sort": "30"
+        "order_sort": "28"
     },
     "img_bibsnet_space-T2w_desc-aseg_volumes_CSF": {
         "name": "img_bibsnet_space-T2w_desc-aseg_volumes_CSF",
@@ -811,6 +759,240 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id",
+        "order_sort": "29"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Cerebellum-White-Matter": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Cerebellum-White-Matter",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "30"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Left-choroid-plexus": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-choroid-plexus",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
         "order_sort": "31"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Inf-Lat-Vent": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Inf-Lat-Vent",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "32"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Thalamus-Proper*": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Left-Thalamus-Proper*",
+        "Description": "BIBSNet Segmentation Volumes (T2w) for region Left Thalamus Proper",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "Volume (cubic millimeters)",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "interval",
+        "type_var": "summary score",
+        "type_data": "double",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "33"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebellum-White-Matter": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Cerebellum-White-Matter",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "34"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Right-choroid-plexus": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-choroid-plexus",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "35"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Inf-Lat-Vent": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Inf-Lat-Vent",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "36"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Thalamus-Proper*": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Right-Thalamus-Proper*",
+        "Description": "BIBSNet Segmentation Volumes (T2w) for region Right Thalamus Proper",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "Volume (cubic millimeters)",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "interval",
+        "type_var": "summary score",
+        "type_data": "double",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "37"
+    },
+    "img_bibsnet_space-T2w_desc-aseg_volumes_Unknown": {
+        "name": "img_bibsnet_space-T2w_desc-aseg_volumes_Unknown",
+        "Description": "todo",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "todo",
+        "note": "n/a",
+        "table_name": "img_bibsnet_space-T2w_desc-aseg_volumes",
+        "table_label": "_space-T2w_desc-aseg_volumes",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "todo",
+        "type_var": "todo",
+        "type_data": "todo",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id",
+        "order_sort": "38"
     }
 }
