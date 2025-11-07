@@ -35,7 +35,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "0"
+        "order_sort": "1"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_summary_nrev_T1w": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_summary_nrev_T1w",
@@ -64,7 +64,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "1"
+        "order_sort": "2"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T1wOnTaskBrainSwipes_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T1wOnTaskBrainSwipes_mean",
@@ -93,7 +93,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "2"
+        "order_sort": "3"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T1wOnTaskBrainSwipes_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T1wOnTaskBrainSwipes_nrev",
@@ -122,7 +122,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "3"
+        "order_sort": "4"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT1wBrainSwipes_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT1wBrainSwipes_mean",
@@ -151,7 +151,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "4"
+        "order_sort": "5"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT1wBrainSwipes_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT1wBrainSwipes_nrev",
@@ -180,7 +180,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "5"
+        "order_sort": "6"
     },
   "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_summary_QC_T2w": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_summary_QC_T2w",
@@ -209,7 +209,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "6"
+        "order_sort": "7"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_summary_nrev_T2w": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_summary_nrev_T2w",
@@ -238,7 +238,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "7"
+        "order_sort": "8"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T2wOnTaskBrainSwipes_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T2wOnTaskBrainSwipes_mean",
@@ -267,7 +267,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "8"
+        "order_sort": "9"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T2wOnTaskBrainSwipes_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_T2wOnTaskBrainSwipes_nrev",
@@ -296,7 +296,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "9"
+        "order_sort": "10"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT2wBrainSwipes_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT2wBrainSwipes_mean",
@@ -325,7 +325,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "10"
+        "order_sort": "11"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT2wBrainSwipes_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_bold_TaskOnT2wBrainSwipes_nrev",
@@ -354,6 +354,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "11"
+        "order_sort": "12"
     }
 }
