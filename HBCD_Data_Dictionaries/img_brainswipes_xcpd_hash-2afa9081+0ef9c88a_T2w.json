@@ -8,6 +8,64 @@
             "sMRI"
         ]
     },
+    "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_candidate_age": {
+        "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_candidate_age",
+        "Description": "Age (in years) of the candidate at the time of the first acquired scan",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "years",
+        "note": "n/a",
+        "table_name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w",
+        "table_label": "Quality Control - Manual - Post-processing - XCP-D - T2W",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "sub_domain": "Quality Control",
+        "metric": "n/a",
+        "atlas": "n/a",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "interval",
+        "type_var": "administrative",
+        "type_data": "double",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "1"
+    },
+    "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_adjusted_age": {
+        "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_adjusted_age",
+        "Description": "Adjusted Chronological Age Based On the EDD (Weeks)",
+        "instruction": "n/a",
+        "header": "n/a",
+        "Units": "years",
+        "note": "n/a",
+        "table_name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w",
+        "table_label": "Quality Control - Manual - Post-processing - XCP-D - T2W",
+        "order_display": "n/a",
+        "domain": "Tabular Imaging",
+        "sub_domain": "Quality Control",
+        "metric": "n/a",
+        "atlas": "n/a",
+        "study": "Core",
+        "type_field": "n/a",
+        "type_level": "interval",
+        "type_var": "administrative",
+        "type_data": "integer",
+        "source": "Child",
+        "branching_logic": "n/a",
+        "url_table": "n/a",
+        "url_warn_use": "n/a",
+        "url_warn_data": "n/a",
+        "url_table_warn_use": "n/a",
+        "url_table_warn_data": "n/a",
+        "identifier_columns": "participant_id | session_id | run_id",
+        "order_sort": "2"
+    },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_summary_QC": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_summary_QC",
         "Description": "Summary QC score for T2w: average of scores across all visual reports (columns ending with *_mean) where a score of 0=Fail and 1=Pass",
@@ -35,7 +93,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "1"
+        "order_sort": "3"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_summary_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_summary_nrev",
@@ -64,7 +122,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "2"
+        "order_sort": "4"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AnatOnAtlas_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AnatOnAtlas_mean",
@@ -93,7 +151,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "3"
+        "order_sort": "5"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AnatOnAtlas_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AnatOnAtlas_nrev",
@@ -122,7 +180,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "4"
+        "order_sort": "6"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AtlasOnAnat_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AtlasOnAnat_mean",
@@ -151,7 +209,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "5"
+        "order_sort": "7"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AtlasOnAnat_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AtlasOnAnat_nrev",
@@ -180,7 +238,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "6"
+        "order_sort": "8"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialBasalGangliaPutamen_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialBasalGangliaPutamen_mean",
@@ -209,7 +267,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "7"
+        "order_sort": "9"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialBasalGangliaPutamen_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialBasalGangliaPutamen_nrev",
@@ -238,7 +296,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "8"
+        "order_sort": "10"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialSuperiorFrontal_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialSuperiorFrontal_mean",
@@ -267,7 +325,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "9"
+        "order_sort": "11"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialSuperiorFrontal_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_AxialSuperiorFrontal_nrev",
@@ -296,7 +354,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "10"
+        "order_sort": "12"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalCaudateAmygdala_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalCaudateAmygdala_mean",
@@ -325,7 +383,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "11"
+        "order_sort": "13"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalCaudateAmygdala_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalCaudateAmygdala_nrev",
@@ -354,7 +412,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "12"
+        "order_sort": "14"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalOrbitoFrontal_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalOrbitoFrontal_mean",
@@ -383,7 +441,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "13"
+        "order_sort": "15"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalOrbitoFrontal_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalOrbitoFrontal_nrev",
@@ -412,7 +470,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "14"
+        "order_sort": "16"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalPosteriorParietalLingual_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalPosteriorParietalLingual_mean",
@@ -441,7 +499,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "15"
+        "order_sort": "17"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalPosteriorParietalLingual_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_CoronalPosteriorParietalLingual_nrev",
@@ -470,7 +528,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "16"
+        "order_sort": "18"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaFrontoTemporal_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaFrontoTemporal_mean",
@@ -499,7 +557,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "17"
+        "order_sort": "19"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaFrontoTemporal_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaFrontoTemporal_nrev",
@@ -528,7 +586,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "18"
+        "order_sort": "20"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaTemporalHippocampalSulcus_mean": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaTemporalHippocampalSulcus_mean",
@@ -557,7 +615,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "19"
+        "order_sort": "21"
     },
     "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaTemporalHippocampalSulcus_nrev": {
         "name": "img_brainswipes_xcpd_hash-2afa9081+0ef9c88a_T2w_SagittalInsulaTemporalHippocampalSulcus_nrev",
@@ -586,6 +644,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "20"
+        "order_sort": "22"
     }
 }
