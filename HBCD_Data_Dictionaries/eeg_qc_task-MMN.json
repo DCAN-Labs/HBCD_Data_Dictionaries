@@ -134,7 +134,7 @@
     },
     "eeg_qc_task-MMN_MMN_Standard": {
         "name": "eeg_qc_task-MMN_MMN_Standard",
-        "Description": "The number of MMN_Standard epochs surviving QC.",
+        "Description": "The number of MMN_Standard epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -163,7 +163,7 @@
     },
     "eeg_qc_task-MMN_MMN_PreDev": {
         "name": "eeg_qc_task-MMN_MMN_PreDev",
-        "Description": "The number of MMN_PreDev epochs surviving QC.",
+        "Description": "The number of MMN_PreDev epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -192,7 +192,7 @@
     },
     "eeg_qc_task-MMN_MMN_Dev": {
         "name": "eeg_qc_task-MMN_MMN_Dev",
-        "Description": "The number of MMN_Dev epochs surviving QC.",
+        "Description": "The number of MMN_Dev epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",

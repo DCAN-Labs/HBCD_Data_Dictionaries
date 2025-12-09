@@ -134,7 +134,7 @@
     },
     "eeg_qc_task-VEP_total_epochs_post_artifact_rej": {
         "name": "eeg_qc_task-VEP_total_epochs_post_artifact_rej",
-        "Description": "The number of VEP epochs surviving QC.",
+        "Description": "The number of VEP epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",

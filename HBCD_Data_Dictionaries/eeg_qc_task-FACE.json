@@ -134,7 +134,7 @@
     },
     "eeg_qc_task-FACE_FACE_UpInv": {
         "name": "eeg_qc_task-FACE_FACE_UpInv",
-        "Description": "The number of FACE_UpInv epochs surviving QC.",
+        "Description": "The number of FACE_UpInv epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -163,7 +163,7 @@
     },
     "eeg_qc_task-FACE_FACE_Inv": {
         "name": "eeg_qc_task-FACE_FACE_Inv",
-        "Description": "The number of FACE_Inv epochs surviving QC.",
+        "Description": "The number of FACE_Inv epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -192,7 +192,7 @@
     },
     "eeg_qc_task-FACE_FACE_Obj": {
         "name": "eeg_qc_task-FACE_FACE_Obj",
-        "Description": "The number of FACE_Obj epochs surviving QC.",
+        "Description": "The number of FACE_Obj epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -221,7 +221,7 @@
     },
     "eeg_qc_task-FACE_FACE_UpObj": {
         "name": "eeg_qc_task-FACE_FACE_UpObj",
-        "Description": "The number of FACE_UpObj epochs surviving QC.",
+        "Description": "The number of FACE_UpObj epochs retained after epoch-level artifact rejection.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
