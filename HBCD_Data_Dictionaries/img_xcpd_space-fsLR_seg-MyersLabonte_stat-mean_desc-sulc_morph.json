@@ -18,7 +18,7 @@
         "table_label": "sMRI - Sulcal Depth - XCP-D (MyersLabonte)",
         "order_display": "n/a",
         "domain": "Tabular Imaging",
-        "sub_domain": "Resting State fMRI",
+        "sub_domain": "Structural MRI",
         "metric": "Sulcal Depth",
         "atlas": "MyersLabonte",
         "study": "Core",
