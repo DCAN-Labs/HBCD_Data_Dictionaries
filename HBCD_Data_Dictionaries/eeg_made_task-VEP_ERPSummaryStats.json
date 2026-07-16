@@ -33,7 +33,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "1"
     },
     "eeg_made_task-VEP_ERPSummaryStats_adjusted_age": {
@@ -62,7 +62,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "2"
     },
     "eeg_made_task-VEP_ERPSummaryStats_NTrials_vep": {
@@ -91,7 +91,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "3"
     },
     "eeg_made_task-VEP_ERPSummaryStats_SME_N1_oz_vep": {
@@ -120,7 +120,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "4"
     },
     "eeg_made_task-VEP_ERPSummaryStats_AdaptiveMean_N1_oz_vep": {
@@ -149,7 +149,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "5"
     },
     "eeg_made_task-VEP_ERPSummaryStats_Latency_N1_oz_vep": {
@@ -178,7 +178,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "6"
     },
     "eeg_made_task-VEP_ERPSummaryStats_MeanAmp_N1_oz_vep": {
@@ -207,7 +207,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "7"
     },
     "eeg_made_task-VEP_ERPSummaryStats_SME_P1_oz_vep": {
@@ -236,7 +236,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "8"
     },
     "eeg_made_task-VEP_ERPSummaryStats_AdaptiveMean_P1_oz_vep": {
@@ -265,7 +265,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "9"
     },
     "eeg_made_task-VEP_ERPSummaryStats_Latency_P1_oz_vep": {
@@ -294,7 +294,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "10"
     },
     "eeg_made_task-VEP_ERPSummaryStats_MeanAmp_P1_oz_vep": {
@@ -323,7 +323,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "11"
     },
     "eeg_made_task-VEP_ERPSummaryStats_SME_N2_oz_vep": {
@@ -352,7 +352,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "12"
     },
     "eeg_made_task-VEP_ERPSummaryStats_AdaptiveMean_N2_oz_vep": {
@@ -381,7 +381,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "13"
     },
     "eeg_made_task-VEP_ERPSummaryStats_Latency_N2_oz_vep": {
@@ -410,7 +410,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "14"
     },
     "eeg_made_task-VEP_ERPSummaryStats_MeanAmp_N2_oz_vep": {
@@ -439,7 +439,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "15"
     }
 }

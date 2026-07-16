@@ -33,7 +33,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "1"
     },
     "eeg_made_task-MMN_ERPSummaryStats_adjusted_age": {
@@ -62,7 +62,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "2"
     },
     "eeg_made_task-MMN_ERPSummaryStats_NTrials_deviant": {
@@ -91,7 +91,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "3"
     },
     "eeg_made_task-MMN_ERPSummaryStats_NTrials_predeviant": {
@@ -120,7 +120,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "4"
     },
     "eeg_made_task-MMN_ERPSummaryStats_NTrials_standard": {
@@ -149,7 +149,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "5"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_deviant": {
@@ -178,7 +178,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "6"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_predeviant": {
@@ -207,7 +207,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "7"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_standard": {
@@ -236,7 +236,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "8"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_deviant": {
@@ -265,7 +265,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "9"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_predeviant": {
@@ -294,7 +294,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "10"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_standard": {
@@ -323,7 +323,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "11"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_deviant": {
@@ -352,7 +352,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "12"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_predeviant": {
@@ -381,7 +381,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "13"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_standard": {
@@ -410,7 +410,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "14"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_deviant": {
@@ -439,7 +439,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "15"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_predeviant": {
@@ -468,7 +468,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "16"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_standard": {
@@ -497,7 +497,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "17"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_deviant": {
@@ -526,7 +526,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "18"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_predeviant": {
@@ -555,7 +555,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "19"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_standard": {
@@ -584,7 +584,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "20"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_deviant": {
@@ -613,7 +613,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "21"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_predeviant": {
@@ -642,7 +642,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "22"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_standard": {
@@ -671,7 +671,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "23"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_deviant": {
@@ -700,7 +700,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "24"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_predeviant": {
@@ -729,7 +729,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "25"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_standard": {
@@ -758,7 +758,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "26"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_deviant": {
@@ -787,7 +787,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "27"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_predeviant": {
@@ -816,7 +816,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "28"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_standard": {
@@ -845,7 +845,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "29"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_deviant": {
@@ -874,7 +874,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "30"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_predeviant": {
@@ -903,7 +903,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "31"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_standard": {
@@ -932,7 +932,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "32"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_deviant": {
@@ -961,7 +961,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "33"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_predeviant": {
@@ -990,7 +990,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "34"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_standard": {
@@ -1019,7 +1019,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "35"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_deviant": {
@@ -1048,7 +1048,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "36"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_predeviant": {
@@ -1077,7 +1077,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "37"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_standard": {
@@ -1106,7 +1106,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "38"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_deviant": {
@@ -1135,7 +1135,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "39"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_predeviant": {
@@ -1164,7 +1164,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "40"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_standard": {
@@ -1193,7 +1193,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "41"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_deviant": {
@@ -1222,7 +1222,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "42"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_predeviant": {
@@ -1251,7 +1251,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "43"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_standard": {
@@ -1280,7 +1280,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "44"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_deviant": {
@@ -1309,7 +1309,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "45"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_predeviant": {
@@ -1338,7 +1338,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "46"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_standard": {
@@ -1367,7 +1367,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "47"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_deviant": {
@@ -1396,7 +1396,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "48"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_predeviant": {
@@ -1425,7 +1425,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "49"
     },
     "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_standard": {
@@ -1454,7 +1454,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "50"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_deviant": {
@@ -1483,7 +1483,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "51"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_predeviant": {
@@ -1512,7 +1512,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "52"
     },
     "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_standard": {
@@ -1541,7 +1541,7 @@
         "url_warn_data": "n/a",
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id",
+        "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "53"
     }
 }
