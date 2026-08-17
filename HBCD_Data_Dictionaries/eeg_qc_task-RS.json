@@ -94,8 +94,9 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "3",
         "Levels": {
-            "Pass": "pass quality control",
-            "Fail": "fail quality control"
+            "0": "Pass",
+            "1": "Fail",
+            "2": "Unknown"
         }
     },
     "eeg_qc_task-RS_capping_quality": {
@@ -127,9 +128,10 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "4",
         "Levels": {
-            "Excellent": "excellent capping quality",
-            "Average": "average capping quality",
-            "Poor": "poor capping quality"
+            "0": "Excellent",
+            "1": "Average",
+            "2": "Poor",
+            "3": "Unknown"
         }
     },
     "eeg_qc_task-RS_total_epochs_post_artifact_rej": {
@@ -190,8 +192,9 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "6",
         "Levels": {
-            "Yes": "Yes",
-            "No": "No"
+            "0": "Yes",
+            "1": "No",
+            "2": "Unknown"
         }
     },
     "eeg_qc_task-RS_technical_issues": {
@@ -223,8 +226,9 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "7",
         "Levels": {
-            "Yes": "Yes",
-            "No": "No"
+            "0": "Yes",
+            "1": "No",
+            "2": "Unknown"
         }
     },
     "eeg_qc_task-RS_technical_issues_notes": {
