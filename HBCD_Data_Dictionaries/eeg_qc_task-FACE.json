@@ -96,7 +96,7 @@
         "Levels": {
             "0": "Pass",
             "1": "Fail",
-	    "2": "Unknown"
+            "2": "Unknown"
         }
     },
     "eeg_qc_task-FACE_capping_quality": {
@@ -131,7 +131,7 @@
             "0": "Excellent",
             "1": "Average",
             "2": "Poor",
-	    "3": "Unknown"
+            "3": "Unknown"
         }
     },
     "eeg_qc_task-FACE_FACE_UpInv": {
@@ -281,7 +281,7 @@
         "Levels": {
             "0": "Yes",
             "1": "No",
-	    "2": "Unknown"
+            "2": "Unknown"
         }
     },
     "eeg_qc_task-FACE_technical_issues": {
