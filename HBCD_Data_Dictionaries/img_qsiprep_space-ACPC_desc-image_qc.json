@@ -1,9 +1,11 @@
 {
     "MeasurementToolMetadata": {
         "Description": "QSIPREP",
-        "TermURL": "n/a",
+        "TermURL": "https://qsiprep.readthedocs.io/en/latest/",
         "Name": "n/a",
-        "Category": []
+        "Category": [
+	    "Diffusion MRI"
+	]
     },
     "img_qsiprep_space-ACPC_desc-image_qc_candidate_age": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_candidate_age",
