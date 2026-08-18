@@ -67,7 +67,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_Cr_SNR": {
         "name": "img_osprey_unedited_qm_processed_spectra_Cr_SNR",
-        "Description": "Signal to noise ratio of creatine",
+        "Description": "Signal to noise ratio of creatine (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -96,7 +96,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_Cr_FWHM": {
         "name": "img_osprey_unedited_qm_processed_spectra_Cr_FWHM",
-        "Description": "Full width at half maximum of creatine",
+        "Description": "Full width at half maximum of creatine (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
@@ -125,7 +125,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_water_FWHM": {
         "name": "img_osprey_unedited_qm_processed_spectra_water_FWHM",
-        "Description": "Full width at half maximum of reference water peak",
+        "Description": "Full width at half maximum of reference water peak (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
@@ -154,7 +154,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_residual_water_ampl": {
         "name": "img_osprey_unedited_qm_processed_spectra_residual_water_ampl",
-        "Description": "Residual water amplitude",
+        "Description": "Residual water amplitude (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -183,7 +183,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_freqShift": {
         "name": "img_osprey_unedited_qm_processed_spectra_freqShift",
-        "Description": "Frequency shift",
+        "Description": "Frequency shift (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
@@ -212,7 +212,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_relRessum": {
         "name": "img_osprey_unedited_qm_processed_spectra_relRessum",
-        "Description": "relRessum",
+        "Description": "relRessum (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -241,7 +241,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_relResdiff1": {
         "name": "img_osprey_unedited_qm_processed_spectra_relResdiff1",
-        "Description": "relResdiff1",
+        "Description": "relResdiff1 (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -270,7 +270,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_relResdiff2": {
         "name": "img_osprey_unedited_qm_processed_spectra_relResdiff2",
-        "Description": "relResdiff2",
+        "Description": "relResdiff2 (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -299,7 +299,7 @@
     },
     "img_osprey_unedited_qm_processed_spectra_relResA": {
         "name": "img_osprey_unedited_qm_processed_spectra_relResA",
-        "Description": "relResA",
+        "Description": "relResA (unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
