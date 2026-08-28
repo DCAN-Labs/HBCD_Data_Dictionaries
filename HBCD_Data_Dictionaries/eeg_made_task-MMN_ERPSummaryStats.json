@@ -7,14 +7,14 @@
             "EEG"
         ]
     },
-    "eeg_made_task-MMN_ERPSummaryStats_candidate_age": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_candidate_age",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_candidate_age": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_candidate_age",
         "Description": "Age (in years) of the candidate at the time of the recording",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "years",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -36,14 +36,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "1"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_adjusted_age": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_adjusted_age",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_adjusted_age": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_adjusted_age",
         "Description": "Adjusted Chronological Age Based On the EDD (Weeks)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "weeks",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -65,14 +65,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "2"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_NTrials_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_NTrials_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_NTrials_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_NTrials_deviant",
         "Description": "Number of trials in the deviant condition.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -94,14 +94,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "3"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_NTrials_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_NTrials_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_NTrials_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_NTrials_predeviant",
         "Description": "Number of trials in the predeviant condition.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -123,14 +123,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "4"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_NTrials_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_NTrials_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_NTrials_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_NTrials_standard",
         "Description": "Number of trials in thestandard condition.",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -152,14 +152,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "5"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_t7t8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_t7t8_deviant",
         "Description": "Standard measurement error within the MMR1 time window at the T7/T8 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -181,14 +181,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "6"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_t7t8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_t7t8_predeviant",
         "Description": "Standard measurement error within the MMR1 time window at the T7/T8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -210,14 +210,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "7"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_t7t8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_t7t8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_t7t8_standard",
         "Description": "Standard measurement error within the MMR1 time window at the T7/T8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -239,14 +239,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "8"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_t7t8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_t7t8_deviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the T7/T8 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -268,14 +268,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "9"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_t7t8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_t7t8_predeviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the T7/T8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -297,14 +297,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "10"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_t7t8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_t7t8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_t7t8_standard",
         "Description": "Mean amplitude of the MMR1 ERP component at the T7/T8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -326,14 +326,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "11"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f7f8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f7f8_deviant",
         "Description": "Standard measurement error within the MMR1 time window at the F7/F8 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -355,14 +355,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "12"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f7f8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f7f8_predeviant",
         "Description": "Standard measurement error within the MMR1 time window at the F7/F8 electrode cluster for predeviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -384,14 +384,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "13"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f7f8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f7f8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f7f8_standard",
         "Description": "Standard measurement error within the MMR1 time window at the F7/F8 electrode cluster for standard rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -413,14 +413,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "14"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f7f8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f7f8_deviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the F7/F8 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -442,14 +442,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "15"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f7f8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f7f8_predeviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the F7/F8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -471,14 +471,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "16"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f7f8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f7f8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f7f8_standard",
         "Description": "Mean amplitude of the MMR1 ERP component at the F7/F8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -500,14 +500,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "17"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f3f4_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f3f4_deviant",
         "Description": "Standard measurement error within the MMR1 time window at the F3/F4 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -529,14 +529,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "18"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f3f4_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f3f4_predeviant",
         "Description": "Standard measurement error within the MMR1 time window at the F3/F4 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -558,14 +558,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "19"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_f3f4_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f3f4_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_f3f4_standard",
         "Description": "Standard measurement error within the MMR1 time window at the F3/F4 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -587,14 +587,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "20"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f3f4_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f3f4_deviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the F3/F4 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -616,14 +616,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "21"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f3f4_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f3f4_predeviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the F3/F4 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -645,14 +645,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "22"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_f3f4_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f3f4_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_f3f4_standard",
         "Description": "Mean amplitude of the MMR1 ERP component at the F3/F4 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -674,14 +674,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "23"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_fcz_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_fcz_deviant",
         "Description": "Standard measurement error within the MMR1 time window at the FCz electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -703,14 +703,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "24"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_fcz_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_fcz_predeviant",
         "Description": "Standard measurement error within the MMR1 time window at the FCz electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -732,14 +732,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "25"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR1_fcz_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_fcz_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR1_fcz_standard",
         "Description": "Standard measurement error within the MMR1 time window at the FCz electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -761,14 +761,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "26"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_fcz_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_fcz_deviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the FCz electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -790,14 +790,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "27"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_fcz_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_fcz_predeviant",
         "Description": "Mean amplitude of the MMR1 ERP component at the FCz electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -819,14 +819,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "28"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR1_fcz_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_fcz_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR1_fcz_standard",
         "Description": "Mean amplitude of the MMR1 ERP component at the FCz electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -848,14 +848,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "29"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_t7t8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_t7t8_deviant",
         "Description": "Standard measurement error within the MMR2 time window at the T7/T8 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -877,14 +877,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "30"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_t7t8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_t7t8_predeviant",
         "Description": "Standard measurement error within the MMR2 time window at the T7/T8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -906,14 +906,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "31"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_t7t8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_t7t8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_t7t8_standard",
         "Description": "Standard measurement error within the MMR2 time window at the T7/T8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -935,14 +935,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "32"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_t7t8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_t7t8_deviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the T7/T8 electrode cluster for deviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -964,14 +964,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "33"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_t7t8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_t7t8_predeviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the T7/T8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -993,14 +993,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "34"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_t7t8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_t7t8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_t7t8_standard",
         "Description": "Mean amplitude of the MMR2 ERP component at the T7/T8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1022,14 +1022,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "35"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f7f8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f7f8_deviant",
         "Description": "Standard measurement error within the MMR2 time window at the F7/F8 electrode cluster for deviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1051,14 +1051,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "36"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f7f8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f7f8_predeviant",
         "Description": "Standard measurement error within the MMR2 time window at the F7/F8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1080,14 +1080,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "37"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f7f8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f7f8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f7f8_standard",
         "Description": "Standard measurement error within the MMR2 time window at the F7/F8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1109,14 +1109,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "38"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f7f8_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f7f8_deviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the F7/F8 electrode cluster for deviant rials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1138,14 +1138,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "39"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f7f8_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f7f8_predeviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the F7/F8 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1167,14 +1167,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "40"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f7f8_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f7f8_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f7f8_standard",
         "Description": "Mean amplitude of the MMR2 ERP component at the F7/F8 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1196,14 +1196,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "41"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f3f4_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f3f4_deviant",
         "Description": "Standard measurement error within the MMR2 time window at the F3/F4 electrode cluster for deviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1225,14 +1225,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "42"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f3f4_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f3f4_predeviant",
         "Description": "Standard measurement error within the MMR2 time window at the F3/F4 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1254,14 +1254,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "43"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_f3f4_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f3f4_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_f3f4_standard",
         "Description": "Standard measurement error within the MMR2 time window at the F3/F4 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1283,14 +1283,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "44"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f3f4_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f3f4_deviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the F3/F4 electrode cluster for deviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1312,14 +1312,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "45"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f3f4_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f3f4_predeviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the F3/F4 electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1341,14 +1341,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "46"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_f3f4_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f3f4_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_f3f4_standard",
         "Description": "Mean amplitude of the MMR2 ERP component at the F3/F4 electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1370,14 +1370,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "47"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_fcz_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_fcz_deviant",
         "Description": "Standard measurement error within the MMR2 time window at the FCz electrode cluster for deviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1399,14 +1399,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "48"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_fcz_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_fcz_predeviant",
         "Description": "Standard measurement error within the MMR2 time window at the FCz electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1428,14 +1428,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "49"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_SME_MMR2_fcz_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_fcz_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_SME_MMR2_fcz_standard",
         "Description": "Standard measurement error within the MMR2 time window at the FCz electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1457,14 +1457,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "50"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_deviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_deviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_fcz_deviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_fcz_deviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the FCz electrode cluster for deviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1486,14 +1486,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "51"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_predeviant": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_predeviant",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_fcz_predeviant": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_fcz_predeviant",
         "Description": "Mean amplitude of the MMR2 ERP component at the FCz electrode cluster for predeviant trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
@@ -1515,14 +1515,14 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "52"
     },
-    "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_standard": {
-        "name": "eeg_made_task-MMN_ERPSummaryStats_MeanAmp_MMR2_fcz_standard",
+    "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_fcz_standard": {
+        "name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats_MeanAmp_MMR2_fcz_standard",
         "Description": "Mean amplitude of the MMR2 ERP component at the FCz electrode cluster for standard trials. ",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
         "note": "n/a",
-        "table_name": "eeg_made_task-MMN_ERPSummaryStats",
+        "table_name": "eeg_made_task-MMN_acq-eeg_ERPSummaryStats",
         "table_label": "MMN - ERP Summary Statistics - HBCD-MADE",
         "order_display": "n/a",
         "domain": "Tabular EEG",
