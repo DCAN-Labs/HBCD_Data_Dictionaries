@@ -74,7 +74,7 @@
         "order_sort": 2
     },
     "nt_ch_biosensor_leg-right_desc-accelerationPA_SUMMARY_Counts_total": {
-        "name": "nt_ch_biosensor_leg-right_desc-accelerationPA_SUMMARY_classified into_total",
+        "name": "nt_ch_biosensor_leg-right_desc-accelerationPA_SUMMARY_Counts_total",
         "Description": "Total number of samples classified into physical activity intensity levels using the area-under-the-acceleration-time-curve method applied to the right-leg sensor data",
         "instruction": "n/a",
         "domain": "Novel Tech",
