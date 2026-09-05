@@ -67,7 +67,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_Cr_SNR": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_Cr_SNR",
-        "Description": "Signal to noise ratio of creatine (HERCULES)",
+        "Description": "Signal to noise ratio of creatine (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -96,7 +96,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_Cr_FWHM": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_Cr_FWHM",
-        "Description": "Full width at half maximum of creatine (HERCULES)",
+        "Description": "Full width at half maximum of creatine (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
@@ -125,7 +125,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_water_FWHM": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_water_FWHM",
-        "Description": "Full width at half maximum of reference water peak (HERCULES)",
+        "Description": "Full width at half maximum of reference water peak (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
@@ -154,7 +154,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_residual_water_ampl": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_residual_water_ampl",
-        "Description": "Residual water amplitude (HERCULES)",
+        "Description": "Residual water amplitude (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -183,7 +183,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_freqShift": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_freqShift",
-        "Description": "Frequency shift (HERCULES)",
+        "Description": "Frequency shift (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "Hz",
@@ -212,7 +212,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_relRessum": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relRessum",
-        "Description": "relRessum (HERCULES)",
+        "Description": "relRessum (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -241,7 +241,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_relResdiff1": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResdiff1",
-        "Description": "relResdiff1 (HERCULES)",
+        "Description": "relResdiff1 (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -270,7 +270,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_relResdiff2": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResdiff2",
-        "Description": "relResdiff2 (HERCULES)",
+        "Description": "relResdiff2 (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",
@@ -299,7 +299,7 @@
     },
     "img_osprey_HERCULES_qm_processed_spectra_relResA": {
         "name": "img_osprey_HERCULES_qm_processed_spectra_relResA",
-        "Description": "relResA (HERCULES)",
+        "Description": "relResA (HERCULES) (Quality Control - Automatic - Post-processing - MRS - Osprey Unedited)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "arbitrary",

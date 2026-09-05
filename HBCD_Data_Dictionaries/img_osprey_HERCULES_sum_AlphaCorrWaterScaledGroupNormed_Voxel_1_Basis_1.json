@@ -67,7 +67,7 @@
     },
     "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_GABA": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_GABA",
-        "Description": "GABA alpha-corrected molal concentration, using tissue corrected water",
+        "Description": "GABA alpha-corrected molal concentration, using tissue corrected water (MRS - HERCULES sum - Alpha-Corrected Group-Normalized Water-Scaled Concentrations)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
@@ -96,7 +96,7 @@
     },
     "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_Glu": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_Glu",
-        "Description": "Glu alpha-corrected molal concentration, using tissue corrected water",
+        "Description": "Glu alpha-corrected molal concentration, using tissue corrected water (MRS - HERCULES sum - Alpha-Corrected Group-Normalized Water-Scaled Concentrations)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
@@ -125,7 +125,7 @@
     },
     "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_Gln": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_Gln",
-        "Description": "Gln alpha-corrected molal concentration, using tissue corrected water",
+        "Description": "Gln alpha-corrected molal concentration, using tissue corrected water (MRS - HERCULES sum - Alpha-Corrected Group-Normalized Water-Scaled Concentrations)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
@@ -154,7 +154,7 @@
     },
     "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_Glx": {
         "name": "img_osprey_HERCULES_sum_AlphaCorrWaterScaledGroupNormed_Voxel_1_Basis_1_Glx",
-        "Description": "Glx alpha-corrected molal concentration, using tissue corrected water",
+        "Description": "Glx alpha-corrected molal concentration, using tissue corrected water (MRS - HERCULES sum - Alpha-Corrected Group-Normalized Water-Scaled Concentrations)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "mol/Kg",
