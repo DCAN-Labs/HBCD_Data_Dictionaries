@@ -75,7 +75,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_total": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_total",
-        "Description": "Total number of samples classified into physical activity intensity levels using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Total number of samples classified into physical activity intensity levels using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -108,7 +108,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_sedentary": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_sedentary",
-        "Description": "Number of samples classified into the sedentary physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Number of samples classified into the sedentary physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -141,7 +141,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_light": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_light",
-        "Description": "Number of samples classified into the light physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Number of samples classified into the light physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -174,7 +174,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_MV": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_MV",
-        "Description": "Number of samples classified into the moderate-to-vigorous (MV) physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Number of samples classified into the moderate-to-vigorous (MV) physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -207,7 +207,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_undefined": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Counts_undefined",
-        "Description": "Number of samples classified into the undefined using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Number of samples classified into the undefined using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -240,7 +240,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_total": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_total",
-        "Description": "Percentage of samples classified into physical activity intensity levels using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Percentage of samples classified into physical activity intensity levels using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -273,7 +273,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_sedentary": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_sedentary",
-        "Description": "Percentage of samples classified into the sedentary intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Percentage of samples classified into the sedentary intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -306,7 +306,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_light": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_light",
-        "Description": "Percentage of samples classified into the light intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Percentage of samples classified into the light intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -339,7 +339,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_MV": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_MV",
-        "Description": "Percentage of samples classified into the moderate-to-vigorous (MV) intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Percentage of samples classified into the moderate-to-vigorous (MV) intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -372,7 +372,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_undefined": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Percent_undefined",
-        "Description": "Percentage of samples classified into the undefined using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Percentage of samples classified into the undefined using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -405,7 +405,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_total": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_total",
-        "Description": "Total recording time of the left-leg sensor data",
+        "Description": "Total recording time of the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -438,7 +438,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_sedentary": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_sedentary",
-        "Description": "Time classified into the sedentary intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Time classified into the sedentary intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -471,7 +471,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_light": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_light",
-        "Description": "Time classified into the light intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Time classified into the light intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -504,7 +504,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_MV": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_MV",
-        "Description": "Time classified into the moderate-to-vigorous (MV) intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Time classified into the moderate-to-vigorous (MV) intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -537,7 +537,7 @@
     },
     "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_undefined": {
         "name": "nt_ch_biosensor_leg-left_desc-accelerationPA_SUMMARY_Time_undefined",
-        "Description": "Time classified into the undefined using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data",
+        "Description": "Time classified into the undefined using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
