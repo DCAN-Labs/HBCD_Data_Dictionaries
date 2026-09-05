@@ -68,7 +68,7 @@
     },
     "img_mriqc_bold_aor": {
         "name": "img_mriqc_bold_aor",
-        "Description": "AFNIu2019s Outlier Ratio",
+        "Description": "AFNIu2019s Outlier Ratio (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -97,7 +97,7 @@
     },
     "img_mriqc_bold_aqi": {
         "name": "img_mriqc_bold_aqi",
-        "Description": "AFNIu2019s Outlier Index",
+        "Description": "AFNIu2019s Outlier Index (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -126,7 +126,7 @@
     },
     "img_mriqc_bold_dummy_trs": {
         "name": "img_mriqc_bold_dummy_trs",
-        "Description": "Non-Steady State Volumes",
+        "Description": "Non-Steady State Volumes (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -155,7 +155,7 @@
     },
     "img_mriqc_bold_dvars_nstd": {
         "name": "img_mriqc_bold_dvars_nstd",
-        "Description": "Temporal Derivative (D) Root Mean Square Variance (VARS)",
+        "Description": "Temporal Derivative (D) Root Mean Square Variance (VARS) (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -184,7 +184,7 @@
     },
     "img_mriqc_bold_dvars_std": {
         "name": "img_mriqc_bold_dvars_std",
-        "Description": "DVARS Normalized With SD of Temporal Difference Time Series",
+        "Description": "DVARS Normalized With SD of Temporal Difference Time Series (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -213,7 +213,7 @@
     },
     "img_mriqc_bold_dvars_vstd": {
         "name": "img_mriqc_bold_dvars_vstd",
-        "Description": "DVARS With Voxel-Wise Standardization",
+        "Description": "DVARS With Voxel-Wise Standardization (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -242,7 +242,7 @@
     },
     "img_mriqc_bold_efc": {
         "name": "img_mriqc_bold_efc",
-        "Description": "Entropy-Focus Criterion",
+        "Description": "Entropy-Focus Criterion (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -271,7 +271,7 @@
     },
     "img_mriqc_bold_fber": {
         "name": "img_mriqc_bold_fber",
-        "Description": "Foreground-Background Energy Ratio",
+        "Description": "Foreground-Background Energy Ratio (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -300,7 +300,7 @@
     },
     "img_mriqc_bold_fd_mean": {
         "name": "img_mriqc_bold_fd_mean",
-        "Description": "Framewise Displacement Mean",
+        "Description": "Framewise Displacement Mean (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -329,7 +329,7 @@
     },
     "img_mriqc_bold_fd_num": {
         "name": "img_mriqc_bold_fd_num",
-        "Description": "Number of Timepoints Above Framewise Displacement Threshold",
+        "Description": "Number of Timepoints Above Framewise Displacement Threshold (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -358,7 +358,7 @@
     },
     "img_mriqc_bold_fd_perc": {
         "name": "img_mriqc_bold_fd_perc",
-        "Description": "Percent of Timepoints Values Above Framewise Displacement Threshold",
+        "Description": "Percent of Timepoints Values Above Framewise Displacement Threshold (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -387,7 +387,7 @@
     },
     "img_mriqc_bold_fwhm_avg": {
         "name": "img_mriqc_bold_fwhm_avg",
-        "Description": "Full Width Half Maximum Smoothness",
+        "Description": "Full Width Half Maximum Smoothness (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -416,7 +416,7 @@
     },
     "img_mriqc_bold_fwhm_x": {
         "name": "img_mriqc_bold_fwhm_x",
-        "Description": "Full Width Half Maximum in X Direction",
+        "Description": "Full Width Half Maximum in X Direction (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -445,7 +445,7 @@
     },
     "img_mriqc_bold_fwhm_y": {
         "name": "img_mriqc_bold_fwhm_y",
-        "Description": "Full Width Half Maximum in Y Direction",
+        "Description": "Full Width Half Maximum in Y Direction (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -474,7 +474,7 @@
     },
     "img_mriqc_bold_fwhm_z": {
         "name": "img_mriqc_bold_fwhm_z",
-        "Description": "Full Width Half Maximum in Z Direction",
+        "Description": "Full Width Half Maximum in Z Direction (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -503,7 +503,7 @@
     },
     "img_mriqc_bold_gcor": {
         "name": "img_mriqc_bold_gcor",
-        "Description": "Global Correlation",
+        "Description": "Global Correlation (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -532,7 +532,7 @@
     },
     "img_mriqc_bold_gsr_x": {
         "name": "img_mriqc_bold_gsr_x",
-        "Description": "Ghost to Signal Ratio in X Direction",
+        "Description": "Ghost to Signal Ratio in X Direction (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -561,7 +561,7 @@
     },
     "img_mriqc_bold_gsr_y": {
         "name": "img_mriqc_bold_gsr_y",
-        "Description": "Ghost to Signal Ratio in Y Direction",
+        "Description": "Ghost to Signal Ratio in Y Direction (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -590,7 +590,7 @@
     },
     "img_mriqc_bold_size_t": {
         "name": "img_mriqc_bold_size_t",
-        "Description": "Number of Frames",
+        "Description": "Number of Frames (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -619,7 +619,7 @@
     },
     "img_mriqc_bold_size_x": {
         "name": "img_mriqc_bold_size_x",
-        "Description": "Size Along X Dimension",
+        "Description": "Size Along X Dimension (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -648,7 +648,7 @@
     },
     "img_mriqc_bold_size_y": {
         "name": "img_mriqc_bold_size_y",
-        "Description": "Size Along Y Dimension",
+        "Description": "Size Along Y Dimension (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -677,7 +677,7 @@
     },
     "img_mriqc_bold_size_z": {
         "name": "img_mriqc_bold_size_z",
-        "Description": "Size Along Z Dimension",
+        "Description": "Size Along Z Dimension (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -706,7 +706,7 @@
     },
     "img_mriqc_bold_snr": {
         "name": "img_mriqc_bold_snr",
-        "Description": "Signal-To-Noise Ratio",
+        "Description": "Signal-To-Noise Ratio (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -735,7 +735,7 @@
     },
     "img_mriqc_bold_spacing_tr": {
         "name": "img_mriqc_bold_spacing_tr",
-        "Description": "Repetition Time (TR)",
+        "Description": "Repetition Time (TR) (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -764,7 +764,7 @@
     },
     "img_mriqc_bold_spacing_x": {
         "name": "img_mriqc_bold_spacing_x",
-        "Description": "Voxel size X (in mm)",
+        "Description": "Voxel size X (in mm) (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -793,7 +793,7 @@
     },
     "img_mriqc_bold_spacing_y": {
         "name": "img_mriqc_bold_spacing_y",
-        "Description": "Voxel size Y (in mm)",
+        "Description": "Voxel size Y (in mm) (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -822,7 +822,7 @@
     },
     "img_mriqc_bold_spacing_z": {
         "name": "img_mriqc_bold_spacing_z",
-        "Description": "Voxel size Z (in mm)",
+        "Description": "Voxel size Z (in mm) (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -851,7 +851,7 @@
     },
     "img_mriqc_bold_summary_bg_k": {
         "name": "img_mriqc_bold_summary_bg_k",
-        "Description": "Summary Background Kurtosis",
+        "Description": "Summary Background Kurtosis (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -880,7 +880,7 @@
     },
     "img_mriqc_bold_summary_bg_mad": {
         "name": "img_mriqc_bold_summary_bg_mad",
-        "Description": "Summary Background Mean Absolute Deviation",
+        "Description": "Summary Background Mean Absolute Deviation (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -909,7 +909,7 @@
     },
     "img_mriqc_bold_summary_bg_mean": {
         "name": "img_mriqc_bold_summary_bg_mean",
-        "Description": "Summary Background Mean",
+        "Description": "Summary Background Mean (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -938,7 +938,7 @@
     },
     "img_mriqc_bold_summary_bg_median": {
         "name": "img_mriqc_bold_summary_bg_median",
-        "Description": "Summary Background Median",
+        "Description": "Summary Background Median (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -967,7 +967,7 @@
     },
     "img_mriqc_bold_summary_bg_n": {
         "name": "img_mriqc_bold_summary_bg_n",
-        "Description": "Summary Background Number of Voxels",
+        "Description": "Summary Background Number of Voxels (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -996,7 +996,7 @@
     },
     "img_mriqc_bold_summary_bg_p05": {
         "name": "img_mriqc_bold_summary_bg_p05",
-        "Description": "Summary Background 5% Percentile",
+        "Description": "Summary Background 5% Percentile (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1025,7 +1025,7 @@
     },
     "img_mriqc_bold_summary_bg_p95": {
         "name": "img_mriqc_bold_summary_bg_p95",
-        "Description": "Summary Background 95% Percentile",
+        "Description": "Summary Background 95% Percentile (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1054,7 +1054,7 @@
     },
     "img_mriqc_bold_summary_bg_stdv": {
         "name": "img_mriqc_bold_summary_bg_stdv",
-        "Description": "Summary Background Standard Deviation",
+        "Description": "Summary Background Standard Deviation (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1083,7 +1083,7 @@
     },
     "img_mriqc_bold_summary_fg_k": {
         "name": "img_mriqc_bold_summary_fg_k",
-        "Description": "Summary Foreground Kurtosis",
+        "Description": "Summary Foreground Kurtosis (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1112,7 +1112,7 @@
     },
     "img_mriqc_bold_summary_fg_mad": {
         "name": "img_mriqc_bold_summary_fg_mad",
-        "Description": "Summary Foreground Mean Absolute Deviation",
+        "Description": "Summary Foreground Mean Absolute Deviation (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1141,7 +1141,7 @@
     },
     "img_mriqc_bold_summary_fg_mean": {
         "name": "img_mriqc_bold_summary_fg_mean",
-        "Description": "Summary Foreground Mean",
+        "Description": "Summary Foreground Mean (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1170,7 +1170,7 @@
     },
     "img_mriqc_bold_summary_fg_median": {
         "name": "img_mriqc_bold_summary_fg_median",
-        "Description": "Summary Foreground Median",
+        "Description": "Summary Foreground Median (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1199,7 +1199,7 @@
     },
     "img_mriqc_bold_summary_fg_n": {
         "name": "img_mriqc_bold_summary_fg_n",
-        "Description": "Summary Foreground Number of Voxels",
+        "Description": "Summary Foreground Number of Voxels (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1228,7 +1228,7 @@
     },
     "img_mriqc_bold_summary_fg_p05": {
         "name": "img_mriqc_bold_summary_fg_p05",
-        "Description": "Summary Foreground 5% Percentile",
+        "Description": "Summary Foreground 5% Percentile (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1257,7 +1257,7 @@
     },
     "img_mriqc_bold_summary_fg_p95": {
         "name": "img_mriqc_bold_summary_fg_p95",
-        "Description": "Summary Foreground 95% Percentile",
+        "Description": "Summary Foreground 95% Percentile (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1286,7 +1286,7 @@
     },
     "img_mriqc_bold_summary_fg_stdv": {
         "name": "img_mriqc_bold_summary_fg_stdv",
-        "Description": "Summary Foreground Standard Deviation",
+        "Description": "Summary Foreground Standard Deviation (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -1315,7 +1315,7 @@
     },
     "img_mriqc_bold_tsnr": {
         "name": "img_mriqc_bold_tsnr",
-        "Description": "Temporal Signal-to-Noise Ratio",
+        "Description": "Temporal Signal-to-Noise Ratio (Quality Control - Automatic - Raw - Resting State fMRI)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
