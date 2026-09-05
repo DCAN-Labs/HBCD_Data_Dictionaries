@@ -67,7 +67,7 @@
     },
     "eeg_qc_task-FACE_qc_pass_fail": {
         "name": "eeg_qc_task-FACE_qc_pass_fail",
-        "Description": "Overall pass/fail rating for the acquisiton.",
+        "Description": "Overall pass/fail rating for the acquisiton. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -101,7 +101,7 @@
     },
     "eeg_qc_task-FACE_capping_quality": {
         "name": "eeg_qc_task-FACE_capping_quality",
-        "Description": "Capping quality rating for the acquisiton.",
+        "Description": "Capping quality rating for the acquisiton. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -136,7 +136,7 @@
     },
     "eeg_qc_task-FACE_FACE_UpInv": {
         "name": "eeg_qc_task-FACE_FACE_UpInv",
-        "Description": "The number of FACE_UpInv epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of FACE_UpInv epochs retained after epoch-level artifact rejection. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -165,7 +165,7 @@
     },
     "eeg_qc_task-FACE_FACE_Inv": {
         "name": "eeg_qc_task-FACE_FACE_Inv",
-        "Description": "The number of FACE_Inv epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of FACE_Inv epochs retained after epoch-level artifact rejection. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -194,7 +194,7 @@
     },
     "eeg_qc_task-FACE_FACE_Obj": {
         "name": "eeg_qc_task-FACE_FACE_Obj",
-        "Description": "The number of FACE_Obj epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of FACE_Obj epochs retained after epoch-level artifact rejection. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -223,7 +223,7 @@
     },
     "eeg_qc_task-FACE_FACE_UpObj": {
         "name": "eeg_qc_task-FACE_FACE_UpObj",
-        "Description": "The number of FACE_UpObj epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of FACE_UpObj epochs retained after epoch-level artifact rejection. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -252,7 +252,7 @@
     },
     "eeg_qc_task-FACE_stimtracker_artifact": {
         "name": "eeg_qc_task-FACE_stimtracker_artifact",
-        "Description": "Has any stimtracker artifact been detected?",
+        "Description": "Has any stimtracker artifact been detected? (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -286,7 +286,7 @@
     },
     "eeg_qc_task-FACE_technical_issues": {
         "name": "eeg_qc_task-FACE_technical_issues",
-        "Description": "Has any technical issue been identified?",
+        "Description": "Has any technical issue been identified? (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -320,7 +320,7 @@
     },
     "eeg_qc_task-FACE_technical_issues_notes": {
         "name": "eeg_qc_task-FACE_technical_issues_notes",
-        "Description": "Details about identified technical issues, if any.",
+        "Description": "Details about identified technical issues, if any. (Quality Control - FACE)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",

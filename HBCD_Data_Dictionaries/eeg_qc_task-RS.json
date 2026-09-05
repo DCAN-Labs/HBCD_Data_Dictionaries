@@ -67,7 +67,7 @@
     },
     "eeg_qc_task-RS_qc_pass_fail": {
         "name": "eeg_qc_task-RS_qc_pass_fail",
-        "Description": "Overall pass/fail rating for the acquisiton.",
+        "Description": "Overall pass/fail rating for the acquisiton. (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -101,7 +101,7 @@
     },
     "eeg_qc_task-RS_capping_quality": {
         "name": "eeg_qc_task-RS_capping_quality",
-        "Description": "Capping quality rating for the acquisiton.",
+        "Description": "Capping quality rating for the acquisiton. (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -136,7 +136,7 @@
     },
     "eeg_qc_task-RS_total_epochs_post_artifact_rej": {
         "name": "eeg_qc_task-RS_total_epochs_post_artifact_rej",
-        "Description": "The number of Resting State epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of Resting State epochs retained after epoch-level artifact rejection. (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -165,7 +165,7 @@
     },
     "eeg_qc_task-RS_stimtracker_artifact": {
         "name": "eeg_qc_task-RS_stimtracker_artifact",
-        "Description": "Has any stimtracker artifact been detected?",
+        "Description": "Has any stimtracker artifact been detected? (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -199,7 +199,7 @@
     },
     "eeg_qc_task-RS_technical_issues": {
         "name": "eeg_qc_task-RS_technical_issues",
-        "Description": "Has any technical issue been identified?",
+        "Description": "Has any technical issue been identified? (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -233,7 +233,7 @@
     },
     "eeg_qc_task-RS_technical_issues_notes": {
         "name": "eeg_qc_task-RS_technical_issues_notes",
-        "Description": "Details about identified technical issues, if any.",
+        "Description": "Details about identified technical issues, if any. (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
