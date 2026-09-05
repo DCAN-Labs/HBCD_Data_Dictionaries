@@ -966,7 +966,7 @@
     },
     "img_qsiprep_space-ACPC_desc-image_qc_max_rel_translation": {
         "name": "img_qsiprep_space-ACPC_desc-image_qc_max_rel_translation",
-        "Description": "Maximum translation from head motion",
+        "Description": "Maximum relative translation from head motion",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
