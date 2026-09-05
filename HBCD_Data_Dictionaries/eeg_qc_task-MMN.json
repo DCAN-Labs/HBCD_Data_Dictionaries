@@ -67,7 +67,7 @@
     },
     "eeg_qc_task-MMN_qc_pass_fail": {
         "name": "eeg_qc_task-MMN_qc_pass_fail",
-        "Description": "Overall pass/fail rating for the acquisiton.",
+        "Description": "Overall pass/fail rating for the acquisiton. (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -101,7 +101,7 @@
     },
     "eeg_qc_task-MMN_capping_quality": {
         "name": "eeg_qc_task-MMN_capping_quality",
-        "Description": "Capping quality rating for the acquisiton.",
+        "Description": "Capping quality rating for the acquisiton. (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -136,7 +136,7 @@
     },
     "eeg_qc_task-MMN_MMN_Standard": {
         "name": "eeg_qc_task-MMN_MMN_Standard",
-        "Description": "The number of MMN_Standard epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of MMN_Standard epochs retained after epoch-level artifact rejection. (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -165,7 +165,7 @@
     },
     "eeg_qc_task-MMN_MMN_PreDev": {
         "name": "eeg_qc_task-MMN_MMN_PreDev",
-        "Description": "The number of MMN_PreDev epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of MMN_PreDev epochs retained after epoch-level artifact rejection. (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -194,7 +194,7 @@
     },
     "eeg_qc_task-MMN_MMN_Dev": {
         "name": "eeg_qc_task-MMN_MMN_Dev",
-        "Description": "The number of MMN_Dev epochs retained after epoch-level artifact rejection.",
+        "Description": "The number of MMN_Dev epochs retained after epoch-level artifact rejection. (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -223,7 +223,7 @@
     },
     "eeg_qc_task-MMN_stimtracker_artifact": {
         "name": "eeg_qc_task-MMN_stimtracker_artifact",
-        "Description": "Has any stimtracker artifact been detected?",
+        "Description": "Has any stimtracker artifact been detected? (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -257,7 +257,7 @@
     },
     "eeg_qc_task-MMN_technical_issues": {
         "name": "eeg_qc_task-MMN_technical_issues",
-        "Description": "Has any technical issue been identified?",
+        "Description": "Has any technical issue been identified? (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -291,7 +291,7 @@
     },
     "eeg_qc_task-MMN_technical_issues_notes": {
         "name": "eeg_qc_task-MMN_technical_issues_notes",
-        "Description": "Details about identified technical issues, if any.",
+        "Description": "Details about identified technical issues, if any. (Quality Control - MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
