@@ -68,7 +68,7 @@
     },
     "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_summary_QC": {
         "name": "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_summary_QC",
-        "Description": "Summary QC score for functional registration to T2w: average of scores across all T2w visual reports (columns ending with *_mean) where a score of 0=Fail and 1=Pass",
+        "Description": "Summary QC score for functional registration to T2w: average of scores across all T2w visual reports (columns ending with *_mean) where a score of 0=Fail and 1=Pass (XCP-D - BOLD)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "percentage",
@@ -97,7 +97,7 @@
     },
     "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_summary_nrev": {
         "name": "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_summary_nrev",
-        "Description": "Average number of reviewers across all T2w visual reports (T2w columns ending with *_nrev)",
+        "Description": "Average number of reviewers across all T2w visual reports (T2w columns ending with *_nrev) (XCP-D - BOLD)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -126,7 +126,7 @@
     },
     "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_T2wOnTask_mean": {
         "name": "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_T2wOnTask_mean",
-        "Description": "Mean QC score for functional registration (overlay of subject's T2w onto BOLD). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
+        "Description": "Mean QC score for functional registration (overlay of subject's T2w onto BOLD). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed) (XCP-D - BOLD)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "percentage",
@@ -155,7 +155,7 @@
     },
     "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_T2wOnTask_nrev": {
         "name": "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_T2wOnTask_nrev",
-        "Description": "Number of reviewers for functional registration (overlay of subject's T2w onto BOLD)",
+        "Description": "Number of reviewers for functional registration (overlay of subject's T2w onto BOLD) (XCP-D - BOLD)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -184,7 +184,7 @@
     },
     "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_TaskOnT2w_mean": {
         "name": "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_TaskOnT2w_mean",
-        "Description": "Mean QC score for functional registration (overlay of subject's BOLD onto T2w). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed)",
+        "Description": "Mean QC score for functional registration (overlay of subject's BOLD onto T2w). Derived from average scores of 0 (Fail) and 1 (Pass) (or NA if QC was not performed) (XCP-D - BOLD)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "percentage",
@@ -213,7 +213,7 @@
     },
     "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_TaskOnT2w_nrev": {
         "name": "img_brainswipes_xcpd_hash-0f306a2f+0ef9c88a_bold_TaskOnT2w_nrev",
-        "Description": "Number of reviewers for functional registration (overlay of subject's BOLD onto T2w)",
+        "Description": "Number of reviewers for functional registration (overlay of subject's BOLD onto T2w) (XCP-D - BOLD)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
