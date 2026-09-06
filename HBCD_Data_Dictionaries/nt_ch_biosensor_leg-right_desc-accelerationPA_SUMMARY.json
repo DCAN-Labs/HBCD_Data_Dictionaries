@@ -174,7 +174,7 @@
     },
     "nt_ch_biosensor_leg-right_desc-accelerationPA_SUMMARY_Counts_MV": {
         "name": "nt_ch_biosensor_leg-right_desc-accelerationPA_SUMMARY_Counts_MV",
-        "Description": "Number of samples classified into the moderate-to-vigorous (MV) physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the left-leg sensor data (accelerationPA)",
+        "Description": "Number of samples classified into the moderate-to-vigorous (MV) physical activity intensity level using the area-under-the-acceleration-time-curve method applied to the right-leg sensor data (accelerationPA)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
