@@ -95,8 +95,7 @@
         "order_sort": "3",
         "Levels": {
             "0": "Pass",
-            "1": "Fail",
-            "2": "Unknown"
+            "1": "Fail"
         }
     },
     "eeg_qc_task-MMN_capping_quality": {
@@ -130,8 +129,7 @@
         "Levels": {
             "0": "Excellent",
             "1": "Average",
-            "2": "Poor",
-            "3": "Unknown"
+            "2": "Poor"
         }
     },
     "eeg_qc_task-MMN_MMN_Standard": {
@@ -251,8 +249,7 @@
         "order_sort": "8",
         "Levels": {
             "0": "Yes",
-            "1": "No",
-            "2": "Unknown"
+            "1": "No"
         }
     },
     "eeg_qc_task-MMN_technical_issues": {
@@ -285,8 +282,7 @@
         "order_sort": "9",
         "Levels": {
             "0": "Yes",
-            "1": "No",
-            "2": "Unknown"
+            "1": "No"
         }
     },
     "eeg_qc_task-MMN_technical_issues_notes": {

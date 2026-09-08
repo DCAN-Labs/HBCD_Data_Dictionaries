@@ -95,8 +95,7 @@
         "order_sort": "3",
         "Levels": {
             "0": "Pass",
-            "1": "Fail",
-            "2": "Unknown"
+            "1": "Fail"
         }
     },
     "eeg_qc_task-RS_capping_quality": {
@@ -130,8 +129,7 @@
         "Levels": {
             "0": "Excellent",
             "1": "Average",
-            "2": "Poor",
-            "3": "Unknown"
+            "2": "Poor"
         }
     },
     "eeg_qc_task-RS_total_epochs_post_artifact_rej": {
@@ -193,8 +191,7 @@
         "order_sort": "6",
         "Levels": {
             "0": "Yes",
-            "1": "No",
-            "2": "Unknown"
+            "1": "No"
         }
     },
     "eeg_qc_task-RS_technical_issues": {
@@ -227,8 +224,7 @@
         "order_sort": "7",
         "Levels": {
             "0": "Yes",
-            "1": "No",
-            "2": "Unknown"
+            "1": "No"
         }
     },
     "eeg_qc_task-RS_technical_issues_notes": {
