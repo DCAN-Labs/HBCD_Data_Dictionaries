@@ -67,7 +67,7 @@
     },
     "eeg_qc_task-RS_qc_pass_fail": {
         "name": "eeg_qc_task-RS_qc_pass_fail",
-        "Description": "Overall pass/fail rating for the acquisiton. (Quality Control - RS)",
+        "Description": "Overall pass/fail rating for the acquisition. (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -100,7 +100,7 @@
     },
     "eeg_qc_task-RS_capping_quality": {
         "name": "eeg_qc_task-RS_capping_quality",
-        "Description": "Capping quality rating for the acquisiton. (Quality Control - RS)",
+        "Description": "Capping quality rating for the acquisition. (Quality Control - RS)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -129,7 +129,10 @@
         "Levels": {
             "0": "Excellent",
             "1": "Average",
-            "2": "Poor"
+            "2": "Poor",
+            "3": "Very Poor",
+            "4": "Blurry",
+            "5": "Net Placement Image Not Available"
         }
     },
     "eeg_qc_task-RS_total_epochs_post_artifact_rej": {
