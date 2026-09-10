@@ -355,8 +355,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "12"
     },
-    "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UpInv": {
-        "name": "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UpInv",
+    "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UprightInv": {
+        "name": "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UprightInv",
         "Description": "face stimuli in block 1 (upright faces vs inverted faces) (task-FACE)",
         "instruction": "n/a",
         "header": "n/a",
@@ -442,8 +442,8 @@
         "identifier_columns": "participant_id | session_id | run_id",
         "order_sort": "15"
     },
-    "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UpObj": {
-        "name": "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UpObj",
+    "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UprightObj": {
+        "name": "eeg_made_task-FACE_acq-eeg_preprocessingReport_FACE_UprightObj",
         "Description": "FACE task, upright face stimuli in block 2 (upright faces vs objects) (task-FACE)",
         "instruction": "n/a",
         "header": "n/a",
