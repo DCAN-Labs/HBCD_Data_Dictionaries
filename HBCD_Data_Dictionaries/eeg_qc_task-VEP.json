@@ -135,35 +135,6 @@
             "5": "Net Placement Image Not Available"
         }
     },
-    "eeg_qc_task-VEP_total_epochs_post_artifact_rej": {
-        "name": "eeg_qc_task-VEP_total_epochs_post_artifact_rej",
-        "Description": "The number of VEP epochs retained after epoch-level artifact rejection. (Quality Control - VEP)",
-        "instruction": "n/a",
-        "header": "n/a",
-        "Units": "n/a",
-        "note": "n/a",
-        "table_name": "eeg_qc_task-VEP",
-        "table_label": "Quality Control - VEP",
-        "order_display": "n/a",
-        "domain": "Tabular EEG",
-        "sub_domain": "Quality Control",
-        "metric": "Visual Evoked Potential ",
-        "atlas": "n/a",
-        "study": "Core",
-        "type_field": "numeric",
-        "type_level": "interval",
-        "type_var": "administrative",
-        "type_data": "integer",
-        "source": "Child",
-        "branching_logic": "n/a",
-        "url_table": "n/a",
-        "url_warn_use": "n/a",
-        "url_warn_data": "n/a",
-        "url_table_warn_use": "n/a",
-        "url_table_warn_data": "n/a",
-        "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "5"
-    },
     "eeg_qc_task-VEP_stimtracker_artifact": {
         "name": "eeg_qc_task-VEP_stimtracker_artifact",
         "Description": "Has any stimtracker artifact been detected? (Quality Control - VEP)",
@@ -191,7 +162,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "6",
+        "order_sort": "5",
         "Levels": {
             "0": "Yes",
             "1": "No"
@@ -224,7 +195,7 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "7",
+        "order_sort": "6",
         "Levels": {
             "0": "Yes",
             "1": "No"
@@ -257,6 +228,6 @@
         "url_table_warn_use": "n/a",
         "url_table_warn_data": "n/a",
         "identifier_columns": "participant_id | session_id | run_id",
-        "order_sort": "8"
+        "order_sort": "7"
     }
 }
