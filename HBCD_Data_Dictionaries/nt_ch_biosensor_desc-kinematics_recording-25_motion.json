@@ -75,7 +75,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_positive_threshold": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_positive_threshold",
-        "Description": "A positive acceleration magnitude threshold to identify left leg movements",
+        "Description": "A positive acceleration magnitude threshold to identify left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -108,7 +108,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_positive_threshold": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_positive_threshold",
-        "Description": "A positive acceleration magnitude threshold to identify right leg movements",
+        "Description": "A positive acceleration magnitude threshold to identify right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -141,7 +141,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_negative_threshold": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_negative_threshold",
-        "Description": "A negative acceleration magnitude threshold to identify left leg movements",
+        "Description": "A negative acceleration magnitude threshold to identify left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -174,7 +174,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_negative_threshold": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_negative_threshold",
-        "Description": "A negative acceleration magnitude threshold to identify right leg movements",
+        "Description": "A negative acceleration magnitude threshold to identify right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -207,7 +207,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_total_count": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_total_count",
-        "Description": "Total left leg movement count",
+        "Description": "Total left leg movement count (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -240,7 +240,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_total_count": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_total_count",
-        "Description": "Total right leg movement count",
+        "Description": "Total right leg movement count (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -273,7 +273,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_movement_rate": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_movement_rate",
-        "Description": "Left leg movement rate per hour awake",
+        "Description": "Left leg movement rate per hour awake (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -306,7 +306,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_movement_rate": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_movement_rate",
-        "Description": "Right leg movement rate per hour awake",
+        "Description": "Right leg movement rate per hour awake (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -339,7 +339,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_sleep_time": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_sleep_time",
-        "Description": "Time estimated to be asleep from the left leg movement data",
+        "Description": "Time estimated to be asleep from the left leg movement data (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -372,7 +372,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_sleep_time": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_sleep_time",
-        "Description": "Time estimated to be asleep from the right leg movement data",
+        "Description": "Time estimated to be asleep from the right leg movement data (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -405,7 +405,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_average_acc_median": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_average_acc_median",
-        "Description": "Median of average accelerations during left leg movements",
+        "Description": "Median of average accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -438,7 +438,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_average_acc_iqr": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_average_acc_iqr",
-        "Description": "Interquartile range of average accelerations during left leg movements",
+        "Description": "Interquartile range of average accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -471,7 +471,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_peak_acc_median": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_peak_acc_median",
-        "Description": "Median of peak accelerations during left leg movements",
+        "Description": "Median of peak accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -504,7 +504,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_peak_acc_iqr": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_peak_acc_iqr",
-        "Description": "Interquartile range of peak accelerations during left leg movements",
+        "Description": "Interquartile range of peak accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -537,7 +537,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_movement_duration_median": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_movement_duration_median",
-        "Description": "Median of left leg movement durations",
+        "Description": "Median of left leg movement durations (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -570,7 +570,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_movement_duration_iqr": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Left_movement_duration_iqr",
-        "Description": "Interquartile range of left leg movement durations",
+        "Description": "Interquartile range of left leg movement durations (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -603,7 +603,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_average_acc_median": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_average_acc_median",
-        "Description": "Median of average accelerations during right leg movements",
+        "Description": "Median of average accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -636,7 +636,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_average_acc_iqr": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_average_acc_iqr",
-        "Description": "Interquartile range of average accelerations during right leg movements",
+        "Description": "Interquartile range of average accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -669,7 +669,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_peak_acc_median": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_peak_acc_median",
-        "Description": "Median of peak accelerations during right leg movements",
+        "Description": "Median of peak accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -702,7 +702,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_peak_acc_iqr": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_peak_acc_iqr",
-        "Description": "Interquartile range of peak accelerations during right leg movements",
+        "Description": "Interquartile range of peak accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -735,7 +735,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_movement_duration_median": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_movement_duration_median",
-        "Description": "Median of right leg movement durations",
+        "Description": "Median of right leg movement durations (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -768,7 +768,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_movement_duration_iqr": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_Right_movement_duration_iqr",
-        "Description": "Interquartile range of right leg movement durations",
+        "Description": "Interquartile range of right leg movement durations (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -801,7 +801,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_average_acc_SampEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_average_acc_SampEn",
-        "Description": "Sample entropy of average accelerations during left leg movements",
+        "Description": "Sample entropy of average accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -834,7 +834,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_average_acc_FuzzEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_average_acc_FuzzEn",
-        "Description": "Fuzzy entropy of average accelerations during left leg movements",
+        "Description": "Fuzzy entropy of average accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -867,7 +867,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_peak_acc_SampEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_peak_acc_SampEn",
-        "Description": "Sample entropy of peak accelerations during left leg movements",
+        "Description": "Sample entropy of peak accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -900,7 +900,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_peak_acc_FuzzEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Left_peak_acc_FuzzEn",
-        "Description": "Fuzzy entropy of peak accelerations during left leg movements",
+        "Description": "Fuzzy entropy of peak accelerations during left leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -933,7 +933,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_average_acc_SampEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_average_acc_SampEn",
-        "Description": "Sample entropy of average accelerations during right leg movements",
+        "Description": "Sample entropy of average accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -966,7 +966,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_average_acc_FuzzEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_average_acc_FuzzEn",
-        "Description": "Fuzzy entropy of average accelerations during right leg movements",
+        "Description": "Fuzzy entropy of average accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -999,7 +999,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_peak_Acc_SampEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_peak_Acc_SampEn",
-        "Description": "Sample entropy of peak accelerations during right leg movements",
+        "Description": "Sample entropy of peak accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
@@ -1032,7 +1032,7 @@
     },
     "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_peak_Acc_FuzzEn": {
         "name": "nt_ch_biosensor_desc-kinematics_recording-25_motion_entropies_Right_peak_Acc_FuzzEn",
-        "Description": "Fuzzy entropy of peak accelerations during right leg movements",
+        "Description": "Fuzzy entropy of peak accelerations during right leg movements (Kinematics-25Hz)",
         "instruction": "n/a",
         "domain": "Novel Tech",
         "sub_domain": "Biosensor",
