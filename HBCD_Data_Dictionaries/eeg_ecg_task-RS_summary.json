@@ -142,8 +142,7 @@
             "0": "E125",
             "1": "E126",
             "2": "E127",
-            "3": "E128",
-            "4": "none"
+            "3": "E128"
         }
     },
     "eeg_ecg_task-RS_summary_sampling_rate_hz": {
