@@ -1,8 +1,8 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "TODO",
+        "Description": "QSIRECON-DIPYDKI DKI Radial Diffusivity",
         "TermURL": "https://qsirecon.readthedocs.io/en/latest/",
-        "Name": "TODO",
+        "Name": "QSIRECON-DIPYDKI DKI Radial Diffusivity",
         "Category": [
             "Diffusion MRI"
         ]
