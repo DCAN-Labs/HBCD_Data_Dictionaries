@@ -1,8 +1,8 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "TODO",
+        "Description": "QSIRECON-TORTOISE-model-tensor Fractional Anisotropy",
         "TermURL": "https://qsirecon.readthedocs.io/en/latest/",
-        "Name": "TODO",
+        "Name": "QSIRECON-TORTOISE-model-tensor Fractional Anisotropy",
         "Category": [
             "Diffusion MRI"
         ]

@@ -1,8 +1,8 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "TODO",
+        "Description": "QSIRECON-DSIStudio Mean Diffusivity",
         "TermURL": "https://qsirecon.readthedocs.io/en/latest/",
-        "Name": "TODO",
+        "Name": "QSIRECON-DSIStudio Mean Diffusivity",
         "Category": [
             "Diffusion MRI"
         ]

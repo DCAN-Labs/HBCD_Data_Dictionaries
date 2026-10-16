@@ -1,8 +1,8 @@
 {
     "MeasurementToolMetadata": {
-        "Description": "TODO",
+        "Description": "QSIRECON-TORTOISE-model-MAPMRI Return-to-Origin Probability",
         "TermURL": "https://qsirecon.readthedocs.io/en/latest/",
-        "Name": "TODO",
+        "Name": "QSIRECON-TORTOISE-model-MAPMRI Return-to-Origin Probability",
         "Category": [
             "Diffusion MRI"
         ]
