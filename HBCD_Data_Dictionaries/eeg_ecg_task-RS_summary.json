@@ -139,10 +139,10 @@
         "identifier_columns": "participant_id | session_id",
         "order_sort": 4,
         "Levels": {
-            "0": "E125",
-            "1": "E126",
-            "2": "E127",
-            "3": "E128"
+            "E125": "E125",
+            "E126": "E126",
+            "E127": "E127",
+            "E128": "E128"
         }
     },
     "eeg_ecg_task-RS_summary_sampling_rate_hz": {
