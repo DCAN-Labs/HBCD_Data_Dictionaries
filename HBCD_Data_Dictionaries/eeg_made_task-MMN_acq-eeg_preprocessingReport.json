@@ -560,7 +560,7 @@
     },
     "eeg_made_task-MMN_acq-eeg_preprocessingReport_StimTracker_Deviation": {
         "name": "eeg_made_task-MMN_acq-eeg_preprocessingReport_StimTracker_Deviation",
-        "Description": "Was the stimtracker turned on/off appropriately?",
+        "Description": "Was the stimtracker turned on/off appropriately? (task-MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -593,7 +593,7 @@
     },
     "eeg_made_task-MMN_acq-eeg_preprocessingReport_Stimtracker_Artifact_present": {
         "name": "eeg_made_task-MMN_acq-eeg_preprocessingReport_Stimtracker_Artifact_present",
-        "Description": "Did MADE detect the stimtracker artifact?",
+        "Description": "Did MADE detect the stimtracker artifact? (task-MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -626,7 +626,7 @@
     },
     "eeg_made_task-MMN_acq-eeg_preprocessingReport_Stimtracker_Artifact_fixed": {
         "name": "eeg_made_task-MMN_acq-eeg_preprocessingReport_Stimtracker_Artifact_fixed",
-        "Description": "Did MADE use linear interpolation on the file?",
+        "Description": "Did MADE use linear interpolation on the file? (task-MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -659,7 +659,7 @@
     },
     "eeg_made_task-MMN_acq-eeg_preprocessingReport_Uniform_detected": {
         "name": "eeg_made_task-MMN_acq-eeg_preprocessingReport_Uniform_detected",
-        "Description": "Did MADE detect uniformity?",
+        "Description": "Did MADE detect uniformity? (task-MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "n/a",
@@ -692,7 +692,7 @@
     },
     "eeg_made_task-MMN_acq-eeg_preprocessingReport_Uniform_time": {
         "name": "eeg_made_task-MMN_acq-eeg_preprocessingReport_Uniform_time",
-        "Description": "Seconds of the file affected by uniformity",
+        "Description": "Seconds of the file affected by uniformity (task-MMN)",
         "instruction": "n/a",
         "header": "n/a",
         "Units": "seconds",
